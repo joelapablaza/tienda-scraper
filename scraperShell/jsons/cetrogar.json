@@ -1,0 +1,4605 @@
+{
+  "productos": 460,
+  "products": [
+    {
+      "titulo": "Cortadora de pasto MAX 2 en 1 Petri",
+      "precio": 159219,
+      "precioAnterior": 167599,
+      "link": "https://www.cetrogar.com.ar/cortadora-de-pasto-max-2-en-1-petri.html",
+      "categoria": "herramientas",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 26536.5
+    },
+    {
+      "titulo": "Cortacerco inálambrico DAHT2000Li Daewoo",
+      "precio": 38949,
+      "precioAnterior": 40999,
+      "link": "https://www.cetrogar.com.ar/cortacerco-inalambrico-daht2000li-daewoo.html",
+      "categoria": "herramientas",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 6491.5
+    },
+    {
+      "titulo": "Cortadora de pasto Americana 2.9HP Petri",
+      "precio": 125779,
+      "precioAnterior": 132399,
+      "link": "https://www.cetrogar.com.ar/cortadora-de-pasto-americana-2-9hp-petri.html",
+      "categoria": "herramientas",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 20963.17
+    },
+    {
+      "titulo": "Cortadora de pasto  G4943AR Gamma",
+      "precio": 67499,
+      "precioAnterior": 72699,
+      "link": "https://www.cetrogar.com.ar/cortadora-de-pasto-g4943ar-gamma.html",
+      "categoria": "herramientas",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 11249.83
+    },
+    {
+      "titulo": "Cortadora de pasto MAX 2 en 1 1HP Petri",
+      "precio": 127579,
+      "precioAnterior": 134299,
+      "link": "https://www.cetrogar.com.ar/cortadora-de-pasto-max-2-en-1-1hp-petri.html",
+      "categoria": "herramientas",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 21263.17
+    },
+    {
+      "titulo": "Electrobomba Gamma Periferica QB60 1/2 hp",
+      "precio": 23369,
+      "precioAnterior": 24599,
+      "link": "https://www.cetrogar.com.ar/electrobomba-gamma-periferica-qb60-1-2-hp.html",
+      "categoria": "herramientas",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 3894.83
+    },
+    {
+      "titulo": "Cortacerco doble SLP600S 1HP Petri",
+      "precio": 59999,
+      "precioAnterior": 64899,
+      "link": "https://www.cetrogar.com.ar/cortacerco-doble-slp600s-1hp-petri.html",
+      "categoria": "herramientas",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 9999.83
+    },
+    {
+      "titulo": "Cortadora de pasto Max chico 3/4 HP Petri",
+      "precio": 110009,
+      "precioAnterior": 115799,
+      "link": "https://www.cetrogar.com.ar/cortadora-de-pasto-max-chico-3-4-hp-petri.html",
+      "categoria": "herramientas",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 18334.83
+    },
+    {
+      "titulo": "Cortadora de pasto Jet 3/4 HP ABS Petri",
+      "precio": 96699,
+      "precioAnterior": 103999,
+      "link": "https://www.cetrogar.com.ar/cortadora-de-pasto-jet-3-4-hp-abs-petri.html",
+      "categoria": "herramientas",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 16116.5
+    },
+    {
+      "titulo": "Set de accesorios de mini torno para cortar 11 piezas Dremel",
+      "precio": 9209,
+      "precioAnterior": 9699,
+      "link": "https://www.cetrogar.com.ar/set-de-accesorios-de-mini-torno-para-cortar-11-piezas-dremel.html",
+      "categoria": "herramientas",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 1534.83
+    },
+    {
+      "titulo": "Combo bordeadora DAGT2000Li + cortacerco DAHT2000Li Daewoo",
+      "precio": 59659,
+      "precioAnterior": 62799,
+      "link": "https://www.cetrogar.com.ar/combo-bordeadora-dagt2000li-cortacerco-daht2000li-daewoo.html",
+      "categoria": "herramientas",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 9943.17
+    },
+    {
+      "titulo": "Soldadora inverter ARC 200 G3470ARA Gamma",
+      "precio": 62499,
+      "precioAnterior": 66999,
+      "link": "https://www.cetrogar.com.ar/soldadora-inverter-arc-200-g3470ara-gamma.html",
+      "categoria": "herramientas",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 10416.5
+    },
+    {
+      "titulo": "Desmalezadora Gamma G1835",
+      "precio": 68109,
+      "precioAnterior": 71699,
+      "link": "https://www.cetrogar.com.ar/desmalezadora-gamma-g1835.html",
+      "categoria": "herramientas",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 11351.5
+    },
+    {
+      "titulo": "Taladro 500W TP501P Philco",
+      "precio": 11299,
+      "precioAnterior": 12899,
+      "link": "https://www.cetrogar.com.ar/taladro-500w-tp501p-philco.html",
+      "categoria": "herramientas",
+      "interes": "sin interés",
+      "cuotas": 3,
+      "valorCuotas": 3766.33
+    },
+    {
+      "titulo": "Motosierra Daewoo 45 cc 16\" DCS4516",
+      "precio": 48999,
+      "precioAnterior": 52699,
+      "link": "https://www.cetrogar.com.ar/motosierra-daewoo-45-cc-16-dcs4516.html",
+      "categoria": "herramientas",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 8166.5
+    },
+    {
+      "titulo": "Motosierra Daewoo 25.4 cc 12\" DCS2512",
+      "precio": 40999,
+      "precioAnterior": 45899,
+      "link": "https://www.cetrogar.com.ar/motosierra-daewoo-25-4-cc-12-dcs2512.html",
+      "categoria": "herramientas",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 6833.17
+    },
+    {
+      "titulo": "Pistola de Calor Gamma G1935KAR",
+      "precio": 12349,
+      "precioAnterior": 12999,
+      "link": "https://www.cetrogar.com.ar/pistola-de-calor-gamma-g1935kar.html",
+      "categoria": "herramientas",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 2058.17
+    },
+    {
+      "titulo": "Hidrolavadora Gamma 100 Blue Line 1200W - G2508AR",
+      "precio": 24999,
+      "precioAnterior": 28999,
+      "link": "https://www.cetrogar.com.ar/hidrolavadora-gamma-100-blue-line-1200w-g2508ar.html",
+      "categoria": "herramientas",
+      "interes": "sin interés",
+      "cuotas": 3,
+      "valorCuotas": 8333
+    },
+    {
+      "titulo": "Amoladora Black & Decker 4\"1/2 820w G-720N-AR",
+      "precio": 9999,
+      "precioAnterior": 15999,
+      "link": "https://www.cetrogar.com.ar/amoladora-black-decker-4-1-2-820w-g-720n-ar.html",
+      "categoria": "herramientas",
+      "interes": "sin interés",
+      "cuotas": 3,
+      "valorCuotas": 3333
+    },
+    {
+      "titulo": "Bordeadora MJPBO116P Philco",
+      "precio": 11599,
+      "precioAnterior": 13399,
+      "link": "https://www.cetrogar.com.ar/bordeadora-inalambrica-mjpbo116p-philco.html",
+      "categoria": "herramientas",
+      "interes": "sin interés",
+      "cuotas": 3,
+      "valorCuotas": 3866.33
+    },
+    {
+      "titulo": "Bordeadora inalámbrica de litio DAGT2000Li Daewoo",
+      "precio": 44199,
+      "precioAnterior": 47999,
+      "link": "https://www.cetrogar.com.ar/bordeadora-inalambrica-de-litio-dagt2000li-daewoo.html",
+      "categoria": "herramientas",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 7366.5
+    },
+    {
+      "titulo": "Bordeadora Gamma G3081AR 1000W",
+      "precio": 40279,
+      "precioAnterior": 42399,
+      "link": "https://www.cetrogar.com.ar/bordeadora-gamma-g3081ar-1000w.html",
+      "categoria": "herramientas",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 6713.17
+    },
+    {
+      "titulo": "Combo bordeadora DAGT2000Li + sopladora DAB2000Li Daewoo",
+      "precio": 49209,
+      "precioAnterior": 51799,
+      "link": "https://www.cetrogar.com.ar/combo-bordeadora-dagt2000li-sopladora-dab2000li-daewoo.html",
+      "categoria": "herramientas",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 8201.5
+    },
+    {
+      "titulo": "Desmalezadora Daewoo 52cc D52ECO",
+      "precio": 54999,
+      "precioAnterior": 59999,
+      "link": "https://www.cetrogar.com.ar/desmalezadora-daewoo-52cc-d52eco.html",
+      "categoria": "herramientas",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 9166.5
+    },
+    {
+      "titulo": "Mate Mug Professional Violeta Outdoors",
+      "precio": 8829,
+      "precioAnterior": 9299,
+      "link": "https://www.cetrogar.com.ar/mate-mug-professional-violeta-outdoors.html",
+      "categoria": "jardin",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 1471.5
+    },
+    {
+      "titulo": "Mate Mug Professional Verde Outdoors",
+      "precio": 8399,
+      "precioAnterior": 9299,
+      "link": "https://www.cetrogar.com.ar/mate-mug-professional-verde-outdoors.html",
+      "categoria": "jardin",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 1399.83
+    },
+    {
+      "titulo": "Mate Mug Professional Plateado Outdoors",
+      "precio": 8829,
+      "precioAnterior": 9299,
+      "link": "https://www.cetrogar.com.ar/mate-mug-professional-plateado-outdoors.html",
+      "categoria": "jardin",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 1471.5
+    },
+    {
+      "titulo": "Mate Mug Professional Negro Outdoors",
+      "precio": 8399,
+      "precioAnterior": 9299,
+      "link": "https://www.cetrogar.com.ar/mate-mug-professional-negro-outdoors.html",
+      "categoria": "jardin",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 1399.83
+    },
+    {
+      "titulo": "Mate Mug Professional Gris Outdoors",
+      "precio": 8829,
+      "precioAnterior": 9299,
+      "link": "https://www.cetrogar.com.ar/mate-mug-professional-gris-outdoors.html",
+      "categoria": "jardin",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 1471.5
+    },
+    {
+      "titulo": "Mate Mug Professional Blanco Outdoors",
+      "precio": 8399,
+      "precioAnterior": 9299,
+      "link": "https://www.cetrogar.com.ar/mate-mug-professional-blanco-outdoors.html",
+      "categoria": "jardin",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 1399.83
+    },
+    {
+      "titulo": "Cobertor Para Pileta Intex para modelo 305 28021",
+      "precio": 8639,
+      "precioAnterior": 9099,
+      "link": "https://www.cetrogar.com.ar/cobertor-para-pileta-intex-para-modelo-305-28021.html",
+      "categoria": "jardin",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 1439.83
+    },
+    {
+      "titulo": "Jarra Chop Beer Professional Verde Outdoors",
+      "precio": 17859,
+      "precioAnterior": 18799,
+      "link": "https://www.cetrogar.com.ar/jarra-chop-beer-professional-verde-outdoors.html",
+      "categoria": "jardin",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 2976.5
+    },
+    {
+      "titulo": "Jarra Chop Beer Professional Negro Outdoors",
+      "precio": 16799,
+      "precioAnterior": 18799,
+      "link": "https://www.cetrogar.com.ar/jarra-chop-beer-professional-negro-outdoors.html",
+      "categoria": "jardin",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 2799.83
+    },
+    {
+      "titulo": "Vaso térmico Beer Pint Professional Green Outdoors",
+      "precio": 14909,
+      "precioAnterior": 15699,
+      "link": "https://www.cetrogar.com.ar/vaso-termico-beer-pint-professional-green-outdoors.html",
+      "categoria": "jardin",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 2484.83
+    },
+    {
+      "titulo": "Vaso térmico Beer Pint Professional Black Outdoors",
+      "precio": 14899,
+      "precioAnterior": 16599,
+      "link": "https://www.cetrogar.com.ar/vaso-termico-beer-pint-professional-black-outdoors.html",
+      "categoria": "jardin",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 2483.17
+    },
+    {
+      "titulo": "Carpa Broksol Praia Playera CARP-01NA",
+      "precio": 15099,
+      "precioAnterior": 15899,
+      "link": "https://www.cetrogar.com.ar/carpa-broksol-praia-playera-carp-01na.html",
+      "categoria": "jardin",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 2516.5
+    },
+    {
+      "titulo": "Parrilla a leña Hornero Tromen",
+      "precio": 72669,
+      "precioAnterior": 76499,
+      "link": "https://www.cetrogar.com.ar/parrilla-a-le-a-hornero-tromen.html",
+      "categoria": "jardin",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 12111.5
+    },
+    {
+      "titulo": "Carpa Broksol Player Aut Acqua CARP-04NA",
+      "precio": 30209,
+      "precioAnterior": 31799,
+      "link": "https://www.cetrogar.com.ar/carpa-broksol-player-aut-acqua-carp-04na.html",
+      "categoria": "jardin",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 5034.83
+    },
+    {
+      "titulo": "Carpa Broksol Águila Pro 4 Per CARP-44AZ",
+      "precio": 61839,
+      "precioAnterior": 65099,
+      "link": "https://www.cetrogar.com.ar/carpa-broksol-aguila-pro-4-per-carp-44az.html",
+      "categoria": "jardin",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 10306.5
+    },
+    {
+      "titulo": "Pileta estructural 56076 6473 lt Bestway",
+      "precio": 69349,
+      "precioAnterior": 72999,
+      "link": "https://www.cetrogar.com.ar/pileta-estructural-56076-6473-lt-bestway.html",
+      "categoria": "jardin",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 11558.17
+    },
+    {
+      "titulo": "Bolsa de Dormir Broksol Malva450 BOL04AZ",
+      "precio": 27069,
+      "precioAnterior": 28499,
+      "link": "https://www.cetrogar.com.ar/bolsa-de-dormir-broksol-malva450-bol04az.html",
+      "categoria": "jardin",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 4511.5
+    },
+    {
+      "titulo": "Bolsa de Dormir Broksol Nogal200 BOL01NA",
+      "precio": 16529,
+      "precioAnterior": 17399,
+      "link": "https://www.cetrogar.com.ar/bolsa-de-dormir-broksol-nogal200-bol01na.html",
+      "categoria": "jardin",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 2754.83
+    },
+    {
+      "titulo": "Bolsa de Dormir Broksol Alamo200 BOL06VE",
+      "precio": 13489,
+      "precioAnterior": 14199,
+      "link": "https://www.cetrogar.com.ar/bolsa-de-dormir-broksol-alamo200-bol06ve.html",
+      "categoria": "jardin",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 2248.17
+    },
+    {
+      "titulo": "Bolsa de Dormir Broksol Malva450 BOL04NA",
+      "precio": 25399,
+      "precioAnterior": 28499,
+      "link": "https://www.cetrogar.com.ar/bolsa-de-dormir-broksol-malva450-bol04na.html",
+      "categoria": "jardin",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 4233.17
+    },
+    {
+      "titulo": "Bolsa de Dormir Broksol Alamo200 BOL06AZ",
+      "precio": 13489,
+      "precioAnterior": 14199,
+      "link": "https://www.cetrogar.com.ar/bolsa-de-dormir-broksol-alamo200-bol06az.html",
+      "categoria": "jardin",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 2248.17
+    },
+    {
+      "titulo": "Bolsa de Dormir Broksol Olivo250 BOL02NA",
+      "precio": 17399,
+      "precioAnterior": 19499,
+      "link": "https://www.cetrogar.com.ar/bolsa-de-dormir-broksol-olivo250-bol02na.html",
+      "categoria": "jardin",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 2899.83
+    },
+    {
+      "titulo": "Pileta Tiburoncito N°8 Redonda",
+      "precio": 46549,
+      "precioAnterior": 48999,
+      "link": "https://www.cetrogar.com.ar/pileta-tiburoncito-n-8-redonda.html",
+      "categoria": "jardin",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 7758.17
+    },
+    {
+      "titulo": "Bolsa de Dormir Outdoors Mummy Rojo MU-300",
+      "precio": 13679,
+      "precioAnterior": 14399,
+      "link": "https://www.cetrogar.com.ar/bolsa-de-dormir-outdoors-mummy-rojo-mu-300.html",
+      "categoria": "jardin",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 2279.83
+    },
+    {
+      "titulo": "Horno Morelli SAHO H6 Inox Puerta ciega GE",
+      "precio": 106589,
+      "precioAnterior": 112199,
+      "link": "https://www.cetrogar.com.ar/horno-morelli-saho-h6-inox-puerta-ciega-ge.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 17764.83
+    },
+    {
+      "titulo": "Lavavajillas Sense Inverter Whirlpool WSF03T2X - 10 cubiertos Silver",
+      "precio": 339619,
+      "precioAnterior": 357499,
+      "link": "https://www.cetrogar.com.ar/lavavajillas-sense-inverter-whirlpool-wsf03t2x-10-cubiertos-silver.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 56603.17
+    },
+    {
+      "titulo": "Lavavajilla Whirlpool WLV14BY Inverter",
+      "precio": 369999,
+      "precioAnterior": 394699,
+      "link": "https://www.cetrogar.com.ar/lavavajilla-whirlpool-wlv14by-inverter.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 61666.5
+    },
+    {
+      "titulo": "Freezer vertical WVU27K2 231lt Whirlpool",
+      "precio": 332879,
+      "precioAnterior": 350399,
+      "link": "https://www.cetrogar.com.ar/freezer-vertical-wvu27k2-231lt-whirlpool.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 55479.83
+    },
+    {
+      "titulo": "Freezer vertical WVU27D2 231lt  Whirlpool",
+      "precio": 269999,
+      "precioAnterior": 335799,
+      "link": "https://www.cetrogar.com.ar/freezer-vertical-wvu27d2-231lt-whirlpool.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 44999.83
+    },
+    {
+      "titulo": "Lavasecarropas LG WD15EGS62 Inverter 15/8kg",
+      "precio": 543399,
+      "precioAnterior": 571999,
+      "link": "https://www.cetrogar.com.ar/lavasecarropas-lg-wd15egs62-inverter-15-8kg.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 90566.5
+    },
+    {
+      "titulo": "Estufa Garrafera MODDO EGM3800 K/C",
+      "precio": 54619,
+      "precioAnterior": 57499,
+      "link": "https://www.cetrogar.com.ar/estufa-garrafera-moddo-egm3800-k-c.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 9103.17
+    },
+    {
+      "titulo": "Estufa Garrafera Eskabe mini5 4300kcal",
+      "precio": 62999,
+      "precioAnterior": 71899,
+      "link": "https://www.cetrogar.com.ar/estufa-garrafera-eskabe-mini5-4300kcal.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 10499.83
+    },
+    {
+      "titulo": "Lavavajillas DE-214XAR1 14 cubiertos Midea",
+      "precio": 412959,
+      "precioAnterior": 434699,
+      "link": "https://www.cetrogar.com.ar/lavavajillas-de-214xar1-14-cubiertos-midea.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 68826.5
+    },
+    {
+      "titulo": "Termotanque Longvie Multigas Colgar 50 Litros inferior",
+      "precio": 122449,
+      "precioAnterior": 128899,
+      "link": "https://www.cetrogar.com.ar/termotanque-longvie-multigas-colgar-50-litros-inferior.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 20408.17
+    },
+    {
+      "titulo": "Exhibidora Vertical Briket Master 5000 501L",
+      "precio": 306089,
+      "precioAnterior": 322199,
+      "link": "https://www.cetrogar.com.ar/exhibidora-vertical-briket-master-5000.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 51014.83
+    },
+    {
+      "titulo": "Exhibidora Vertical Briket Master 3200 315L",
+      "precio": 215999,
+      "precioAnterior": 232699,
+      "link": "https://www.cetrogar.com.ar/exhibidora-vertical-briket-master-3200.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 35999.83
+    },
+    {
+      "titulo": "Freezer vertical KFVA25/8 250lt Kohinoor",
+      "precio": 249999,
+      "precioAnterior": 288799,
+      "link": "https://www.cetrogar.com.ar/freezer-vertical-kfva25-8-250lt-kohinoor.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 41666.5
+    },
+    {
+      "titulo": "Lavarropas WM13WGS6 13 kg 1000RPM Inverter LG",
+      "precio": 489999,
+      "precioAnterior": 559699,
+      "link": "https://www.cetrogar.com.ar/lavarropas-wm13wgs6-13-kg-1000rpm-inverter-lg.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 81666.5
+    },
+    {
+      "titulo": "Freezer FIH270 215lt Inverter Inelro",
+      "precio": 149999,
+      "precioAnterior": 172999,
+      "link": "https://www.cetrogar.com.ar/freezer-fih270-215lt-inverter-inelro.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 24999.83
+    },
+    {
+      "titulo": "Sandwichera Liliana MASTERTOST AS990 700W",
+      "precio": 14529,
+      "precioAnterior": 15299,
+      "link": "https://www.cetrogar.com.ar/sandwichera-liliana-mastertost-as990-700w.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 2421.5
+    },
+    {
+      "titulo": "Estufa Garrafera Daewo 3800 c/h DANY 113",
+      "precio": 54619,
+      "precioAnterior": 57499,
+      "link": "https://www.cetrogar.com.ar/estufa-garrafera-daewo-3800-c-h-dany-113.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 9103.17
+    },
+    {
+      "titulo": "Aire Acondicionado Samsung 4770W AR18ASHQAWK2BG INVERTER",
+      "precio": 369999,
+      "precioAnterior": 427999,
+      "link": "https://www.cetrogar.com.ar/aire-acondicionado-samsung-4770w-ar18ashqawk2bg-inverter.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 61666.5
+    },
+    {
+      "titulo": "Lavarropas LG WM85W 8.5 kg 1200RPM CF blanco inverter",
+      "precio": 252999,
+      "precioAnterior": 287999,
+      "link": "https://www.cetrogar.com.ar/lavarropas-lg-wm85w-8-5-kg-1200rpm-cf-blanco-inverter.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 42166.5
+    },
+    {
+      "titulo": "Freezer vertical FV6220 226 lt plateado Hauser",
+      "precio": 253839,
+      "precioAnterior": 267199,
+      "link": "https://www.cetrogar.com.ar/freezer-vertical-fv6220-226-lt-plateado-hauser.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 42306.5
+    },
+    {
+      "titulo": "Heladera No Frost WRM56K2 462 lt Evox Inverter Whirlpool",
+      "precio": 579999,
+      "precioAnterior": 624799,
+      "link": "https://www.cetrogar.com.ar/heladera-no-frost-wrm56k2-462-lt-evox-inverter-whirlpool.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 96666.5
+    },
+    {
+      "titulo": "Termotanque SAIAR Multigas Colgar 50 Litros Carga Inferior",
+      "precio": 123499,
+      "precioAnterior": 129999,
+      "link": "https://www.cetrogar.com.ar/termotanque-saiar-multigas-colgar-50-litros-carga-inferior.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 20583.17
+    },
+    {
+      "titulo": "Termotanque Longvie Electrico para colgar TE40F Carga Inferior",
+      "precio": 102689,
+      "precioAnterior": 108099,
+      "link": "https://www.cetrogar.com.ar/termotanque-longvie-electrico-para-colgar-te40f-carga-inferior.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 17114.83
+    },
+    {
+      "titulo": "Caloventor Liliana Powerty Industrial 3000w CFI800",
+      "precio": 26299,
+      "precioAnterior": 31999,
+      "link": "https://www.cetrogar.com.ar/caloventor-liliana-powerty-industrial-3000w-cfi800.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 4383.17
+    },
+    {
+      "titulo": "Impresora Multifunción IA 2375 HP",
+      "precio": 37999,
+      "precioAnterior": 45999,
+      "link": "https://www.cetrogar.com.ar/impresora-multifuncion-ia-2375-hp.html",
+      "categoria": "tecnologia",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 6333.17
+    },
+    {
+      "titulo": "Celular Samsung A03 2/32GB 8MP Negro",
+      "precio": 45499,
+      "precioAnterior": 51999,
+      "link": "https://www.cetrogar.com.ar/celular-samsung-a03-2-32gb-8mp-negro.html",
+      "categoria": "tecnologia",
+      "interes": "sin interés",
+      "cuotas": 3,
+      "valorCuotas": 15166.33
+    },
+    {
+      "titulo": "Smart TV QLED 65\" Samsung QN65Q80AAGCZB 4K Ultra HD",
+      "precio": 529999,
+      "precioAnterior": 594999,
+      "link": "https://www.cetrogar.com.ar/smart-tv-qled-65-samsung-qn65q80aagczb-4k-ultra-hd.html",
+      "categoria": "tecnologia",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 88333.17
+    },
+    {
+      "titulo": "Notebook N-130 IC 4GB 128SSD W11 GFAST",
+      "precio": 129999,
+      "precioAnterior": 144999,
+      "link": "https://www.cetrogar.com.ar/notebook-n-130-ic-4gb-128ssd-w11-gfast.html",
+      "categoria": "tecnologia",
+      "interes": "sin interés",
+      "cuotas": 3,
+      "valorCuotas": 43333
+    },
+    {
+      "titulo": "Smart TV LED 40\" L40S66E Full HD Android TV-RV TCL",
+      "precio": 69999,
+      "precioAnterior": 104049,
+      "link": "https://www.cetrogar.com.ar/smart-tv-led-40-l40s66e-full-hd-android-tv-rv-tcl.html",
+      "categoria": "tecnologia",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 11666.5
+    },
+    {
+      "titulo": "Celular Motorola G22 6.53\" 4GB 128GB celeste Ártico",
+      "precio": 76999,
+      "precioAnterior": 87999,
+      "link": "https://www.cetrogar.com.ar/celular-motorola-g22-6-53-4gb-128gb-celeste-artico.html",
+      "categoria": "tecnologia",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 12833.17
+    },
+    {
+      "titulo": "Sistema portátil XBOOM RM1 LG",
+      "precio": 68999,
+      "precioAnterior": 81099,
+      "link": "https://www.cetrogar.com.ar/sistema-portatil-xboom-rm1-lg.html",
+      "categoria": "tecnologia",
+      "interes": "sin interés",
+      "cuotas": 3,
+      "valorCuotas": 22999.67
+    },
+    {
+      "titulo": "Sistema Portátil Noblex MNT290BT 3200W BT",
+      "precio": 64999,
+      "precioAnterior": 82999,
+      "link": "https://www.cetrogar.com.ar/sistema-portatil-noblex-mnt290bt-3200w-bt.html",
+      "categoria": "tecnologia",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 10833.17
+    },
+    {
+      "titulo": "Parlante Daewoo YAND DW-MT66",
+      "precio": 19999,
+      "precioAnterior": 34999,
+      "link": "https://www.cetrogar.com.ar/parlante-daewoo-yand-dw-mt66.html",
+      "categoria": "tecnologia",
+      "interes": "sin interés",
+      "cuotas": 3,
+      "valorCuotas": 6666.33
+    },
+    {
+      "titulo": "Smart TV LED LG 50\" 50UQ8050 Ultra HD 4K HDR",
+      "precio": 154999,
+      "precioAnterior": 235999,
+      "link": "https://www.cetrogar.com.ar/smart-tv-led-lg-50-50uq-ultra-hd-4k-hdr.html",
+      "categoria": "tecnologia",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 25833.17
+    },
+    {
+      "titulo": "Auriculares Earbuds TWS AP9TWS BT Philco",
+      "precio": 12999,
+      "precioAnterior": 15899,
+      "link": "https://www.cetrogar.com.ar/auriculares-earbuds-tws-ap9tws-bt-philco.html",
+      "categoria": "tecnologia",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 2166.5
+    },
+    {
+      "titulo": "Smart TV LED 43\" Hisense 43A42H Full HD",
+      "precio": 81999,
+      "precioAnterior": 116999,
+      "link": "https://www.cetrogar.com.ar/smart-tv-led-43-hisense-43a42h-full-hd.html",
+      "categoria": "tecnologia",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 13666.5
+    },
+    {
+      "titulo": "Smart TV LED 32'' Philips 32PHD6917/77 HD",
+      "precio": 65999,
+      "precioAnterior": 87999,
+      "link": "https://www.cetrogar.com.ar/smart-tv-led-32-philips-32phd6917-77-hd.html",
+      "categoria": "tecnologia",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 10999.83
+    },
+    {
+      "titulo": "Smart TV QLED 55\" Samsung QN55Q80AAGCZB 4K Ultra HD",
+      "precio": 399999,
+      "precioAnterior": 499999,
+      "link": "https://www.cetrogar.com.ar/smart-tv-qled-55-samsung-qn55q80aagczb-4k-ultra-hd.html",
+      "categoria": "tecnologia",
+      "interes": "sin interés",
+      "cuotas": 12,
+      "valorCuotas": 33333.25
+    },
+    {
+      "titulo": "Mesa living Tables c/cajón 2021-OFE",
+      "precio": 20899,
+      "precioAnterior": 21999,
+      "link": "https://www.cetrogar.com.ar/mesa-living-tables-c-cajon-2021-ofe.html",
+      "categoria": "hogar",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 3483.17
+    },
+    {
+      "titulo": "Respaldo Juvenil 118 m 6429-EV Tables",
+      "precio": 9689,
+      "precioAnterior": 10199,
+      "link": "https://www.cetrogar.com.ar/respaldo-juvenil-118-m-6429-ev-tables.html",
+      "categoria": "hogar",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 1614.83
+    },
+    {
+      "titulo": "Respaldo Juvenil 6429 118 cm Tables",
+      "precio": 13199,
+      "precioAnterior": 13899,
+      "link": "https://www.cetrogar.com.ar/respaldo-juvenil-6429-118-cm-tables.html",
+      "categoria": "hogar",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 2199.83
+    },
+    {
+      "titulo": "Respaldo Juvenil 118 cm 6429-COE Tables",
+      "precio": 13199,
+      "precioAnterior": 13899,
+      "link": "https://www.cetrogar.com.ar/respaldo-juvenil-118-cm-6429-coe-tables.html",
+      "categoria": "hogar",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 2199.83
+    },
+    {
+      "titulo": "Cómoda Doble Centro Estant Blanca",
+      "precio": 28699,
+      "precioAnterior": 35999,
+      "link": "https://www.cetrogar.com.ar/comoda-doble-centro-estant-blanca.html",
+      "categoria": "hogar",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 4783.17
+    },
+    {
+      "titulo": "Respaldo Milos queen 200x80cm Mussa",
+      "precio": 48259,
+      "precioAnterior": 50799,
+      "link": "https://www.cetrogar.com.ar/respaldo-milos-queen-200x80cm-mussa.html",
+      "categoria": "hogar",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 8043.17
+    },
+    {
+      "titulo": "Juego de Living Jecay Evaristo Bordo",
+      "precio": 85149,
+      "precioAnterior": 89639,
+      "link": "https://www.cetrogar.com.ar/juego-de-living-jecay-evaristo-bordo.html",
+      "categoria": "hogar",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 14191.5
+    },
+    {
+      "titulo": "Colchón Piero Modena 1 plaza 80x190 cm",
+      "precio": 61999,
+      "precioAnterior": 70299,
+      "link": "https://www.cetrogar.com.ar/colchon-piero-modena-1-plaza-80x190-cm.html",
+      "categoria": "hogar",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 10333.17
+    },
+    {
+      "titulo": "Colchón de espuma Inducol Aural 100x190x29 cm",
+      "precio": 94999,
+      "precioAnterior": 108399,
+      "link": "https://www.cetrogar.com.ar/colchon-de-espuma-inducol-aural-100x190x29-cm.html",
+      "categoria": "hogar",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 15833.17
+    },
+    {
+      "titulo": "Juego Living Jecay Yago 211 Rustica Marron",
+      "precio": 81999,
+      "precioAnterior": 87999,
+      "link": "https://www.cetrogar.com.ar/juego-living-jecay-yago-211-rustica-marron.html",
+      "categoria": "hogar",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 13666.5
+    },
+    {
+      "titulo": "Placard Orlandi Corredizo Venecia 277",
+      "precio": 86999,
+      "precioAnterior": 96299,
+      "link": "https://www.cetrogar.com.ar/placard-orlandi-corredizo-venecia-277.html",
+      "categoria": "hogar",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 14499.83
+    },
+    {
+      "titulo": "Cama modular Tables 1 Plaza 6440-CON",
+      "precio": 60999,
+      "precioAnterior": 66399,
+      "link": "https://www.cetrogar.com.ar/cama-modular-tables-1-plaza-6440-con.html",
+      "categoria": "hogar",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 10166.5
+    },
+    {
+      "titulo": "Cama modular Tables 1 Plaza 6440-COE",
+      "precio": 58799,
+      "precioAnterior": 61899,
+      "link": "https://www.cetrogar.com.ar/cama-modular-tables-1-plaza-6440-coe.html",
+      "categoria": "hogar",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 9799.83
+    },
+    {
+      "titulo": "Juego de dormitorio Mediterráneo Inmacol",
+      "precio": 95469,
+      "precioAnterior": 100499,
+      "link": "https://www.cetrogar.com.ar/juego-de-dormitorio-mediterraneo-inmacol.html",
+      "categoria": "hogar",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 15911.5
+    },
+    {
+      "titulo": "Set de 4 sillas Mara negras Gacela",
+      "precio": 54149,
+      "precioAnterior": 56999,
+      "link": "https://www.cetrogar.com.ar/set-de-4-sillas-mara-negras-gacela.html",
+      "categoria": "hogar",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 9024.83
+    },
+    {
+      "titulo": "Juego de dormitorio Mediterráneo wengue Inmacol",
+      "precio": 95469,
+      "precioAnterior": 100499,
+      "link": "https://www.cetrogar.com.ar/juego-de-dormitorio-mediterraneo-wengue-inmacol.html",
+      "categoria": "hogar",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 15911.5
+    },
+    {
+      "titulo": "Botinero 24 Centro Estant Wengue",
+      "precio": 25399,
+      "precioAnterior": 28199,
+      "link": "https://www.cetrogar.com.ar/botinero-24-centro-estant-wengue.html",
+      "categoria": "hogar",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 4233.17
+    },
+    {
+      "titulo": "Centro de planchado Centro Estant CP100BL",
+      "precio": 19399,
+      "precioAnterior": 21399,
+      "link": "https://www.cetrogar.com.ar/centro-de-planchado-centro-estant-cp100bl.html",
+      "categoria": "hogar",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 3233.17
+    },
+    {
+      "titulo": "Set de 4 sillas Windsor negras Garden Life",
+      "precio": 61269,
+      "precioAnterior": 64499,
+      "link": "https://www.cetrogar.com.ar/set-de-4-sillas-windsor-negras-garden-life.html",
+      "categoria": "hogar",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 10211.5
+    },
+    {
+      "titulo": "Despensero Doble Maxi Centro Estant",
+      "precio": 22599,
+      "precioAnterior": 27199,
+      "link": "https://www.cetrogar.com.ar/despensero-doble-maxi-centro-estant.html",
+      "categoria": "hogar",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 3766.5
+    },
+    {
+      "titulo": "Cómoda Doble Centro Estant Wengue",
+      "precio": 30099,
+      "precioAnterior": 35999,
+      "link": "https://www.cetrogar.com.ar/comoda-doble-centro-estant-wengue.html",
+      "categoria": "hogar",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 5016.5
+    },
+    {
+      "titulo": "Alacena 120 Centro Estant Blanca",
+      "precio": 22229,
+      "precioAnterior": 23399,
+      "link": "https://www.cetrogar.com.ar/alacena-120-centro-estant-blanca.html",
+      "categoria": "hogar",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 3704.83
+    },
+    {
+      "titulo": "Colchón Inducol Vinson 2 plazas 140x190 cm",
+      "precio": 109999,
+      "precioAnterior": 126499,
+      "link": "https://www.cetrogar.com.ar/colchon-inducol-vinson-2-plazas-140x190-cm.html",
+      "categoria": "hogar",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 18333.17
+    },
+    {
+      "titulo": "Sillón PRSL082 2 cuerpos azul Pram",
+      "precio": 50249,
+      "precioAnterior": 52899,
+      "link": "https://www.cetrogar.com.ar/sillon-prsl082-2-cuerpos-azul-pram.html",
+      "categoria": "hogar",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 8374.83
+    },
+    {
+      "titulo": "Parlante Noblex MNT390",
+      "precio": 97999,
+      "precioAnterior": 105999,
+      "link": "https://www.cetrogar.com.ar/parlante-noblex-mnt390.html",
+      "categoria": "tecnologia",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 16333.17
+    },
+    {
+      "titulo": "Smart TV LED 70\" Samsung UN70AU7000GCZB 4K Ultra HD",
+      "precio": 335999,
+      "precioAnterior": 448999,
+      "link": "https://www.cetrogar.com.ar/smart-tv-led-70-samsung-un70au7000gczb-4k-ultra-hd.html",
+      "categoria": "tecnologia",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 55999.83
+    },
+    {
+      "titulo": "Tablet Samsung Galaxy TAB A8 10.5'' 4GB 64GB silver",
+      "precio": 120999,
+      "precioAnterior": 130099,
+      "link": "https://www.cetrogar.com.ar/tablet-samsung-galaxy-tab-a8-10-5-4gb-64gb-silver.html",
+      "categoria": "tecnologia",
+      "interes": "sin interés",
+      "cuotas": 3,
+      "valorCuotas": 40333
+    },
+    {
+      "titulo": "Smart TV LED 60\" LG 60UP7750 Ultra HD ThinQ 4K",
+      "precio": 279999,
+      "precioAnterior": 304999,
+      "link": "https://www.cetrogar.com.ar/smart-tv-led-60-lg-60up7750-ultra-hd-thinq-4k.html",
+      "categoria": "tecnologia",
+      "interes": "sin interés",
+      "cuotas": 12,
+      "valorCuotas": 23333.25
+    },
+    {
+      "titulo": "Smart TV LED LG 70\" 70UP7750PSB Ultra HD ThinQ 4k",
+      "precio": 399999,
+      "precioAnterior": 437999,
+      "link": "https://www.cetrogar.com.ar/smart-tv-led-lg-70-70up7750psb-ultra-hd-thinq-4k.html",
+      "categoria": "tecnologia",
+      "interes": "sin interés",
+      "cuotas": 12,
+      "valorCuotas": 33333.25
+    },
+    {
+      "titulo": "Celular Samsung S20 FE 6.5\" 6/128 5G azul",
+      "precio": 189999,
+      "precioAnterior": 257999,
+      "link": "https://www.cetrogar.com.ar/celular-samsung-s20-fe-6-5-6-128-5g-azul.html",
+      "categoria": "tecnologia",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 31666.5
+    },
+    {
+      "titulo": "Parlante MNT670 6500W PMPO Noblex",
+      "precio": 114999,
+      "precioAnterior": 124999,
+      "link": "https://www.cetrogar.com.ar/parlante-mnt670-6500w-pmpo-noblex.html",
+      "categoria": "tecnologia",
+      "interes": "sin interés",
+      "cuotas": 12,
+      "valorCuotas": 9583.25
+    },
+    {
+      "titulo": "Smart TV LED 43\" Philips 43PFD6917/77 Full HD",
+      "precio": 99999,
+      "precioAnterior": 121999,
+      "link": "https://www.cetrogar.com.ar/smart-tv-led-43-philips-43pfd6917-77-full-hd.html",
+      "categoria": "tecnologia",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 16666.5
+    },
+    {
+      "titulo": "Tablet M10 TB X306F 10.1\" 4GB 64GB Lenovo",
+      "precio": 84999,
+      "precioAnterior": 92599,
+      "link": "https://www.cetrogar.com.ar/tablet-m10-tb-x306f-10-1-4gb-64gb-lenovo.html",
+      "categoria": "tecnologia",
+      "interes": "sin interés",
+      "cuotas": 3,
+      "valorCuotas": 28333
+    },
+    {
+      "titulo": "Smart TV LED 32\" BGH  B3222S5A HD",
+      "precio": 59999,
+      "precioAnterior": 78999,
+      "link": "https://www.cetrogar.com.ar/smart-tv-led-32-bgh-b3222s5a-hd.html",
+      "categoria": "tecnologia",
+      "interes": "sin interés",
+      "cuotas": 3,
+      "valorCuotas": 19999.67
+    },
+    {
+      "titulo": "Barra de sonido bluetooth Stage Stromberg",
+      "precio": 48999,
+      "precioAnterior": 58499,
+      "link": "https://www.cetrogar.com.ar/barra-de-sonido-bluetooth-stage-stromberg.html",
+      "categoria": "tecnologia",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 8166.5
+    },
+    {
+      "titulo": "Lavarropas Samsung WW90AA46BW 9K CF 1400rpm blanco inverter",
+      "precio": 274639,
+      "precioAnterior": 289099,
+      "link": "https://www.cetrogar.com.ar/lavarropas-samsung-ww90aa46bw-9k-cf-1400rpm-blanco-inverter.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 45773.17
+    },
+    {
+      "titulo": "Exhibidora Vertical Briket Master 4300 417 Litros",
+      "precio": 273789,
+      "precioAnterior": 288199,
+      "link": "https://www.cetrogar.com.ar/exhibidora-vertical-briket-master-4300-417-litros.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 45631.5
+    },
+    {
+      "titulo": "Batidora de mano Black & Deckert MX1002-AR 500w",
+      "precio": 16499,
+      "precioAnterior": 18899,
+      "link": "https://www.cetrogar.com.ar/batidora-de-mano-black-deckert-mx1002-ar-500w.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 3,
+      "valorCuotas": 5499.67
+    },
+    {
+      "titulo": "Aire Acondicionado Split LG S4-W24KE3A1 FC 6450W Dual Inverter",
+      "precio": 550619,
+      "precioAnterior": 579599,
+      "link": "https://www.cetrogar.com.ar/aire-acondicionado-split-lg-s4-w24ke3a1-fc-6450w-dual-inverter.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 91769.83
+    },
+    {
+      "titulo": "Heladera LG GB62BGS No Frost 545 L Inverter Inox",
+      "precio": 783559,
+      "precioAnterior": 824799,
+      "link": "https://www.cetrogar.com.ar/heladera-lg-gb62bgs-no-frost-545-l-inverter-inox.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 130593.17
+    },
+    {
+      "titulo": "Heladera LG GT57BPSX No Frost 553 L Inverter Inox",
+      "precio": 681339,
+      "precioAnterior": 717199,
+      "link": "https://www.cetrogar.com.ar/heladera-lg-gt57bpsx-no-frost-553-l-inverter-inox.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 113556.5
+    },
+    {
+      "titulo": "Aire Acondicionado Samsung 6540W AR24ASHQAWK2BG Inverter",
+      "precio": 527249,
+      "precioAnterior": 554999,
+      "link": "https://www.cetrogar.com.ar/aire-acondicionado-samsung-6540w-ar24ashqawk2bg-inverter.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 87874.83
+    },
+    {
+      "titulo": "Freezer FGHI200B-M blanco 206lt Inverter Gafa",
+      "precio": 144999,
+      "precioAnterior": 180499,
+      "link": "https://www.cetrogar.com.ar/freezer-fghi200b-m-blanco-206lt-inverter-gafa.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 24166.5
+    },
+    {
+      "titulo": "Freezer FGHI100B-S blanco 118lt Inverter Gafa",
+      "precio": 125999,
+      "precioAnterior": 164199,
+      "link": "https://www.cetrogar.com.ar/freezer-fghi100b-s-blanco-118lt-inverter-gafa.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 20999.83
+    },
+    {
+      "titulo": "Heladera Whirlpool WRO85AK No Frost 554 L Inverter Inox",
+      "precio": 883209,
+      "precioAnterior": 929699,
+      "link": "https://www.cetrogar.com.ar/heladera-whirlpool-wro85ak-no-frost-554-l-inverter-inox.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 147201.5
+    },
+    {
+      "titulo": "Lavarropas WM8516EE6 Inverter 8.5 kg 1400RPM silver LG",
+      "precio": 293999,
+      "precioAnterior": 319999,
+      "link": "https://www.cetrogar.com.ar/lavarropas-wm8516ee6-inverter-8-5-kg-1400rpm-silver-lg.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 48999.83
+    },
+    {
+      "titulo": "Lavarropas LG WM8516WE6 Inverter 8.5kg 1400RPM blanco",
+      "precio": 267999,
+      "precioAnterior": 303999,
+      "link": "https://www.cetrogar.com.ar/lavarropas-lg-wm8516we6-inverter-8-5kg-1400rpm-blanco.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 44666.5
+    },
+    {
+      "titulo": "Acondicionador Split LG S4-W18KL31A Dual Cool Inverter 5200W FC con WIFI",
+      "precio": 425999,
+      "precioAnterior": 459999,
+      "link": "https://www.cetrogar.com.ar/acondicionador-split-lg-s4-w18kl31a-dual-cool-inverter-5200w-fc-con-wifi.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 70999.83
+    },
+    {
+      "titulo": "Termotanque Rheem Electrico para colgar 85 Litros Carga Inferior Gris",
+      "precio": 124999,
+      "precioAnterior": 149899,
+      "link": "https://www.cetrogar.com.ar/termotanque-rheem-electrico-para-colgar-85-litros-carga-inferior-gris.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 20833.17
+    },
+    {
+      "titulo": "Heladera con Freezer SAMSUNG RT38 382 Litros Silver Inverter",
+      "precio": 349999,
+      "precioAnterior": 417599,
+      "link": "https://www.cetrogar.com.ar/heladera-con-freezer-samsung-rt38-382-litros-silver-inverter.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 58333.17
+    },
+    {
+      "titulo": "Lavarropas Samsung WW70A4000EE 7K CF 1000rpm blanco inverter",
+      "precio": 212799,
+      "precioAnterior": 223999,
+      "link": "https://www.cetrogar.com.ar/lavarropas-samsung-ww70a4000ee-7k-cf-1000rpm-blanco-inverter.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 35466.5
+    },
+    {
+      "titulo": "Heladera Side by Side no frost LS66SXSC 570lt Inverter LG",
+      "precio": 1466799,
+      "precioAnterior": 1543999,
+      "link": "https://www.cetrogar.com.ar/heladera-side-by-side-no-frost-ls66sxsc-570lt-inverter-lg.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 244466.5
+    },
+    {
+      "titulo": "Aire Acondicionado Split LG 5200W FC ARTCOOL Inverter S4-W18KLRPA",
+      "precio": 509999,
+      "precioAnterior": 549999,
+      "link": "https://www.cetrogar.com.ar/aire-acondicionado-split-lg-5200w-fc-artcool-inverter-s4-w18klrpa.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 84999.83
+    },
+    {
+      "titulo": "Aire acondicionado split Samsung AR18BSHQAWK2BG FC 4950W Inverter",
+      "precio": 369999,
+      "precioAnterior": 427999,
+      "link": "https://www.cetrogar.com.ar/aire-acondicionado-split-samsung-ar18bshqawk2bg-fc-4950w-inverter.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 61666.5
+    },
+    {
+      "titulo": "Exhibidora vertical MT470 R290 470 lt Inelro",
+      "precio": 286229,
+      "precioAnterior": 301299,
+      "link": "https://www.cetrogar.com.ar/exhibidora-vertical-mt470-r290-470-lt-inelro.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 47704.83
+    },
+    {
+      "titulo": "Lavarropas Inverter Drean Next 10.12 P eco 1200RPM",
+      "precio": 244149,
+      "precioAnterior": 256999,
+      "link": "https://www.cetrogar.com.ar/lavarropas-inverter-drean-next-10-12-p-eco-1200rpm.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 40691.5
+    },
+    {
+      "titulo": "Lavarropas Samsung WW65A4000EE 6.5K CF 1000rpm blanco inverter",
+      "precio": 187529,
+      "precioAnterior": 197399,
+      "link": "https://www.cetrogar.com.ar/lavarropas-samsung-ww65a4000ee-6-5k-cf-1000rpm-blanco-inverter.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 31254.83
+    },
+    {
+      "titulo": "Aire Acondicionado Split LG S4-W24K2RPE 6448W FC ART COOL Inverter",
+      "precio": 688749,
+      "precioAnterior": 724999,
+      "link": "https://www.cetrogar.com.ar/aire-acondicionado-split-lg-s4-w24k2rpe-6448w-fc-art-cool-inverter.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 114791.5
+    },
+    {
+      "titulo": "Lavarropas Inverter Drean Next 10.12 WCR ECO 1200RPM",
+      "precio": 311309,
+      "precioAnterior": 327699,
+      "link": "https://www.cetrogar.com.ar/lavarropas-inverter-drean-next-10-12-wcr-eco-1200rpm.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 51884.83
+    },
+    {
+      "titulo": "Mesa de Madera Descansar Cuadrada 70242",
+      "precio": 43889,
+      "precioAnterior": 46199,
+      "link": "https://www.cetrogar.com.ar/mesa-de-madera-descansar-cuadrada-70242.html",
+      "categoria": "jardin",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 7314.83
+    },
+    {
+      "titulo": "Pileta Playcenter 53052 308 lt Bestway",
+      "precio": 27549,
+      "precioAnterior": 28999,
+      "link": "https://www.cetrogar.com.ar/pileta-playcenter-53052-308-lt-bestway.html",
+      "categoria": "jardin",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 4591.5
+    },
+    {
+      "titulo": "Pileta con techo Frutas 52331 26 lt Bestway",
+      "precio": 7499,
+      "precioAnterior": 7899,
+      "link": "https://www.cetrogar.com.ar/pileta-con-techo-frutas-52331-26-lt-bestway.html",
+      "categoria": "jardin",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 1249.83
+    },
+    {
+      "titulo": "Sillón Descansar Pleg Director 10032",
+      "precio": 22889,
+      "precioAnterior": 24099,
+      "link": "https://www.cetrogar.com.ar/sillon-descansar-pleg-director-10032.html",
+      "categoria": "jardin",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 3814.83
+    },
+    {
+      "titulo": "Pileta Steel Pro 56404 4000 lt Bestway",
+      "precio": 56049,
+      "precioAnterior": 58999,
+      "link": "https://www.cetrogar.com.ar/pileta-steel-pro-56404-4000-lt-bestway.html",
+      "categoria": "jardin",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 9341.5
+    },
+    {
+      "titulo": "Flotador Inflable Bestway Pato Grande 5477",
+      "precio": 6929,
+      "precioAnterior": 7299,
+      "link": "https://www.cetrogar.com.ar/flotador-inflable-bestway-pato-grande-5477.html",
+      "categoria": "jardin",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 1154.83
+    },
+    {
+      "titulo": "Mesa redonda Garden Life silver",
+      "precio": 30779,
+      "precioAnterior": 32399,
+      "link": "https://www.cetrogar.com.ar/mesa-redonda-garden-life-silver.html",
+      "categoria": "jardin",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 5129.83
+    },
+    {
+      "titulo": "Flotador Inflable Bestway Helado Cucurucho 5908",
+      "precio": 3889,
+      "precioAnterior": 4099,
+      "link": "https://www.cetrogar.com.ar/flotador-inflable-bestway-helado-cucurucho-5908.html",
+      "categoria": "jardin",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 648.17
+    },
+    {
+      "titulo": "Flotador Inflable Bestway Summer Stylez 5904",
+      "precio": 6929,
+      "precioAnterior": 7299,
+      "link": "https://www.cetrogar.com.ar/flotador-inflable-bestway-summer-stylez-5904.html",
+      "categoria": "jardin",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 1154.83
+    },
+    {
+      "titulo": "Flotador Inflable Cisne Gris Grande 5901",
+      "precio": 6929,
+      "precioAnterior": 7299,
+      "link": "https://www.cetrogar.com.ar/flotador-inflable-cisne-gris-grande-5901.html",
+      "categoria": "jardin",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 1154.83
+    },
+    {
+      "titulo": "Flotador Inflable Bestway Flamenco Grande 5481",
+      "precio": 6929,
+      "precioAnterior": 7299,
+      "link": "https://www.cetrogar.com.ar/flotador-inflable-bestway-flamenco-grande-5481.html",
+      "categoria": "jardin",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 1154.83
+    },
+    {
+      "titulo": "Flotador Inflable Bestway Unicornio Grande 5478",
+      "precio": 6929,
+      "precioAnterior": 7299,
+      "link": "https://www.cetrogar.com.ar/flotador-inflable-bestway-unicornio-grande-5478.html",
+      "categoria": "jardin",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 1154.83
+    },
+    {
+      "titulo": "Flotador Inflable Bestway Pavo Real 5895",
+      "precio": 6929,
+      "precioAnterior": 7299,
+      "link": "https://www.cetrogar.com.ar/flotador-inflable-bestway-pavo-real-5895.html",
+      "categoria": "jardin",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 1154.83
+    },
+    {
+      "titulo": "Sillón Descansar Ratan ALEJO Blanco",
+      "precio": 29919,
+      "precioAnterior": 31499,
+      "link": "https://www.cetrogar.com.ar/sillon-descansar-ratan-alejo-blanco.html",
+      "categoria": "jardin",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 4986.5
+    },
+    {
+      "titulo": "Bomba Filtrante 3800 L/H IM001 Pelopincho",
+      "precio": 34199,
+      "precioAnterior": 35999,
+      "link": "https://www.cetrogar.com.ar/bomba-filtrante-3800-l-h-im001-pelopincho.html",
+      "categoria": "jardin",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 5699.83
+    },
+    {
+      "titulo": "Silla Harmony blanca Descansar",
+      "precio": 28019,
+      "precioAnterior": 29499,
+      "link": "https://www.cetrogar.com.ar/silla-harmony-blanca-descansar.html",
+      "categoria": "jardin",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 4669.83
+    },
+    {
+      "titulo": "Silla Harmony marrón Descansar",
+      "precio": 19469,
+      "precioAnterior": 20499,
+      "link": "https://www.cetrogar.com.ar/silla-harmony-marron-descansar.html",
+      "categoria": "jardin",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 3244.83
+    },
+    {
+      "titulo": "Silla Marbella F880001 negra Garden Life",
+      "precio": 7219,
+      "precioAnterior": 7599,
+      "link": "https://www.cetrogar.com.ar/silla-marbella-f880001-negra-garden-life.html",
+      "categoria": "jardin",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 1203.17
+    },
+    {
+      "titulo": "Silla Pasadena F860001 negro Garden Life",
+      "precio": 6929,
+      "precioAnterior": 7299,
+      "link": "https://www.cetrogar.com.ar/silla-pasadena-f860001-negro-garden-life.html",
+      "categoria": "jardin",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 1154.83
+    },
+    {
+      "titulo": "Silla Pasadena F860000 blanca Garden Life",
+      "precio": 6899,
+      "precioAnterior": 7999,
+      "link": "https://www.cetrogar.com.ar/silla-pasadena-f860000-blanca-garden-life.html",
+      "categoria": "jardin",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 1149.83
+    },
+    {
+      "titulo": "Flotador Inflable Bestway Racimo de Bananas 5906",
+      "precio": 2089,
+      "precioAnterior": 2199,
+      "link": "https://www.cetrogar.com.ar/flotador-inflable-bestway-racimo-de-bananas-5906.html",
+      "categoria": "jardin",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 348.17
+    },
+    {
+      "titulo": "Silla Garden Life Bistro Apilable F8500001NE",
+      "precio": 6169,
+      "precioAnterior": 6499,
+      "link": "https://www.cetrogar.com.ar/silla-garden-life-bistro-apilable-f8500001ne.html",
+      "categoria": "jardin",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 1028.17
+    },
+    {
+      "titulo": "Pileta Pelopincho 1102 Redonda 5500 Litros",
+      "precio": 54149,
+      "precioAnterior": 56999,
+      "link": "https://www.cetrogar.com.ar/pileta-pelopincho-1102-redonda-5500-litros.html",
+      "categoria": "jardin",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 9024.83
+    },
+    {
+      "titulo": "Mesa Garden Life Torino Rectangular F4290",
+      "precio": 34389,
+      "precioAnterior": 36199,
+      "link": "https://www.cetrogar.com.ar/mesa-garden-life-torino-rectangular-f4290.html",
+      "categoria": "jardin",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 5731.5
+    },
+    {
+      "titulo": "Cortabarba BT1230/14 Philips",
+      "precio": 6499,
+      "precioAnterior": 7999,
+      "link": "https://www.cetrogar.com.ar/cortabarba-bt1230-14-philips.html",
+      "categoria": "belleza y cuidado personal",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 1083.17
+    },
+    {
+      "titulo": "Cortacabello GA.MA GC-542 CORDLESS",
+      "precio": 9209,
+      "precioAnterior": 9699,
+      "link": "https://www.cetrogar.com.ar/cortacabello-ga-ma-gc-542-cordless.html",
+      "categoria": "belleza y cuidado personal",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 1534.83
+    },
+    {
+      "titulo": "Cortadora de pelo GA.MA GM 566 24 piezas",
+      "precio": 9999,
+      "precioAnterior": 12699,
+      "link": "https://www.cetrogar.com.ar/cortadora-de-pelo-ga-ma-gm-566-24-piezas.html",
+      "categoria": "belleza y cuidado personal",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 1666.5
+    },
+    {
+      "titulo": "Cortacabello GA.MA GM-593 13 piezas",
+      "precio": 10999,
+      "precioAnterior": 13999,
+      "link": "https://www.cetrogar.com.ar/cortacabello-ga-ma-gm-593-13-piezas.html",
+      "categoria": "belleza y cuidado personal",
+      "interes": "sin interés",
+      "cuotas": 3,
+      "valorCuotas": 3666.33
+    },
+    {
+      "titulo": "Cortacabello GA.MA GM-562 x 13 piezas",
+      "precio": 9209,
+      "precioAnterior": 9699,
+      "link": "https://www.cetrogar.com.ar/cortacabello-ga-ma-gm-562-x-13-piezas.html",
+      "categoria": "belleza y cuidado personal",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 1534.83
+    },
+    {
+      "titulo": "Cortadora de pelo GA.MA GCX SPORT",
+      "precio": 12999,
+      "precioAnterior": 16399,
+      "link": "https://www.cetrogar.com.ar/cortadora-de-pelo-ga-ma-gcx-sport.html",
+      "categoria": "belleza y cuidado personal",
+      "interes": "sin interés",
+      "cuotas": 3,
+      "valorCuotas": 4333
+    },
+    {
+      "titulo": "Cortadora de pelo Remington HC4050 23 piezas",
+      "precio": 8929,
+      "precioAnterior": 9399,
+      "link": "https://www.cetrogar.com.ar/cortadora-de-pelo-remington-hc4050-23-piezas.html",
+      "categoria": "belleza y cuidado personal",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 1488.17
+    },
+    {
+      "titulo": "Cortadora de pelo Philips HC2066/15 para niños",
+      "precio": 7119,
+      "precioAnterior": 7499,
+      "link": "https://www.cetrogar.com.ar/cortadora-de-pelo-philips-hc2066-15-para-ni-os.html",
+      "categoria": "belleza y cuidado personal",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 1186.5
+    },
+    {
+      "titulo": "Cortadora de pelo Wahl Color Code 17 piezas",
+      "precio": 7879,
+      "precioAnterior": 8299,
+      "link": "https://www.cetrogar.com.ar/cortadora-de-pelo-wahl-color-code-17-piezas.html",
+      "categoria": "belleza y cuidado personal",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 1313.17
+    },
+    {
+      "titulo": "Cortadora de pelo Wahl Homecute 20 9243-2828",
+      "precio": 10349,
+      "precioAnterior": 10899,
+      "link": "https://www.cetrogar.com.ar/cortadora-de-pelo-wahl-homecute-20-9243-2828.html",
+      "categoria": "belleza y cuidado personal",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 1724.83
+    },
+    {
+      "titulo": "Cortadora de pelo Wahl Homecute 18 piezas con cable",
+      "precio": 8929,
+      "precioAnterior": 9399,
+      "link": "https://www.cetrogar.com.ar/cortadora-de-pelo-wahl-homecute-18-piezas-con-cable.html",
+      "categoria": "belleza y cuidado personal",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 1488.17
+    },
+    {
+      "titulo": "Cortabarba QP2620/21 OneBlade Philips",
+      "precio": 12499,
+      "precioAnterior": 18299,
+      "link": "https://www.cetrogar.com.ar/cortabarba-qp2620-21-oneblade-philips.html",
+      "categoria": "belleza y cuidado personal",
+      "interes": "sin interés",
+      "cuotas": 3,
+      "valorCuotas": 4166.33
+    },
+    {
+      "titulo": "Recortador de barba inalámbrico Winco W816",
+      "precio": 6459,
+      "precioAnterior": 6799,
+      "link": "https://www.cetrogar.com.ar/recortador-de-barba-inalambrico-winco-w816.html",
+      "categoria": "belleza y cuidado personal",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 1076.5
+    },
+    {
+      "titulo": "Cortadora de pelo B-Way Style 18 Piezas Combo 5 en 1",
+      "precio": 10069,
+      "precioAnterior": 10599,
+      "link": "https://www.cetrogar.com.ar/cortadora-de-pelo-b-way-style-18-piezas-combo-5-en-1.html",
+      "categoria": "belleza y cuidado personal",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 1678.17
+    },
+    {
+      "titulo": "Cortadora de pelo CB8870 grooming kit Philco",
+      "precio": 11969,
+      "precioAnterior": 12599,
+      "link": "https://www.cetrogar.com.ar/cortadora-de-pelo-cb8870-grooming-kit-philco.html",
+      "categoria": "belleza y cuidado personal",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 1994.83
+    },
+    {
+      "titulo": "Cortadora de pelo Philips HC5632/15 Serie 5000",
+      "precio": 15199,
+      "precioAnterior": 15999,
+      "link": "https://www.cetrogar.com.ar/cortadora-de-pelo-philips-hc5632-15-serie-5000.html",
+      "categoria": "belleza y cuidado personal",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 2533.17
+    },
+    {
+      "titulo": "Cortadora de pelo inalámbrica Winco W820 USB",
+      "precio": 7599,
+      "precioAnterior": 8499,
+      "link": "https://www.cetrogar.com.ar/cortadora-de-pelo-inalambrica-winco-w820-usb.html",
+      "categoria": "belleza y cuidado personal",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 1266.5
+    },
+    {
+      "titulo": "Cortadora de pelo HC7901AFA 5000W Philco",
+      "precio": 3999,
+      "precioAnterior": 5799,
+      "link": "https://www.cetrogar.com.ar/cortadora-de-pelo-hc7901afa-5000w-philco.html",
+      "categoria": "belleza y cuidado personal",
+      "interes": "sin interés",
+      "cuotas": 3,
+      "valorCuotas": 1333
+    },
+    {
+      "titulo": "Cortadora de pelo Wahl Homecut basic 9314-3728",
+      "precio": 5979,
+      "precioAnterior": 6299,
+      "link": "https://www.cetrogar.com.ar/cortadora-de-pelo-wahl-homecut-basic-9314-3728.html",
+      "categoria": "belleza y cuidado personal",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 996.5
+    },
+    {
+      "titulo": "Cortadora de pelo Philips HC5610/15 Serie 5000",
+      "precio": 12159,
+      "precioAnterior": 12799,
+      "link": "https://www.cetrogar.com.ar/cortadora-de-pelo-philips-hc5610-15-serie-5000.html",
+      "categoria": "belleza y cuidado personal",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 2026.5
+    },
+    {
+      "titulo": "Cortadora de pelo Free Style 22 piezas B-Way",
+      "precio": 6169,
+      "precioAnterior": 6499,
+      "link": "https://www.cetrogar.com.ar/cortadora-de-pelo-free-style-22-piezas-b-way.html",
+      "categoria": "belleza y cuidado personal",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 1028.17
+    },
+    {
+      "titulo": "Cortadora de pelo Free Style BW1002 14 piezas B-Way",
+      "precio": 5319,
+      "precioAnterior": 5599,
+      "link": "https://www.cetrogar.com.ar/cortadora-de-pelo-free-style-bw1002-14-piezas-b-way.html",
+      "categoria": "belleza y cuidado personal",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 886.5
+    },
+    {
+      "titulo": "Combo Gama Cortadora de pelo + Trimmer de nariz Pack Titanium T744",
+      "precio": 13999,
+      "precioAnterior": 17499,
+      "link": "https://www.cetrogar.com.ar/combo-gama-cortadora-de-pelo-trimmer-de-nariz-pack-titanium-t744.html",
+      "categoria": "belleza y cuidado personal",
+      "interes": "sin interés",
+      "cuotas": 3,
+      "valorCuotas": 4666.33
+    },
+    {
+      "titulo": "Trimmer GA.MA GT-527 Barber Style",
+      "precio": 7349,
+      "precioAnterior": 9199,
+      "link": "https://www.cetrogar.com.ar/trimmer-ga-ma-gt-527-barber-style.html",
+      "categoria": "belleza y cuidado personal",
+      "interes": "sin interés",
+      "cuotas": 3,
+      "valorCuotas": 2449.67
+    },
+    {
+      "titulo": "Smart TV LED 32'' Philips 32PHD6927/77 HD",
+      "precio": 71999,
+      "precioAnterior": 91999,
+      "link": "https://www.cetrogar.com.ar/smart-tv-led-32-philips-32phd6927-77-hd.html",
+      "categoria": "tecnologia",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 11999.83
+    },
+    {
+      "titulo": "Barra de Sonido LG SK1D 100W",
+      "precio": 63699,
+      "precioAnterior": 75299,
+      "link": "https://www.cetrogar.com.ar/barra-de-sonido-lg-sk1d-100w.html",
+      "categoria": "tecnologia",
+      "interes": "sin interés",
+      "cuotas": 3,
+      "valorCuotas": 21233
+    },
+    {
+      "titulo": "Smart TV LED 65'' Hitachi LE65S26 4K Ultra HD",
+      "precio": 204999,
+      "precioAnterior": 237999,
+      "link": "https://www.cetrogar.com.ar/smart-tv-led-65-hitachi-le65s26-4k-ultra-hd.html",
+      "categoria": "tecnologia",
+      "interes": "sin interés",
+      "cuotas": 12,
+      "valorCuotas": 17083.25
+    },
+    {
+      "titulo": "Celular Samsung A04 6.5\" 4/64GB negro",
+      "precio": 67999,
+      "precioAnterior": 76999,
+      "link": "https://www.cetrogar.com.ar/celular-samsung-a04-6-5-4-64gb-negro.html",
+      "categoria": "tecnologia",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 11333.17
+    },
+    {
+      "titulo": "Smart TV 32\" C32AND HD RCA",
+      "precio": 53999,
+      "precioAnterior": 74999,
+      "link": "https://www.cetrogar.com.ar/smart-tv-32-c32and-hd-rca.html",
+      "categoria": "tecnologia",
+      "interes": "sin interés",
+      "cuotas": 3,
+      "valorCuotas": 17999.67
+    },
+    {
+      "titulo": "Smart TV LED LG 43\" 43UQ8050PSB Ultra HD 4K",
+      "precio": 129999,
+      "precioAnterior": 193999,
+      "link": "https://www.cetrogar.com.ar/smart-tv-led-lg-43-43uq8050psb-ultra-hd-4k.html",
+      "categoria": "tecnologia",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 21666.5
+    },
+    {
+      "titulo": "Celular Motorola E32 6.5\" 4/64GB plata",
+      "precio": 63999,
+      "precioAnterior": 72999,
+      "link": "https://www.cetrogar.com.ar/celular-motorola-e32-6-5-4-64gb-plata.html",
+      "categoria": "tecnologia",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 10666.5
+    },
+    {
+      "titulo": "Impresora Multifuncional HP Ink Tank 415",
+      "precio": 109999,
+      "precioAnterior": 129999,
+      "link": "https://www.cetrogar.com.ar/impresora-multifuncional-hp-ink-tank-415.html",
+      "categoria": "tecnologia",
+      "interes": "sin interés",
+      "cuotas": 3,
+      "valorCuotas": 36666.33
+    },
+    {
+      "titulo": "Parlante Techno PRO DW-DJ8620 8500W Daewoo",
+      "precio": 199999,
+      "precioAnterior": 222599,
+      "link": "https://www.cetrogar.com.ar/parlante-techno-pro-dw-dj8620-8500w-daewoo.html",
+      "categoria": "tecnologia",
+      "interes": "sin interés",
+      "cuotas": 3,
+      "valorCuotas": 66666.33
+    },
+    {
+      "titulo": "Celular Alcatel 1 Ultra 5\" 3/1GB 8MP negro",
+      "precio": 24999,
+      "precioAnterior": 31999,
+      "link": "https://www.cetrogar.com.ar/celular-alcatel-1-ultra-5-3-1gb-8mp-negro.html",
+      "categoria": "tecnologia",
+      "interes": "sin interés",
+      "cuotas": 3,
+      "valorCuotas": 8333
+    },
+    {
+      "titulo": "Celular Samsung A04 6.5\" 4/128GB negro",
+      "precio": 75999,
+      "precioAnterior": 85999,
+      "link": "https://www.cetrogar.com.ar/celular-samsung-a04-6-5-4-128gb-negro.html",
+      "categoria": "tecnologia",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 12666.5
+    },
+    {
+      "titulo": "Smart TV LED 55\" Hisense 55A64H 4K",
+      "precio": 134999,
+      "precioAnterior": 197999,
+      "link": "https://www.cetrogar.com.ar/smart-tv-led-55-hisense-55a64h-4k.html",
+      "categoria": "tecnologia",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 22499.83
+    },
+    {
+      "titulo": "Smart TV LED 40\" S40AND android RCA",
+      "precio": 74999,
+      "precioAnterior": 101999,
+      "link": "https://www.cetrogar.com.ar/smart-tv-led-40-s40and-android-rca.html",
+      "categoria": "tecnologia",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 12499.83
+    },
+    {
+      "titulo": "Celular ZTE Blade A52 6,52\" 2/64GB gris",
+      "precio": 37999,
+      "precioAnterior": 48999,
+      "link": "https://www.cetrogar.com.ar/celular-zte-blade-a52-6-52-2-64gb-gris.html",
+      "categoria": "tecnologia",
+      "interes": "sin interés",
+      "cuotas": 3,
+      "valorCuotas": 12666.33
+    },
+    {
+      "titulo": "Smart TV LED 65\" Samsung UN65BU8000GCZB 4K UHD",
+      "precio": 305999,
+      "precioAnterior": 404999,
+      "link": "https://www.cetrogar.com.ar/smart-tv-led-65-samsung-un65bu8000gczb-4k-ultra-hd.html",
+      "categoria": "tecnologia",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 50999.83
+    },
+    {
+      "titulo": "Smart TV LED 32\" BGH BLE3222K5 HD",
+      "precio": 57999,
+      "precioAnterior": 67999,
+      "link": "https://www.cetrogar.com.ar/smart-tv-led-32-bgh-ble3222k5-hd.html",
+      "categoria": "tecnologia",
+      "interes": "sin interés",
+      "cuotas": 3,
+      "valorCuotas": 19333
+    },
+    {
+      "titulo": "Monitor LED 21.4'' Full HD 91MK22X7100 Noblex",
+      "precio": 47499,
+      "precioAnterior": 51199,
+      "link": "https://www.cetrogar.com.ar/monitor-led-21-4-full-hd-91mk22x7100-noblex.html",
+      "categoria": "tecnologia",
+      "interes": "sin interés",
+      "cuotas": 3,
+      "valorCuotas": 15833
+    },
+    {
+      "titulo": "Exhibidora Vertical Inelro 390 Litros Sin Cenefa MT380 R290",
+      "precio": 252599,
+      "precioAnterior": 265899,
+      "link": "https://www.cetrogar.com.ar/exhibidora-vertical-inelro-390-litros-sin-cenefa-mt380-r290.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 42099.83
+    },
+    {
+      "titulo": "Heladera con Freezer Samsung RT38 382 Litros Negro Inverter No Frost Con Dispenser",
+      "precio": 421039,
+      "precioAnterior": 443199,
+      "link": "https://www.cetrogar.com.ar/heladera-con-freezer-samsung-rt38-382-litros-negro-inverter-no-frost-con-dispenser.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 70173.17
+    },
+    {
+      "titulo": "Aire Acondicionado Split LG S4-W24K231E Dual Cool Inverter 6450W Frío Calor WIFI",
+      "precio": 556999,
+      "precioAnterior": 599999,
+      "link": "https://www.cetrogar.com.ar/aire-acondicionado-split-lg-s4-w24k231e-dual-cool-inverter-6450w-frio-calor-wifi.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 92833.17
+    },
+    {
+      "titulo": "Lavarropas Longvie L18012 8Kg 1200RPM",
+      "precio": 211179,
+      "precioAnterior": 222299,
+      "link": "https://www.cetrogar.com.ar/lavarropas-longvie-l18012-8kg-1200rpm.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 35196.5
+    },
+    {
+      "titulo": "Lavarropas Drean NEXT 6.06 eco 6K 600rpm CF",
+      "precio": 139999,
+      "precioAnterior": 170499,
+      "link": "https://www.cetrogar.com.ar/lavarropas-drean-next-6-06-eco-6k-600rpm-cf.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 23333.17
+    },
+    {
+      "titulo": "Panel electrico Electrolux Vidrio 2200w",
+      "precio": 58139,
+      "precioAnterior": 61199,
+      "link": "https://www.cetrogar.com.ar/panel-electrico-electrolux-vidrio-2200w.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 9689.83
+    },
+    {
+      "titulo": "Cafetera CA2180N 0.6lt Atma",
+      "precio": 6799,
+      "precioAnterior": 8899,
+      "link": "https://www.cetrogar.com.ar/cafetera-ca2180n-0-6lt-atma.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 3,
+      "valorCuotas": 2266.33
+    },
+    {
+      "titulo": "Calefactor Volcan 43516V SS 4000 Cal Gas Natural",
+      "precio": 38999,
+      "precioAnterior": 42499,
+      "link": "https://www.cetrogar.com.ar/calefactor-volcan-43516v-ss-4000-cal-gas-natural.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 6499.83
+    },
+    {
+      "titulo": "Lavarropas Gafa Fuzzy Fit 7kg 750RPM blanco",
+      "precio": 120999,
+      "precioAnterior": 154399,
+      "link": "https://www.cetrogar.com.ar/lavarropas-gafa-fuzzy-fit-7kg-750rpm-blanco.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 3,
+      "valorCuotas": 40333
+    },
+    {
+      "titulo": "Panel electrico Peabody Digital Curvo Blanco 2000w PE-VQD20B",
+      "precio": 45999,
+      "precioAnterior": 48099,
+      "link": "https://www.cetrogar.com.ar/panel-electrico-peabody-digital-curvo-blanco-2000w-pe-vqd20b.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 7666.5
+    },
+    {
+      "titulo": "Cava Whirlpool 12 botellas WZC12A",
+      "precio": 107629,
+      "precioAnterior": 113299,
+      "link": "https://www.cetrogar.com.ar/cava-whirlpool-12-botellas-wzc12a.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 17938.17
+    },
+    {
+      "titulo": "Ventilador de techo con luz 90W VTHI513 Liliana",
+      "precio": 21999,
+      "precioAnterior": 23899,
+      "link": "https://www.cetrogar.com.ar/ventilador-de-techo-con-luz-90w-vthi513-liliana.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 3666.5
+    },
+    {
+      "titulo": "Cocina Morelli Forza 600 4 hornallas",
+      "precio": 164999,
+      "precioAnterior": 187699,
+      "link": "https://www.cetrogar.com.ar/cocina-morelli-forza-600-4-hornallas.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 27499.83
+    },
+    {
+      "titulo": "Microondas MD1723GN 23lt blanco Atma",
+      "precio": 51999,
+      "precioAnterior": 74199,
+      "link": "https://www.cetrogar.com.ar/microondas-md1723gn-23lt-blanco-atma.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 3,
+      "valorCuotas": 17333
+    },
+    {
+      "titulo": "Lavasecarropas Longvie LS-18012 8Kg 1200rpm",
+      "precio": 308179,
+      "precioAnterior": 324399,
+      "link": "https://www.cetrogar.com.ar/lavasecarropas-longvie-ls-18012-8kg-1200rpm.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 51363.17
+    },
+    {
+      "titulo": "Microondas MD928G grill 28lt Atma",
+      "precio": 59999,
+      "precioAnterior": 89199,
+      "link": "https://www.cetrogar.com.ar/microondas-md928g-grill-28lt-atma.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 9999.83
+    },
+    {
+      "titulo": "Microondas MD1828GN grill eco 28lt Atma",
+      "precio": 69999,
+      "precioAnterior": 89199,
+      "link": "https://www.cetrogar.com.ar/microondas-md1828gn-grill-eco-28lt-atma.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 11666.5
+    },
+    {
+      "titulo": "Heladera no frost WRM-57K2 500lt Whirlpool",
+      "precio": 599999,
+      "precioAnterior": 652199,
+      "link": "https://www.cetrogar.com.ar/heladera-no-frost-wrm-57k2-500lt-whirlpool.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 99999.83
+    },
+    {
+      "titulo": "Cocina Morelli CRISTAL 600 4 hornallas Con Encendido",
+      "precio": 224999,
+      "precioAnterior": 259599,
+      "link": "https://www.cetrogar.com.ar/cocina-morelli-cristal-600-4-hornallas-con-encendido.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 37499.83
+    },
+    {
+      "titulo": "Heladera No Frost Whirlpool 443lt WRE57K2 Evo",
+      "precio": 602599,
+      "precioAnterior": 663799,
+      "link": "https://www.cetrogar.com.ar/heladera-no-frost-whirlpool-443lt-wre57k2-evo.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 100433.17
+    },
+    {
+      "titulo": "Aire Acondicionado Split Philco PHS60HA4CN 6300W Frío Calor EA",
+      "precio": 329999,
+      "precioAnterior": 371699,
+      "link": "https://www.cetrogar.com.ar/aire-acondicionado-split-philco-phs60ha4cn-6300w-frio-calor-ea.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 54999.83
+    },
+    {
+      "titulo": "Heladera KOH-I-NOOR 413 Litros KHDA43/7 Acero A+",
+      "precio": 283289,
+      "precioAnterior": 298199,
+      "link": "https://www.cetrogar.com.ar/heladera-koh-i-noor-413-litros-khda43-7-acero-a.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 47214.83
+    },
+    {
+      "titulo": "Plancha seca W30P Winco",
+      "precio": 7299,
+      "precioAnterior": 8899,
+      "link": "https://www.cetrogar.com.ar/plancha-seca-w30p-winco.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 3,
+      "valorCuotas": 2433
+    },
+    {
+      "titulo": "Smart TV LED 55\" TCL L55P735 4K Smart Ultra HD",
+      "precio": 139999,
+      "precioAnterior": 190799,
+      "link": "https://www.cetrogar.com.ar/smart-tv-led-55-tcl-l55p735-f-4k-smart-ultra-hd.html",
+      "categoria": "tecnologia",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 23333.17
+    },
+    {
+      "titulo": "Tablet T790 2GB 32GB 7\" Positivo BGH",
+      "precio": 23999,
+      "precioAnterior": 25899,
+      "link": "https://www.cetrogar.com.ar/tablet-t790-2gb-32gb-7-positivo-bgh.html",
+      "categoria": "tecnologia",
+      "interes": "sin interés",
+      "cuotas": 3,
+      "valorCuotas": 7999.67
+    },
+    {
+      "titulo": "Notebook VAIO VJFE54A0111H Core i3 4GB 128GB",
+      "precio": 259999,
+      "precioAnterior": 289999,
+      "link": "https://www.cetrogar.com.ar/notebook-vaio-vjfe54a0111h-core-i3-4gb-128gb.html",
+      "categoria": "tecnologia",
+      "interes": "sin interés",
+      "cuotas": 3,
+      "valorCuotas": 86666.33
+    },
+    {
+      "titulo": "Smart TV OLED 65\" LG OLED65A1PSA A1 AI ThinQ 4K",
+      "precio": 629999,
+      "precioAnterior": 688999,
+      "link": "https://www.cetrogar.com.ar/smart-tv-oled-65-lg-oled65a1psa-a1-ai-thinq-4k.html",
+      "categoria": "tecnologia",
+      "interes": "sin interés",
+      "cuotas": 12,
+      "valorCuotas": 52499.92
+    },
+    {
+      "titulo": "Monitor 24\" Full HD LF24T350FHLCZB Samsung",
+      "precio": 65999,
+      "precioAnterior": 83199,
+      "link": "https://www.cetrogar.com.ar/monitor-24-full-hd-lf24t350fhlczb-samsung.html",
+      "categoria": "tecnologia",
+      "interes": "sin interés",
+      "cuotas": 3,
+      "valorCuotas": 21999.67
+    },
+    {
+      "titulo": "Smart TV LED 32\" Noblex 32X7000 HD",
+      "precio": 59999,
+      "precioAnterior": 77999,
+      "link": "https://www.cetrogar.com.ar/smart-tv-led-32-noblex-32x7000-hd.html",
+      "categoria": "tecnologia",
+      "interes": "sin interés",
+      "cuotas": 3,
+      "valorCuotas": 19999.67
+    },
+    {
+      "titulo": "Celular TCL 305i 6.52\" 2/32GB Prime Black RVA",
+      "precio": 29999,
+      "precioAnterior": 38999,
+      "link": "https://www.cetrogar.com.ar/celular-tcl-305i-6-52-2-32gb-prime-black-rva.html",
+      "categoria": "tecnologia",
+      "interes": "sin interés",
+      "cuotas": 3,
+      "valorCuotas": 9999.67
+    },
+    {
+      "titulo": "Smart TV LED 50\" frame 4K Ultra HD Qüint",
+      "precio": 117799,
+      "precioAnterior": 123999,
+      "link": "https://www.cetrogar.com.ar/smart-tv-led-50-frame-4k-ultra-hd-quint.html",
+      "categoria": "tecnologia",
+      "interes": "sin interés",
+      "cuotas": 3,
+      "valorCuotas": 39266.33
+    },
+    {
+      "titulo": "Smart TV LED 43\" Samsung 43AU7000 4K",
+      "precio": 126399,
+      "precioAnterior": 177999,
+      "link": "https://www.cetrogar.com.ar/smart-tv-led-43-samsung-43au7000-4k.html",
+      "categoria": "tecnologia",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 21066.5
+    },
+    {
+      "titulo": "Auriculares vincha HP107WS blanco Noblex",
+      "precio": 3799,
+      "precioAnterior": 5599,
+      "link": "https://www.cetrogar.com.ar/auriculares-vincha-hp107ws-blanco-noblex.html",
+      "categoria": "tecnologia",
+      "interes": "sin interés",
+      "cuotas": 3,
+      "valorCuotas": 1266.33
+    },
+    {
+      "titulo": "Smart TV LED 32\" TCL L32S65A Android HDR",
+      "precio": 59999,
+      "precioAnterior": 76299,
+      "link": "https://www.cetrogar.com.ar/smart-tv-led-32-tcl-l32s65a-android-hdr.html",
+      "categoria": "tecnologia",
+      "interes": "sin interés",
+      "cuotas": 3,
+      "valorCuotas": 19999.67
+    },
+    {
+      "titulo": "Smart TV QLED 55\" Samsung QN55Q65BAGCZB 4K Ultra HD",
+      "precio": 279999,
+      "precioAnterior": 370999,
+      "link": "https://www.cetrogar.com.ar/smart-tv-qled-55-samsung-qn55q65bagczb-4k-ultra-hd.html",
+      "categoria": "tecnologia",
+      "interes": "sin interés",
+      "cuotas": 12,
+      "valorCuotas": 23333.25
+    },
+    {
+      "titulo": "Parlante bluetooth JBL Go3 Black",
+      "precio": 16999,
+      "precioAnterior": 22299,
+      "link": "https://www.cetrogar.com.ar/parlante-bluetooth-jbl-go3-black.html",
+      "categoria": "tecnologia",
+      "interes": "sin interés",
+      "cuotas": 3,
+      "valorCuotas": 5666.33
+    },
+    {
+      "titulo": "Celular Samsung S21 FE 6/128GB 6.2\" Grafito",
+      "precio": 224999,
+      "precioAnterior": 310999,
+      "link": "https://www.cetrogar.com.ar/celular-samsung-s21-fe-6-128gb-6-2-grafito.html",
+      "categoria": "tecnologia",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 37499.83
+    },
+    {
+      "titulo": "Smart TV LED 75\" Philips 75PUD8507/77 4K Ultra HD Ambilight",
+      "precio": 459999,
+      "precioAnterior": 552999,
+      "link": "https://www.cetrogar.com.ar/smart-tv-led-75-philips-75pud8507-77-4k-ultra-hd-ambilight.html",
+      "categoria": "tecnologia",
+      "interes": "sin interés",
+      "cuotas": 12,
+      "valorCuotas": 38333.25
+    },
+    {
+      "titulo": "Celular Samsung Galaxy A23 6.6\" LTE blanco",
+      "precio": 99999,
+      "precioAnterior": 131999,
+      "link": "https://www.cetrogar.com.ar/celular-samsung-galaxy-a23-6-6-lte-blanco.html",
+      "categoria": "tecnologia",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 16666.5
+    },
+    {
+      "titulo": "Celular Motorola G22 6.53\" 4GB 128GB negro",
+      "precio": 76999,
+      "precioAnterior": 87999,
+      "link": "https://www.cetrogar.com.ar/celular-motorola-g22-6-53-4gb-128gb-negro.html",
+      "categoria": "tecnologia",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 12833.17
+    },
+    {
+      "titulo": "Tablet Samsung Galaxy TAB A7 Lite 8.7\" 3GB 32GB Plata",
+      "precio": 56999,
+      "precioAnterior": 77399,
+      "link": "https://www.cetrogar.com.ar/tablet-samsung-galaxy-tab-a7-lite-8-7-3gb-32gb-plata.html",
+      "categoria": "tecnologia",
+      "interes": "sin interés",
+      "cuotas": 3,
+      "valorCuotas": 18999.67
+    },
+    {
+      "titulo": "Smart TV LED 70\" Philips PUD7906 Ultra HD Android",
+      "precio": 304999,
+      "precioAnterior": 404999,
+      "link": "https://www.cetrogar.com.ar/smart-tv-led-70-philips-pud7906-ultra-hd-android.html",
+      "categoria": "tecnologia",
+      "interes": "sin interés",
+      "cuotas": 12,
+      "valorCuotas": 25416.58
+    },
+    {
+      "titulo": "Sistema de Parlante Noblex MNT1050 9800W",
+      "precio": 136999,
+      "precioAnterior": 146999,
+      "link": "https://www.cetrogar.com.ar/sistema-de-parlante-noblex-mnt1050-9800w.html",
+      "categoria": "tecnologia",
+      "interes": "sin interés",
+      "cuotas": 12,
+      "valorCuotas": 11416.58
+    },
+    {
+      "titulo": "Notebook EXO Smart T56 Cel 14.1\" 4-128SSD",
+      "precio": 129999,
+      "precioAnterior": 136499,
+      "link": "https://www.cetrogar.com.ar/notebook-exo-smart-t56-cel-14-1-4-128ssd.html",
+      "categoria": "tecnologia",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 21666.5
+    },
+    {
+      "titulo": "Smart TV LED 50\" Noblex DK50X7500 4K Ultra HD",
+      "precio": 115999,
+      "precioAnterior": 161999,
+      "link": "https://www.cetrogar.com.ar/smart-tv-led-50-noblex-dk50x7500-4k-ultra-hd.html",
+      "categoria": "tecnologia",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 19333.17
+    },
+    {
+      "titulo": "Celular Samsung Galaxy A22 4/128 48MP 5G gris",
+      "precio": 99999,
+      "precioAnterior": 112999,
+      "link": "https://www.cetrogar.com.ar/celular-samsung-galaxy-a22-4-128-48mp-5g-gris.html",
+      "categoria": "tecnologia",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 16666.5
+    },
+    {
+      "titulo": "Calefactor CIPIE2000 exterior infrarrojo Liliana",
+      "precio": 31349,
+      "precioAnterior": 32999,
+      "link": "https://www.cetrogar.com.ar/calefactor-cipie2000-exterior-infrarrojo-liliana.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 5224.83
+    },
+    {
+      "titulo": "Convector Electrolux 2100w CON20",
+      "precio": 33299,
+      "precioAnterior": 38899,
+      "link": "https://www.cetrogar.com.ar/convector-electrolux-2100w-con20.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 5549.83
+    },
+    {
+      "titulo": "Plancha a vapor Winco W34V 220V",
+      "precio": 10699,
+      "precioAnterior": 11899,
+      "link": "https://www.cetrogar.com.ar/plancha-a-vapor-winco-w34v-220v.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 1783.17
+    },
+    {
+      "titulo": "Termotanque eléctrico 85lt Sherman",
+      "precio": 101839,
+      "precioAnterior": 107199,
+      "link": "https://www.cetrogar.com.ar/termotanque-electrico-85lt-sherman.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 16973.17
+    },
+    {
+      "titulo": "Aspiradora robot Atma ATAR21C2PI",
+      "precio": 127679,
+      "precioAnterior": 134399,
+      "link": "https://www.cetrogar.com.ar/aspiradora-robot-atma-atar21c2pi.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 21279.83
+    },
+    {
+      "titulo": "Calefón TN 315BRV 14lt Volcan",
+      "precio": 87869,
+      "precioAnterior": 92499,
+      "link": "https://www.cetrogar.com.ar/calefon-tn-315brv-14lt-volcan.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 14644.83
+    },
+    {
+      "titulo": "Secarropas Drean QV 6.5 Kg",
+      "precio": 34999,
+      "precioAnterior": 43899,
+      "link": "https://www.cetrogar.com.ar/secarropas-drean-qv-6-5-kg.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 5833.17
+    },
+    {
+      "titulo": "Plancha Electrolux vapor SIL50 Inox 2200w",
+      "precio": 12799,
+      "precioAnterior": 14699,
+      "link": "https://www.cetrogar.com.ar/plancha-electrolux-vapor-sil50-inox-2200w.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 2133.17
+    },
+    {
+      "titulo": "Cafetera Essenza mini black D30 Nespresso",
+      "precio": 32399,
+      "precioAnterior": 53989,
+      "link": "https://www.cetrogar.com.ar/cafetera-essenza-mini-black-d30-nespresso.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 3,
+      "valorCuotas": 10799.67
+    },
+    {
+      "titulo": "Aspiradora Daewoo DAVCM90-15L 1000W",
+      "precio": 47999,
+      "precioAnterior": 51199,
+      "link": "https://www.cetrogar.com.ar/aspiradora-daewoo-davcm90-15l-1000w.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 7999.83
+    },
+    {
+      "titulo": "Batidora de mano Philips HR3700/05 200w",
+      "precio": 13799,
+      "precioAnterior": 15799,
+      "link": "https://www.cetrogar.com.ar/batidora-de-mano-philips-hr3700-05-200w.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 3,
+      "valorCuotas": 4599.67
+    },
+    {
+      "titulo": "Batidora de mano Smartlife SL-HM1035 300W",
+      "precio": 12729,
+      "precioAnterior": 13399,
+      "link": "https://www.cetrogar.com.ar/batidora-de-mano-smartlife-sl-hm1035-300w.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 2121.5
+    },
+    {
+      "titulo": "Batidora de mano con bol Smartlife SL-HM5035",
+      "precio": 15199,
+      "precioAnterior": 15999,
+      "link": "https://www.cetrogar.com.ar/batidora-de-mano-con-bol-smartlife-sl-hm5035.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 2533.17
+    },
+    {
+      "titulo": "Aspiradora Daewoo DAVC 90-20L 1000W",
+      "precio": 51999,
+      "precioAnterior": 55299,
+      "link": "https://www.cetrogar.com.ar/aspiradora-daewoo-davc-90-20l-1000w.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 8666.5
+    },
+    {
+      "titulo": "Horno Longvie H1900XF",
+      "precio": 215079,
+      "precioAnterior": 226399,
+      "link": "https://www.cetrogar.com.ar/horno-longvie-h1900xf.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 35846.5
+    },
+    {
+      "titulo": "Aspiradora Liliana LA120 PowerClean 2.5 Litros",
+      "precio": 50159,
+      "precioAnterior": 52799,
+      "link": "https://www.cetrogar.com.ar/aspiradora-liliana-la120-powerclean-2-5-litros.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 8359.83
+    },
+    {
+      "titulo": "Ventilador de Techo Liliana 4P 5V MA REV PL VTHM314",
+      "precio": 42559,
+      "precioAnterior": 44799,
+      "link": "https://www.cetrogar.com.ar/ventilador-de-techo-liliana-4p-5v-ma-rev-pl-vthm314.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 7093.17
+    },
+    {
+      "titulo": "Ventilador de Techo Liliana 4P 5V MA REV PL VTHM214",
+      "precio": 33059,
+      "precioAnterior": 34799,
+      "link": "https://www.cetrogar.com.ar/ventilador-de-techo-liliana-4p-5v-ma-rev-pl-vthm214.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 5509.83
+    },
+    {
+      "titulo": "Molinillo de Café Original Moulinex AR110858 Negro",
+      "precio": 15479,
+      "precioAnterior": 16289,
+      "link": "https://www.cetrogar.com.ar/molinillo-de-cafe-original-moulinex-ar110858-negro.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 2579.83
+    },
+    {
+      "titulo": "Secarropas Kohinoor Blanco C-765/2 Vision 6.5 Kg",
+      "precio": 48999,
+      "precioAnterior": 58799,
+      "link": "https://www.cetrogar.com.ar/secarropas-kohinoor-blanco-c-765-2-vision-6-5-kg.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 8166.5
+    },
+    {
+      "titulo": "Horno Longvie HE-6900G Grafito Grill/Touch",
+      "precio": 322999,
+      "precioAnterior": 339999,
+      "link": "https://www.cetrogar.com.ar/horno-longvie-he-6900g-grafito-grill-touch.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 53833.17
+    },
+    {
+      "titulo": "Lavavajillas Drean Dish 15.2 DTX Inox",
+      "precio": 329999,
+      "precioAnterior": 393699,
+      "link": "https://www.cetrogar.com.ar/lavavajillas-drean-dish-15-2-dtx-inox.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 54999.83
+    },
+    {
+      "titulo": "Ventilador de pie 20\" VPM-20N Moddo",
+      "precio": 33529,
+      "precioAnterior": 35299,
+      "link": "https://www.cetrogar.com.ar/ventilador-de-pie-20-vpm-20n-moddo.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 5588.17
+    },
+    {
+      "titulo": "Cocina Florencia 5516 F Blanca",
+      "precio": 89999,
+      "precioAnterior": 107699,
+      "link": "https://www.cetrogar.com.ar/cocina-florencia-5516-f-blanca.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 14999.83
+    },
+    {
+      "titulo": "Smart TV LED 55\" LG NanoCell NANO80 4K con ThinQ AI 4K Procesador Inteligente",
+      "precio": 279999,
+      "precioAnterior": 305999,
+      "link": "https://www.cetrogar.com.ar/smart-tv-led-55-lg-nanocell-nano80-4k-con-thinq-ai-4k-procesador-inteligente.html",
+      "categoria": "tecnologia",
+      "interes": "sin interés",
+      "cuotas": 12,
+      "valorCuotas": 23333.25
+    },
+    {
+      "titulo": "Notebook Asus 15.6\" FHD Intel core i5 8-256GB",
+      "precio": 369999,
+      "precioAnterior": 399999,
+      "link": "https://www.cetrogar.com.ar/notebook-asus-15-6-fhd-intel-core-i5-8-256gb.html",
+      "categoria": "tecnologia",
+      "interes": "sin interés",
+      "cuotas": 3,
+      "valorCuotas": 123333
+    },
+    {
+      "titulo": "Smart TV LED 40\" CDH-LE40SMART21-F Full HD Android TV Hitachi",
+      "precio": 77999,
+      "precioAnterior": 105499,
+      "link": "https://www.cetrogar.com.ar/smart-tv-led-40-cdh-le40smart21-f-full-hd-android-tv-hitachi.html",
+      "categoria": "tecnologia",
+      "interes": "sin interés",
+      "cuotas": 3,
+      "valorCuotas": 25999.67
+    },
+    {
+      "titulo": "Celular Motorola Moto E22 6.5\" 3/32 GB negro",
+      "precio": 48999,
+      "precioAnterior": 59999,
+      "link": "https://www.cetrogar.com.ar/celular-motorola-moto-e22-6-5-3-32-gb-negro.html",
+      "categoria": "tecnologia",
+      "interes": "sin interés",
+      "cuotas": 3,
+      "valorCuotas": 16333
+    },
+    {
+      "titulo": "Celular Motorola Moto E22 6.5\" 3/32 GB azul",
+      "precio": 48999,
+      "precioAnterior": 59999,
+      "link": "https://www.cetrogar.com.ar/celular-motorola-moto-e22-6-5-3-32-gb-azul.html",
+      "categoria": "tecnologia",
+      "interes": "sin interés",
+      "cuotas": 3,
+      "valorCuotas": 16333
+    },
+    {
+      "titulo": "Tablet Samsung Galaxy TAB A8 10.5'' 4GB 64GB gris",
+      "precio": 120989,
+      "precioAnterior": 130099,
+      "link": "https://www.cetrogar.com.ar/tablet-samsung-galaxy-tab-a8-10-5-4gb-64gb-gris.html",
+      "categoria": "tecnologia",
+      "interes": "sin interés",
+      "cuotas": 3,
+      "valorCuotas": 40329.67
+    },
+    {
+      "titulo": "Tablet Samsung Galaxy TAB A7 Lite 8.7\" 3GB 32GB Gris Oscuro",
+      "precio": 56999,
+      "precioAnterior": 77399,
+      "link": "https://www.cetrogar.com.ar/tablet-samsung-galaxy-tab-a7-lite-8-7-3gb-32gb-gris-oscuro.html",
+      "categoria": "tecnologia",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 9499.83
+    },
+    {
+      "titulo": "Sistema Portátil LG XBOOM RN9",
+      "precio": 314999,
+      "precioAnterior": 337099,
+      "link": "https://www.cetrogar.com.ar/sistema-portatil-lg-xboom-rn9.html",
+      "categoria": "tecnologia",
+      "interes": "sin interés",
+      "cuotas": 3,
+      "valorCuotas": 104999.67
+    },
+    {
+      "titulo": "Parlante portátil XBOOM 360° RP4 LG",
+      "precio": 176999,
+      "precioAnterior": 208599,
+      "link": "https://www.cetrogar.com.ar/parlante-portatil-xboom-360-rp4-lg.html",
+      "categoria": "tecnologia",
+      "interes": "sin interés",
+      "cuotas": 3,
+      "valorCuotas": 58999.67
+    },
+    {
+      "titulo": "Sistema Portátil LG XBOOM RN5",
+      "precio": 169999,
+      "precioAnterior": 184299,
+      "link": "https://www.cetrogar.com.ar/sistema-portatil-lg-xboom-rn5.html",
+      "categoria": "tecnologia",
+      "interes": "sin interés",
+      "cuotas": 3,
+      "valorCuotas": 56666.33
+    },
+    {
+      "titulo": "Sistema Portátil BT Stromberg DJ 4004 120W",
+      "precio": 84999,
+      "precioAnterior": 94999,
+      "link": "https://www.cetrogar.com.ar/sistema-portatil-bt-stromberg-dj-4004-120w.html",
+      "categoria": "tecnologia",
+      "interes": "sin interés",
+      "cuotas": 3,
+      "valorCuotas": 28333
+    },
+    {
+      "titulo": "Sistema Portátil BT Stromberg DJ 6004 130W",
+      "precio": 99999,
+      "precioAnterior": 112999,
+      "link": "https://www.cetrogar.com.ar/sistema-portatil-bt-stromberg-dj-6004-130w.html",
+      "categoria": "tecnologia",
+      "interes": "sin interés",
+      "cuotas": 3,
+      "valorCuotas": 33333
+    },
+    {
+      "titulo": "Aire acondicionado split TCL 6400W TACA-6400FCSA/EL",
+      "precio": 337999,
+      "precioAnterior": 364399,
+      "link": "https://www.cetrogar.com.ar/aire-acondicionado-split-tcl-6400w-taca-6400fcsa-el.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 56333.17
+    },
+    {
+      "titulo": "Lavarropas PHLF081B 1200RPM CF 8kg Philco",
+      "precio": 227999,
+      "precioAnterior": 239999,
+      "link": "https://www.cetrogar.com.ar/lavarropas-phlf081b-1200rpm-cf-8kg-philco.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 37999.83
+    },
+    {
+      "titulo": "Batidora de pie Liliana Prettybat AB909",
+      "precio": 51009,
+      "precioAnterior": 53699,
+      "link": "https://www.cetrogar.com.ar/batidora-de-pie-liliana-prettybat-ab909.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 8501.5
+    },
+    {
+      "titulo": "Pava Eléctrica Smartlife 1.5 Litros SL-EK1510IX",
+      "precio": 15499,
+      "precioAnterior": 18399,
+      "link": "https://www.cetrogar.com.ar/pava-electrica-smartlife-1-5-litros-sl-ek1510ix.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 3,
+      "valorCuotas": 5166.33
+    },
+    {
+      "titulo": "Secarropas Moddo 6.5KG PVC Blanco",
+      "precio": 29999,
+      "precioAnterior": 39499,
+      "link": "https://www.cetrogar.com.ar/secarropas-moddo-6-5kg-pvc-blanco.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 4999.83
+    },
+    {
+      "titulo": "Lavarropas LSC10001CS 10kg con bomba Columbia",
+      "precio": 56049,
+      "precioAnterior": 58999,
+      "link": "https://www.cetrogar.com.ar/lavarropas-lsc10001cs-10kg-con-bomba-columbia.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 9341.5
+    },
+    {
+      "titulo": "Secarropas Kohinoor Blanco C-755/2 Vision 5.5",
+      "precio": 44999,
+      "precioAnterior": 53799,
+      "link": "https://www.cetrogar.com.ar/secarropas-kohinoor-blanco-c-755-2-vision-5-5.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 7499.83
+    },
+    {
+      "titulo": "Lavarropas Longvie L16508 6.5Kg 800RPM",
+      "precio": 185909,
+      "precioAnterior": 195699,
+      "link": "https://www.cetrogar.com.ar/lavarropas-longvie-l16508-6-5kg-800rpm.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 30984.83
+    },
+    {
+      "titulo": "Termotanque Sherman Eléctrico Pie 55 Litros L/BC Carga Superior",
+      "precio": 86829,
+      "precioAnterior": 91399,
+      "link": "https://www.cetrogar.com.ar/termotanque-sherman-electrico-pie-55-litros-l-bc-carga-superior.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 14471.5
+    },
+    {
+      "titulo": "Lavarropas WNQ07AB 7Kg 1000RPM Whirlpool",
+      "precio": 190949,
+      "precioAnterior": 200999,
+      "link": "https://www.cetrogar.com.ar/lavarropas-wnq07ab-7kg-1000rpm-whirlpool.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 31824.83
+    },
+    {
+      "titulo": "Aire Acondicionado Split BGH 2700W Frío Calor EA BS26WCCR",
+      "precio": 174999,
+      "precioAnterior": 226799,
+      "link": "https://www.cetrogar.com.ar/aire-acondicionado-split-bgh-2700w-frio-calor-ea-bs26wccr.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 3,
+      "valorCuotas": 58333
+    },
+    {
+      "titulo": "Heladera ERD29AB  273lt Eslabón de Lujo",
+      "precio": 169999,
+      "precioAnterior": 208699,
+      "link": "https://www.cetrogar.com.ar/heladera-erd29ab-273lt-eslabon-de-lujo.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 28333.17
+    },
+    {
+      "titulo": "Lavarropas Samsung WA80S4UDA 8KG 700RPM Plata",
+      "precio": 199999,
+      "precioAnterior": 239499,
+      "link": "https://www.cetrogar.com.ar/lavarropas-samsung-wa80s4uda-8kg-700rpm-plata.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 33333.17
+    },
+    {
+      "titulo": "Lavarropas Drean NEXT 7.09 7K 900RPM CF",
+      "precio": 154999,
+      "precioAnterior": 193699,
+      "link": "https://www.cetrogar.com.ar/lavarropas-drean-next-7-09-7k-900rpm-cf.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 25833.17
+    },
+    {
+      "titulo": "Heladera TRE44AK 397lt Inox Ariston INV",
+      "precio": 510149,
+      "precioAnterior": 536999,
+      "link": "https://www.cetrogar.com.ar/heladera-tre44ak-397lt-inox-ariston-inv.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 85024.83
+    },
+    {
+      "titulo": "Heladera No Frost Samsung RB31FSRNDSA 310lt Inox",
+      "precio": 395769,
+      "precioAnterior": 416599,
+      "link": "https://www.cetrogar.com.ar/heladera-no-frost-samsung-rb31fsrndsa-310lt-inox.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 65961.5
+    },
+    {
+      "titulo": "Heladera No frost KOH-I-NOOR 417lt negra KHGB41D/8",
+      "precio": 428639,
+      "precioAnterior": 451199,
+      "link": "https://www.cetrogar.com.ar/heladera-no-frost-koh-i-noor-417lt-negra-khgb41d-8.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 71439.83
+    },
+    {
+      "titulo": "Heladera Kohinoor KHHA30/8 305 Lts Acero",
+      "precio": 232749,
+      "precioAnterior": 244999,
+      "link": "https://www.cetrogar.com.ar/heladera-kohinoor-khha30-8-305-lts-acero.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 38791.5
+    },
+    {
+      "titulo": "Heladera Kohinoor KHDA41D/8 413 Litros Acero No Frost",
+      "precio": 299999,
+      "precioAnterior": 355099,
+      "link": "https://www.cetrogar.com.ar/heladera-kohinoor-khda41d-8-413-litros-acero-no-frost.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 49999.83
+    },
+    {
+      "titulo": "Heladera Philco 482Lt PHSB482XT SBS negra",
+      "precio": 682669,
+      "precioAnterior": 718599,
+      "link": "https://www.cetrogar.com.ar/heladera-philco-482lt-phsb482xt-sbs-negra.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 113778.17
+    },
+    {
+      "titulo": "Heladera no frost DF3900P 345 lt gris Electrolux",
+      "precio": 260869,
+      "precioAnterior": 274599,
+      "link": "https://www.cetrogar.com.ar/heladera-no-frost-df3900p-345-lt-gris-electrolux.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 43478.17
+    },
+    {
+      "titulo": "Heladera No Frost KHDA42D/8 409 lt DuoCooling Kohinoor",
+      "precio": 345999,
+      "precioAnterior": 409099,
+      "link": "https://www.cetrogar.com.ar/heladera-no-frost-khda42d-8-409-lt-duocooling-kohinoor.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 57666.5
+    },
+    {
+      "titulo": "Heladera Blanca Eslabón de Lujo ERD34AB BCA 326 Litros",
+      "precio": 184999,
+      "precioAnterior": 230399,
+      "link": "https://www.cetrogar.com.ar/heladera-blanca-eslabon-de-lujo-erd34ab-bca-326-litros.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 30833.17
+    },
+    {
+      "titulo": "Heladera KOH-I-NOOR KHGA41D/8 417 Litros Acero Combi NO FROST DuoCooling",
+      "precio": 389999,
+      "precioAnterior": 464599,
+      "link": "https://www.cetrogar.com.ar/heladera-koh-i-noor-khga41d-8-417-litros-acero-combi-no-frost-duocooling.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 64999.83
+    },
+    {
+      "titulo": "Convector Magiclick C1215 2000W",
+      "precio": 16999,
+      "precioAnterior": 18099,
+      "link": "https://www.cetrogar.com.ar/convector-magiclick-c1215-2000w.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 2833.17
+    },
+    {
+      "titulo": "Calefactor Eskabe TB2000 GN Bigas",
+      "precio": 54529,
+      "precioAnterior": 57399,
+      "link": "https://www.cetrogar.com.ar/calefactor-eskabe-tb2000-gn-bigas.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 9088.17
+    },
+    {
+      "titulo": "Termotanque eléctrico 55 lt Sherman",
+      "precio": 93949,
+      "precioAnterior": 98899,
+      "link": "https://www.cetrogar.com.ar/termotanque-electrico-55-lt-sherman.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 15658.17
+    },
+    {
+      "titulo": "Vitroconvector Peabody 1500W PE-BVC15 Celeste",
+      "precio": 28499,
+      "precioAnterior": 30799,
+      "link": "https://www.cetrogar.com.ar/vitroconvector-peabody-1500w-pe-bvc15-celeste.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 4749.83
+    },
+    {
+      "titulo": "Termotanque Longvie 80 Litros TE80F",
+      "precio": 113619,
+      "precioAnterior": 119599,
+      "link": "https://www.cetrogar.com.ar/termotanque-longvie-80-litros-te80f.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 18936.5
+    },
+    {
+      "titulo": "Cocina 87673VM 4 hornallas Volcan",
+      "precio": 135999,
+      "precioAnterior": 152799,
+      "link": "https://www.cetrogar.com.ar/cocina-87673vm-4-hornallas-volcan.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 22666.5
+    },
+    {
+      "titulo": "Cocina 87653VM 4 hornallas Volcan",
+      "precio": 117999,
+      "precioAnterior": 133099,
+      "link": "https://www.cetrogar.com.ar/cocina-87653vm-4-hornallas-volcan.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 19666.5
+    },
+    {
+      "titulo": "Cocina 87643VM 4 hornallas Volcan",
+      "precio": 117999,
+      "precioAnterior": 133099,
+      "link": "https://www.cetrogar.com.ar/cocina-87643vm-4-hornallas-volcan.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 19666.5
+    },
+    {
+      "titulo": "Cocina 87644VM 4 hornallas Volcan",
+      "precio": 112569,
+      "precioAnterior": 118499,
+      "link": "https://www.cetrogar.com.ar/cocina-87644vm-4-hornallas-volcan.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 18761.5
+    },
+    {
+      "titulo": "Campana Spar Flexa 60cm",
+      "precio": 147439,
+      "precioAnterior": 155199,
+      "link": "https://www.cetrogar.com.ar/campana-spar-flexa-60cm.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 24573.17
+    },
+    {
+      "titulo": "Termotanque eléctrico 125lt Rheem",
+      "precio": 162259,
+      "precioAnterior": 170799,
+      "link": "https://www.cetrogar.com.ar/termotanque-electrico-125lt-rheem.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 27043.17
+    },
+    {
+      "titulo": "Termotanque SAIAR Multigas Pie 80 Litros",
+      "precio": 121409,
+      "precioAnterior": 127799,
+      "link": "https://www.cetrogar.com.ar/termotanque-saiar-multigas-pie-80-litros.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 20234.83
+    },
+    {
+      "titulo": "Horno Longvie HE1900XF",
+      "precio": 236449,
+      "precioAnterior": 248899,
+      "link": "https://www.cetrogar.com.ar/horno-longvie-he1900xf.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 39408.17
+    },
+    {
+      "titulo": "Cocina Master classic blanca GE 56 cm Escorial",
+      "precio": 71499,
+      "precioAnterior": 72999,
+      "link": "https://www.cetrogar.com.ar/cocina-master-classic-blanca-ge-56-cm-escorial.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 11916.5
+    },
+    {
+      "titulo": "Lavarropas semiautomático LTPK79SB 7kg Patrick",
+      "precio": 65999,
+      "precioAnterior": 74699,
+      "link": "https://www.cetrogar.com.ar/lavarropas-semiautomatico-ltpk79sb-7kg-patrick.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 10999.83
+    },
+    {
+      "titulo": "Cocina Hauser CHGS55HV 55cm",
+      "precio": 129999,
+      "precioAnterior": 150299,
+      "link": "https://www.cetrogar.com.ar/cocina-hauser-chgs55hv-55cm.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 21666.5
+    },
+    {
+      "titulo": "Panel Eléctrico ATMA Digital ATVC1521P 1500w",
+      "precio": 27999,
+      "precioAnterior": 32099,
+      "link": "https://www.cetrogar.com.ar/panel-electrico-atma-digital-atvc1521p-1500w.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 4666.5
+    },
+    {
+      "titulo": "Calefactor Longvie 7500Kcal ECA8KVT SS VISOR MG",
+      "precio": 98599,
+      "precioAnterior": 105499,
+      "link": "https://www.cetrogar.com.ar/calefactor-longvie-7500kcal-eca8kvt-ss-visor-mg.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 16433.17
+    },
+    {
+      "titulo": "Horno Morelli SAHO H6",
+      "precio": 106589,
+      "precioAnterior": 112199,
+      "link": "https://www.cetrogar.com.ar/horno-morelli-saho-h6.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 17764.83
+    },
+    {
+      "titulo": "Microondas ME731K 20lt Samsung",
+      "precio": 48899,
+      "precioAnterior": 76899,
+      "link": "https://www.cetrogar.com.ar/microondas-me731k-20lt-samsung.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 3,
+      "valorCuotas": 16299.67
+    },
+    {
+      "titulo": "Cocina eléctrica PHCH050P2 50 cm Philco",
+      "precio": 222999,
+      "precioAnterior": 257699,
+      "link": "https://www.cetrogar.com.ar/cocina-electrica-phch050p2-50-cm-philco.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 37166.5
+    },
+    {
+      "titulo": "Ventilador turbo 20\" VTF20P 90W Liliana",
+      "precio": 10999,
+      "precioAnterior": 11999,
+      "link": "https://www.cetrogar.com.ar/ventilador-turbo-20-vtf20p-90w-liliana.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 1833.17
+    },
+    {
+      "titulo": "Cocina eléctrica PHCH050B2 50 cm Philco",
+      "precio": 219999,
+      "precioAnterior": 253799,
+      "link": "https://www.cetrogar.com.ar/cocina-electrica-phch050b2-50-cm-philco.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 36666.5
+    },
+    {
+      "titulo": "Termotanque eléctrico 85lt Rheem",
+      "precio": 120999,
+      "precioAnterior": 145899,
+      "link": "https://www.cetrogar.com.ar/termotanque-electrico-85lt-rheem.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 20166.5
+    },
+    {
+      "titulo": "Termotanque SAIAR Multigas Pie 120 Litros",
+      "precio": 138979,
+      "precioAnterior": 146299,
+      "link": "https://www.cetrogar.com.ar/termotanque-saiar-multigas-pie-120-litros.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 23163.17
+    },
+    {
+      "titulo": "Termotanque SAIAR electrico Pie 85 Litros",
+      "precio": 94999,
+      "precioAnterior": 114199,
+      "link": "https://www.cetrogar.com.ar/termotanque-saiar-electrico-pie-85-litros.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 15833.17
+    },
+    {
+      "titulo": "Termotanque SAIAR eléctrico Pie 55 Litros",
+      "precio": 79999,
+      "precioAnterior": 100399,
+      "link": "https://www.cetrogar.com.ar/termotanque-saiar-electrico-pie-55-litros.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 3,
+      "valorCuotas": 26666.33
+    },
+    {
+      "titulo": "Calefactor Longvie EB2000EBA2 Multigas Tiro Balanceado",
+      "precio": 64399,
+      "precioAnterior": 69299,
+      "link": "https://www.cetrogar.com.ar/calefactor-longvie-eb2000eba2-multigas-tiro-balanceado.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 10733.17
+    },
+    {
+      "titulo": "Cafetera Expresso Smartlife EC8501 2 en 1 20B",
+      "precio": 70959,
+      "precioAnterior": 74699,
+      "link": "https://www.cetrogar.com.ar/cafetera-expresso-smartlife-ec8501-2-en-1-20b.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 11826.5
+    },
+    {
+      "titulo": "Calefactor Volcan 46316V TB 5700 Cal Gas Natural",
+      "precio": 59999,
+      "precioAnterior": 63799,
+      "link": "https://www.cetrogar.com.ar/calefactor-volcan-46316v-tb-5700-cal-gas-natural.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 9999.83
+    },
+    {
+      "titulo": "Microondas 91MD1820 grill 17lt Atma",
+      "precio": 53959,
+      "precioAnterior": 56799,
+      "link": "https://www.cetrogar.com.ar/microondas-91md1820-grill-17lt-atma.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 8993.17
+    },
+    {
+      "titulo": "Calefactor Liliana Fijo 1400w CI080",
+      "precio": 16149,
+      "precioAnterior": 16999,
+      "link": "https://www.cetrogar.com.ar/calefactor-liliana-fijo-1400w-ci080.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 2691.5
+    },
+    {
+      "titulo": "Anafe A-6600RXF inoxidable Longvie",
+      "precio": 173369,
+      "precioAnterior": 182499,
+      "link": "https://www.cetrogar.com.ar/anafe-a-6600rxf-inoxidable-longvie.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 28894.83
+    },
+    {
+      "titulo": "Caloventor Pared Liliana 2000w ION CW800",
+      "precio": 23799,
+      "precioAnterior": 28999,
+      "link": "https://www.cetrogar.com.ar/caloventor-pared-liliana-2000w-ion-cw800.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 3966.5
+    },
+    {
+      "titulo": "Tostadora Philips HD 2637",
+      "precio": 21849,
+      "precioAnterior": 22999,
+      "link": "https://www.cetrogar.com.ar/tostadora-philips-hd-2637.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 3641.5
+    },
+    {
+      "titulo": "Microondas MG23F3K3TAS grill 23lt Samsung",
+      "precio": 68199,
+      "precioAnterior": 85399,
+      "link": "https://www.cetrogar.com.ar/microondas-mg23f3k3tas-grill-23lt-samsung.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 3,
+      "valorCuotas": 22733
+    },
+    {
+      "titulo": "Cocina Longvie 13331BF",
+      "precio": 194079,
+      "precioAnterior": 204299,
+      "link": "https://www.cetrogar.com.ar/cocina-longvie-13331bf.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 32346.5
+    },
+    {
+      "titulo": "Microondas MG28F3K3TAS grill 28lt Samsung",
+      "precio": 82099,
+      "precioAnterior": 93799,
+      "link": "https://www.cetrogar.com.ar/microondas-mg28f3k3tas-grill-28lt-samsung.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 3,
+      "valorCuotas": 27366.33
+    },
+    {
+      "titulo": "Microondas MG23FK3TAK grill 23lt Samsung",
+      "precio": 72899,
+      "precioAnterior": 83299,
+      "link": "https://www.cetrogar.com.ar/microondas-mg23fk3tak-grill-23lt-samsung.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 3,
+      "valorCuotas": 24299.67
+    },
+    {
+      "titulo": "Anafe PH941MSTV(IX)AG Ariston",
+      "precio": 333399,
+      "precioAnterior": 365999,
+      "link": "https://www.cetrogar.com.ar/anafe-ph941mstv-ix-ag-ariston.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 55566.5
+    },
+    {
+      "titulo": "Horno Ariston 60 cm MP776IXA eléctrico",
+      "precio": 528959,
+      "precioAnterior": 556799,
+      "link": "https://www.cetrogar.com.ar/horno-ariston-60-cm-mp776ixa-electrico.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 88159.83
+    },
+    {
+      "titulo": "Campana WAI-92 AR IX 1m 3v Whirlpool",
+      "precio": 167899,
+      "precioAnterior": 205599,
+      "link": "https://www.cetrogar.com.ar/campana-wai-92-ar-ix-1m-3v-whirlpool.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 27983.17
+    },
+    {
+      "titulo": "Heladera Neba CF BL A280 265lt",
+      "precio": 149999,
+      "precioAnterior": 168299,
+      "link": "https://www.cetrogar.com.ar/heladera-neba-cf-bl-a280-265lt.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 24999.83
+    },
+    {
+      "titulo": "Campana Hauser CHS60IX 60cm",
+      "precio": 81999,
+      "precioAnterior": 93199,
+      "link": "https://www.cetrogar.com.ar/campana-hauser-chs60ix-60cm.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 13666.5
+    },
+    {
+      "titulo": "Pastalinda máquina clásica 260 roja",
+      "precio": 79999,
+      "precioAnterior": 86699,
+      "link": "https://www.cetrogar.com.ar/pastalinda-maquina-clasica-260-roja.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 13333.17
+    },
+    {
+      "titulo": "Cocina 958BC3 55 cm blanca Orbis",
+      "precio": 157979,
+      "precioAnterior": 166299,
+      "link": "https://www.cetrogar.com.ar/cocina-958bc3-55-cm-blanca-orbis.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 26329.83
+    },
+    {
+      "titulo": "Termotanque Escorial Multigas Superior para Colgar 43 Litros",
+      "precio": 49999,
+      "precioAnterior": 59399,
+      "link": "https://www.cetrogar.com.ar/termotanque-escorial-multigas-superior-para-colgar-43-litros.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 8333.17
+    },
+    {
+      "titulo": "Purificador Gafa AJSR24M5ARW Bl 3v",
+      "precio": 36999,
+      "precioAnterior": 46599,
+      "link": "https://www.cetrogar.com.ar/purificador-gafa-ajsr24m5arw-bl-3v.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 6166.5
+    },
+    {
+      "titulo": "Campana Spar Stylo 60cm 6351-029",
+      "precio": 98319,
+      "precioAnterior": 103499,
+      "link": "https://www.cetrogar.com.ar/campana-spar-stylo-60cm-6351-029.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 16386.5
+    },
+    {
+      "titulo": "Purificador Spar BIOS Blanco Duo 2M",
+      "precio": 65929,
+      "precioAnterior": 69399,
+      "link": "https://www.cetrogar.com.ar/purificador-spar-bios-blanco-duo-2m.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 10988.17
+    },
+    {
+      "titulo": "Purificador Spar Bios 3766 BOO",
+      "precio": 58989,
+      "precioAnterior": 62099,
+      "link": "https://www.cetrogar.com.ar/purificador-spar-bios-3766-boo.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 9831.5
+    },
+    {
+      "titulo": "Termotanque eléctrico TEP155RH 155lt Rheem",
+      "precio": 152999,
+      "precioAnterior": 181399,
+      "link": "https://www.cetrogar.com.ar/termotanque-electrico-tep155rh-155lt-rheem.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 25499.83
+    },
+    {
+      "titulo": "Horno Whirlpool eléctrico Touch IX AKZM656IX",
+      "precio": 336999,
+      "precioAnterior": 388099,
+      "link": "https://www.cetrogar.com.ar/horno-whirlpool-electrico-touch-ix-akzm656ix.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 56166.5
+    },
+    {
+      "titulo": "Horno empotrable eléctrico Whirlpool AKZM756IX",
+      "precio": 279999,
+      "precioAnterior": 341099,
+      "link": "https://www.cetrogar.com.ar/horno-empotrable-electrico-whirlpool-akzm756ix.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 46666.5
+    },
+    {
+      "titulo": "Termotanque SAIAR eléctrico Pie 125 Litros",
+      "precio": 123309,
+      "precioAnterior": 129799,
+      "link": "https://www.cetrogar.com.ar/termotanque-saiar-electrico-pie-125-litros.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 20551.5
+    },
+    {
+      "titulo": "Anafe A-6600X 4 hornallas Longvie",
+      "precio": 173369,
+      "precioAnterior": 182499,
+      "link": "https://www.cetrogar.com.ar/anafe-a-6600x-4-hornallas-longvie.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 28894.83
+    },
+    {
+      "titulo": "Anafe A-6600G a gas 4 hornallas Longvie",
+      "precio": 169479,
+      "precioAnterior": 178399,
+      "link": "https://www.cetrogar.com.ar/anafe-a-6600g-a-gas-4-hornallas-longvie.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 28246.5
+    },
+    {
+      "titulo": "Anafe HR611CA vitrocerámico Ariston",
+      "precio": 241679,
+      "precioAnterior": 254399,
+      "link": "https://www.cetrogar.com.ar/anafe-hr611ca-vitroceramico-ariston.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 40279.83
+    },
+    {
+      "titulo": "Cocina 968AC3 encendido electrónico 55 cm Orbis",
+      "precio": 222009,
+      "precioAnterior": 233699,
+      "link": "https://www.cetrogar.com.ar/cocina-968ac3-encendido-electronico-55-cm-orbis.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 37001.5
+    },
+    {
+      "titulo": "Cocina Longvie 21501X Acero display touch",
+      "precio": 395669,
+      "precioAnterior": 416499,
+      "link": "https://www.cetrogar.com.ar/cocina-longvie-21501x-acero-display-touch.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 65944.83
+    },
+    {
+      "titulo": "Cocina Longvie 13501XF Inoxodable timer",
+      "precio": 257729,
+      "precioAnterior": 271299,
+      "link": "https://www.cetrogar.com.ar/cocina-longvie-13501xf-inoxodable-timer.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 42954.83
+    },
+    {
+      "titulo": "Horno Whirlpool WOG60IX Gas Inoxidable Spiedo",
+      "precio": 247949,
+      "precioAnterior": 260999,
+      "link": "https://www.cetrogar.com.ar/horno-whirlpool-wog60ix-gas-inoxidable-spiedo.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 41324.83
+    },
+    {
+      "titulo": "Secarropas Kohinoor Blanco B-665/2 6.5kg",
+      "precio": 55999,
+      "precioAnterior": 66799,
+      "link": "https://www.cetrogar.com.ar/secarropas-kohinoor-blanco-b-665-2-6-5kg.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 9333.17
+    },
+    {
+      "titulo": "Secarropas Kohinoor Blanco B-655/2 5.5kg",
+      "precio": 55859,
+      "precioAnterior": 58799,
+      "link": "https://www.cetrogar.com.ar/secarropas-kohinoor-blanco-b-655-2-5-5kg.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 9309.83
+    },
+    {
+      "titulo": "Secarropas Kohinoor Acero A-665/2 6.5k",
+      "precio": 61999,
+      "precioAnterior": 74099,
+      "link": "https://www.cetrogar.com.ar/secarropas-kohinoor-acero-a-665-2-6-5k.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 10333.17
+    },
+    {
+      "titulo": "Lavavajillas Drean Dish 12.2 LTB",
+      "precio": 262999,
+      "precioAnterior": 311999,
+      "link": "https://www.cetrogar.com.ar/lavavajillas-drean-dish-12-2-ltb.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 43833.17
+    },
+    {
+      "titulo": "Termotanque Longvie Multigas Pie 75 Litros superior",
+      "precio": 127389,
+      "precioAnterior": 134099,
+      "link": "https://www.cetrogar.com.ar/termotanque-longvie-multigas-pie-75-litros-superior.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 21231.5
+    },
+    {
+      "titulo": "Lavavajillas Drean Dish 15.2 DTB",
+      "precio": 289999,
+      "precioAnterior": 344299,
+      "link": "https://www.cetrogar.com.ar/lavavajillas-drean-dish-15-2-dtb.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 48333.17
+    },
+    {
+      "titulo": "Anafe Whirlpool 5H GMA9522X 86cm gas",
+      "precio": 169999,
+      "precioAnterior": 200799,
+      "link": "https://www.cetrogar.com.ar/anafe-whirlpool-5h-gma9522x-86cm-gas.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 28333.17
+    },
+    {
+      "titulo": "Cocina Longvie 13331G",
+      "precio": 199209,
+      "precioAnterior": 209699,
+      "link": "https://www.cetrogar.com.ar/cocina-longvie-13331g.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 33201.5
+    },
+    {
+      "titulo": "Freezer F250 211lt blanco Neba",
+      "precio": 149999,
+      "precioAnterior": 164199,
+      "link": "https://www.cetrogar.com.ar/freezer-f250-245lt-blanco-neba.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 24999.83
+    },
+    {
+      "titulo": "Anafe eléctrica AVST360K Vitroc 4H Longvie",
+      "precio": 173279,
+      "precioAnterior": 182399,
+      "link": "https://www.cetrogar.com.ar/anafe-electrica-avst360k-vitroc-4h-longvie.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 28879.83
+    },
+    {
+      "titulo": "Plancha a vapor  PAV2477N 1100W Atma",
+      "precio": 8999,
+      "precioAnterior": 11599,
+      "link": "https://www.cetrogar.com.ar/plancha-a-vapor-pav2477n-1100w-atma.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 1499.83
+    },
+    {
+      "titulo": "Cava Philco PHCAV018N 18 botellas",
+      "precio": 111339,
+      "precioAnterior": 117199,
+      "link": "https://www.cetrogar.com.ar/cava-philco-phcav018n-18-botellas.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 18556.5
+    },
+    {
+      "titulo": "Licuadora Peabody PE-LN805B 800W 1.75 lt",
+      "precio": 18999,
+      "precioAnterior": 19999,
+      "link": "https://www.cetrogar.com.ar/licuadora-peabody-pe-ln805b-800w-1-75-lt.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 3166.5
+    },
+    {
+      "titulo": "Cocina a gas CGX56 inoxidable 56cm Gafa",
+      "precio": 159999,
+      "precioAnterior": 186399,
+      "link": "https://www.cetrogar.com.ar/cocina-a-gas-cgx56-inoxidable-56cm-gafa.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 26666.5
+    },
+    {
+      "titulo": "Cocina a gas CGB56 blanca 56cm Gafa",
+      "precio": 143999,
+      "precioAnterior": 169699,
+      "link": "https://www.cetrogar.com.ar/cocina-a-gas-cgb56-blanca-56cm-gafa.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 23999.83
+    },
+    {
+      "titulo": "Batidora Planetaria Phillips HR7922/90",
+      "precio": 40299,
+      "precioAnterior": 55699,
+      "link": "https://www.cetrogar.com.ar/batidora-planetaria-phillips-hr7922-90.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 6716.5
+    },
+    {
+      "titulo": "Anafe 6748LX4H a gas Florencia",
+      "precio": 69999,
+      "precioAnterior": 84599,
+      "link": "https://www.cetrogar.com.ar/anafe-6748lx4h-a-gas-florencia.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 11666.5
+    },
+    {
+      "titulo": "Horno Florencia 7857F Eléctrico Mecánico",
+      "precio": 109999,
+      "precioAnterior": 129499,
+      "link": "https://www.cetrogar.com.ar/horno-florencia-7857f-electrico-mecanico.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 18333.17
+    },
+    {
+      "titulo": "Cocina Moddo Line 495 GN 51cm",
+      "precio": 58039,
+      "precioAnterior": 61099,
+      "link": "https://www.cetrogar.com.ar/cocina-moddo-line-495-gn-51cm.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 9673.17
+    },
+    {
+      "titulo": "Lavarropas Whirlpool WCS06ZB 6kg 1200RPM CS blanco",
+      "precio": 261629,
+      "precioAnterior": 275399,
+      "link": "https://www.cetrogar.com.ar/lavarropas-whirlpool-wcs06zb-6kg-1200rpm-cs-blanco.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 43604.83
+    },
+    {
+      "titulo": "Lavarropas Drean NEXT 6.08 6K 800rpm CF",
+      "precio": 144999,
+      "precioAnterior": 182599,
+      "link": "https://www.cetrogar.com.ar/lavarropas-drean-next-6-08-6k-800rpm-cf.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 24166.5
+    },
+    {
+      "titulo": "Freezer WHB42D1 414lt blanco Whirlpool",
+      "precio": 311029,
+      "precioAnterior": 327399,
+      "link": "https://www.cetrogar.com.ar/freezer-whb42d1-414lt-blanco-whirlpool.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 51838.17
+    },
+    {
+      "titulo": "Termotanque eléctrico TEP125RH 125lt Rheem",
+      "precio": 134999,
+      "precioAnterior": 162399,
+      "link": "https://www.cetrogar.com.ar/termotanque-electrico-tep125rh-125lt-rheem.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 22499.83
+    },
+    {
+      "titulo": "Purificador 60 cm Whirlpool WAB60CX Con y Sin Salida",
+      "precio": 73999,
+      "precioAnterior": 90199,
+      "link": "https://www.cetrogar.com.ar/purificador-60-cm-whirlpool-wab60cx-con-y-sin-salida.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 12333.17
+    },
+    {
+      "titulo": "Purificador 60 cm Whirlpool WAB60BC Con y Sin Salida",
+      "precio": 64999,
+      "precioAnterior": 78899,
+      "link": "https://www.cetrogar.com.ar/purificador-60-cm-whirlpool-wab60bc-con-y-sin-salida.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 10833.17
+    },
+    {
+      "titulo": "Anafe AKT8090L vitrocerámico Whirlpool",
+      "precio": 184999,
+      "precioAnterior": 220099,
+      "link": "https://www.cetrogar.com.ar/anafe-akt8090l-vitroceramico-whirlpool.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 30833.17
+    },
+    {
+      "titulo": "Anafe THC641W/IX/A/AG 4 hornallas Ariston",
+      "precio": 225799,
+      "precioAnterior": 262399,
+      "link": "https://www.cetrogar.com.ar/anafe-thc641w-ix-a-ag-4-hornallas-ariston.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 37633.17
+    },
+    {
+      "titulo": "Anafe eléctrica AVST330K 30cm Vitroc 2H Longvie",
+      "precio": 121409,
+      "precioAnterior": 127799,
+      "link": "https://www.cetrogar.com.ar/anafe-electrica-avst330k-30cm-vitroc-2h-longvie.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 20234.83
+    },
+    {
+      "titulo": "Ventilador de techo 4P VTML 420 con luz LED Moddo",
+      "precio": 33999,
+      "precioAnterior": 36799,
+      "link": "https://www.cetrogar.com.ar/ventilador-de-techo-4p-vtml-420-con-luz-led-moddo.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 5666.5
+    },
+    {
+      "titulo": "Pava eléctrica PE-KA1708 1.7lt Peabody",
+      "precio": 11019,
+      "precioAnterior": 11599,
+      "link": "https://www.cetrogar.com.ar/pava-electrica-pe-ka1708-1-7lt-peabody.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 1836.5
+    },
+    {
+      "titulo": "Anafe eléctrico W1040 Winco",
+      "precio": 7879,
+      "precioAnterior": 8299,
+      "link": "https://www.cetrogar.com.ar/anafe-electrico-w1040-winco.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 1313.17
+    },
+    {
+      "titulo": "Microondas Li23G-S20 23lt Likon",
+      "precio": 56199,
+      "precioAnterior": 57999,
+      "link": "https://www.cetrogar.com.ar/microondas-li23g-s20-23lt-likon.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 9366.5
+    },
+    {
+      "titulo": "Cocina Escorial Candor S2 GN 51cm",
+      "precio": 62999,
+      "precioAnterior": 67699,
+      "link": "https://www.cetrogar.com.ar/cocina-escorial-candor-s2-gn-51cm.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 10499.83
+    },
+    {
+      "titulo": "Lavarropas Columbia LSC7000 7Kg",
+      "precio": 36999,
+      "precioAnterior": 44299,
+      "link": "https://www.cetrogar.com.ar/lavarropas-columbia-lsc7000-7kg.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 6166.5
+    },
+    {
+      "titulo": "Mixer Peabody LMA327 Blanca 800w",
+      "precio": 22499,
+      "precioAnterior": 24199,
+      "link": "https://www.cetrogar.com.ar/mixer-peabody-lma327-blanca-800w.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 3749.83
+    },
+    {
+      "titulo": "Cocina Orbis 968GP3 Encendido Electrónico 55cm Gris",
+      "precio": 208709,
+      "precioAnterior": 219699,
+      "link": "https://www.cetrogar.com.ar/cocina-orbis-968gp3-encendido-electronico-55cm-gris.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 34784.83
+    },
+    {
+      "titulo": "Cocina Longvie 13501BF Blanca Timer",
+      "precio": 232839,
+      "precioAnterior": 245099,
+      "link": "https://www.cetrogar.com.ar/cocina-longvie-13501bf-blanca-timer.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 38806.5
+    },
+    {
+      "titulo": "Horno Longvie H-6900G Grafito Gas Grill Eléctrico",
+      "precio": 256969,
+      "precioAnterior": 270499,
+      "link": "https://www.cetrogar.com.ar/horno-longvie-h-6900g-grafito-gas-grill-electrico.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 42828.17
+    },
+    {
+      "titulo": "Freezer horizontal WHA22D1 220 lt blanco Whirlpool",
+      "precio": 205769,
+      "precioAnterior": 216599,
+      "link": "https://www.cetrogar.com.ar/freezer-horizontal-wha22d1-220-lt-blanco-whirlpool.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 34294.83
+    },
+    {
+      "titulo": "Cocina 5517 F negra 56 cm Florencia",
+      "precio": 75999,
+      "precioAnterior": 105499,
+      "link": "https://www.cetrogar.com.ar/cocina-5517-f-negra-56-cm-florencia.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 3,
+      "valorCuotas": 25333
+    },
+    {
+      "titulo": "Plancha Philips GC1022-40 Vapor Nacional",
+      "precio": 16149,
+      "precioAnterior": 16999,
+      "link": "https://www.cetrogar.com.ar/plancha-philips-gc1022-40-vapor-nacional.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 2691.5
+    },
+    {
+      "titulo": "Termotanque  Rheem Gas Natural de Pie 80 Litros conexión superior",
+      "precio": 149999,
+      "precioAnterior": 181199,
+      "link": "https://www.cetrogar.com.ar/termotanque-rheem-gas-natural-de-pie-80-litros-conexion-superior.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 24999.83
+    },
+    {
+      "titulo": "Aire Acondicionado Split Midea 5140W Frío Calor MSAGFC-18H-01F",
+      "precio": 315589,
+      "precioAnterior": 332199,
+      "link": "https://www.cetrogar.com.ar/aire-acondicionado-split-midea-5140w-frio-calor-msagfc-18h-01f.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 52598.17
+    },
+    {
+      "titulo": "Ventilador de techo 4P VTA 420 con luz LED negro Moddo",
+      "precio": 28999,
+      "precioAnterior": 31199,
+      "link": "https://www.cetrogar.com.ar/ventilador-de-techo-4p-vta-420-con-luz-led-negro-moddo.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 4833.17
+    },
+    {
+      "titulo": "Microondas B330DSS9 QChef 30lt BGH",
+      "precio": 92999,
+      "precioAnterior": 105999,
+      "link": "https://www.cetrogar.com.ar/microondas-b330dss9-qchef-30lt-bgh.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 15499.83
+    },
+    {
+      "titulo": "Cocina eléctrica PHCH050B 50 cm Philco",
+      "precio": 239869,
+      "precioAnterior": 252499,
+      "link": "https://www.cetrogar.com.ar/cocina-electrica-phch050b-50-cm-philco.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 39978.17
+    },
+    {
+      "titulo": "Purificador Spar Eccos 60cm Acero 1Mot 2360-019",
+      "precio": 54149,
+      "precioAnterior": 56999,
+      "link": "https://www.cetrogar.com.ar/purificador-spar-eccos-60cm-acero-1mot-2360-019.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 9024.83
+    },
+    {
+      "titulo": "Aire Acondicionado Split Midea 9310W Frío Calor MSAUC36H01M",
+      "precio": 569999,
+      "precioAnterior": 619499,
+      "link": "https://www.cetrogar.com.ar/aire-acondicionado-split-midea-9310w-frio-calor-msauc36h01m.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 94999.83
+    },
+    {
+      "titulo": "Cocina Florencia 5558F Acero Inoxidable",
+      "precio": 159999,
+      "precioAnterior": 205999,
+      "link": "https://www.cetrogar.com.ar/cocina-florencia-5558f-acero-inoxidable.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 26666.5
+    },
+    {
+      "titulo": "Purificador Eslabón Lujo EAB 60 BB/BC BL 1 Motor",
+      "precio": 49999,
+      "precioAnterior": 62099,
+      "link": "https://www.cetrogar.com.ar/purificador-eslabon-lujo-eab-60-bb-bc-bl-1-motor.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 8333.17
+    },
+    {
+      "titulo": "Lavarropas Codini ECO WASH 6510-G 6K CF 1000rpm plateado",
+      "precio": 161499,
+      "precioAnterior": 169999,
+      "link": "https://www.cetrogar.com.ar/lavarropas-codini-eco-wash-6510-g-6k-cf-1000rpm-plateado.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 26916.5
+    },
+    {
+      "titulo": "Heladera con freezer HM130B 257 lt Moddo",
+      "precio": 157129,
+      "precioAnterior": 165399,
+      "link": "https://www.cetrogar.com.ar/heladera-con-freezer-hm130b-257-lt-moddo-1.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 26188.17
+    },
+    {
+      "titulo": "Heladera con freezer HGF388AFB 374 lt blanco Gafa",
+      "precio": 194999,
+      "precioAnterior": 216199,
+      "link": "https://www.cetrogar.com.ar/heladera-con-freezer-hgf388afb-374-lt-blanco-gafa.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 32499.83
+    },
+    {
+      "titulo": "Microondas BGH QChef 20lt B120DS20 700W",
+      "precio": 56899,
+      "precioAnterior": 59899,
+      "link": "https://www.cetrogar.com.ar/microondas-bgh-qchef-20lt-b120ds20-700w.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 3,
+      "valorCuotas": 18966.33
+    },
+    {
+      "titulo": "Cocina Morelli Forza 900 5 hornallas",
+      "precio": 209999,
+      "precioAnterior": 239299,
+      "link": "https://www.cetrogar.com.ar/cocina-morelli-forza-900-5-hornallas.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 34999.83
+    },
+    {
+      "titulo": "Cocina Multigas Whirlpool WF360XG Inox 4h Encedido Eléctrico",
+      "precio": 242719,
+      "precioAnterior": 255499,
+      "link": "https://www.cetrogar.com.ar/cocina-multigas-whirlpool-wf360xg-inox-4h-encedido-electrico.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 40453.17
+    },
+    {
+      "titulo": "Anafe doble  AA902 1600W Liliana",
+      "precio": 20139,
+      "precioAnterior": 21199,
+      "link": "https://www.cetrogar.com.ar/anafe-doble-aa902-1600w-liliana.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 3356.5
+    },
+    {
+      "titulo": "Heladera Whirlpool Retro WRA09B2 Bajo Mesada Blanca 76 Litros",
+      "precio": 173369,
+      "precioAnterior": 182499,
+      "link": "https://www.cetrogar.com.ar/heladera-whirlpool-retro-wra09b2-bajo-mesada-blanca-76-litros.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 28894.83
+    },
+    {
+      "titulo": "Cocina Florencia 5518F Inoxidable",
+      "precio": 114999,
+      "precioAnterior": 132199,
+      "link": "https://www.cetrogar.com.ar/cocina-florencia-5518f-inoxidable.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 19166.5
+    },
+    {
+      "titulo": "Termotanque  Rheem Gas Natural de Pie 120 Litros conexión superior",
+      "precio": 167999,
+      "precioAnterior": 200899,
+      "link": "https://www.cetrogar.com.ar/termotanque-rheem-gas-natural-de-pie-120-litros-conexion-superior.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 27999.83
+    },
+    {
+      "titulo": "Lavarropas Drean Concept 5.05 V1 5KG 500RPM",
+      "precio": 109999,
+      "precioAnterior": 129899,
+      "link": "https://www.cetrogar.com.ar/lavarropas-drean-concept-5-05-v1-5kg-500rpm.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 18333.17
+    },
+    {
+      "titulo": "Heladera bajo mesada BK-1000 146lt Briket",
+      "precio": 111719,
+      "precioAnterior": 117599,
+      "link": "https://www.cetrogar.com.ar/heladera-bajo-mesada-bk-1000-146lt-briket.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 18619.83
+    },
+    {
+      "titulo": "Campana 60cm Whirlpool WAI-63 AR Con o Sin salida",
+      "precio": 194839,
+      "precioAnterior": 205099,
+      "link": "https://www.cetrogar.com.ar/campana-60cm-whirlpool-wai-63-ar-con-o-sin-salida.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 32473.17
+    },
+    {
+      "titulo": "Cocina Ariston A6V530 (X) EX Encendido Electrónico 60cm Inox",
+      "precio": 349999,
+      "precioAnterior": 376499,
+      "link": "https://www.cetrogar.com.ar/cocina-ariston-a6v530-x-ex-encendido-electronico-60cm-inox.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 58333.17
+    },
+    {
+      "titulo": "Heladera Moddo 282 Litros HM121B",
+      "precio": 128059,
+      "precioAnterior": 134799,
+      "link": "https://www.cetrogar.com.ar/heladera-moddo-282-litros-hm121b-1.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 21343.17
+    },
+    {
+      "titulo": "Heladera con freezer HGF358 AFB blanca 282lt Gafa",
+      "precio": 154999,
+      "precioAnterior": 172099,
+      "link": "https://www.cetrogar.com.ar/heladera-con-freezer-hgf358-afb-blanca-282lt-gafa.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 25833.17
+    },
+    {
+      "titulo": "Freidora EASY Pro AM3 1600W Moulinex",
+      "precio": 39899,
+      "precioAnterior": 43189,
+      "link": "https://www.cetrogar.com.ar/freidora-easy-pro-am3-1600w-moulinex.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 6649.83
+    },
+    {
+      "titulo": "Anafe eléctrico Winco W1041 dos hornallas",
+      "precio": 15479,
+      "precioAnterior": 16299,
+      "link": "https://www.cetrogar.com.ar/anafe-electrico-winco-w1041-dos-hornallas.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 2579.83
+    },
+    {
+      "titulo": "Batidora pie Peabody PEBM101R Roja 1000w",
+      "precio": 39899,
+      "precioAnterior": 41999,
+      "link": "https://www.cetrogar.com.ar/batidora-pie-peabody-pebm101r-roja-1000w.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 6649.83
+    },
+    {
+      "titulo": "Microondas B120DB9 20lt BGH",
+      "precio": 51769,
+      "precioAnterior": 54499,
+      "link": "https://www.cetrogar.com.ar/microondas-b120db9-20lt-bgh.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 3,
+      "valorCuotas": 17256.33
+    },
+    {
+      "titulo": "Batidora de pie planetaria PEABODY-BM101I 1000w marfil",
+      "precio": 49869,
+      "precioAnterior": 52499,
+      "link": "https://www.cetrogar.com.ar/batidora-de-pie-planetaria-peabody-bm101i-1000w-marfil.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 8311.5
+    },
+    {
+      "titulo": "Batidora de pie Daihatsu Jupiter BP1360B Negra",
+      "precio": 36099,
+      "precioAnterior": 37999,
+      "link": "https://www.cetrogar.com.ar/batidora-de-pie-daihatsu-jupiter-bp1360b-negra.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 6016.5
+    },
+    {
+      "titulo": "Cocina Multigas Whirlpool WFB57DI Blanca 4h Encendido Eléctrico 56 cm",
+      "precio": 179999,
+      "precioAnterior": 227899,
+      "link": "https://www.cetrogar.com.ar/cocina-multigas-whirlpool-wfb57di-blanca-4h-encendido-electrico-56-cm.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 29999.83
+    },
+    {
+      "titulo": "Freezer horizontal m-130 220 lt blanco Moddo",
+      "precio": 158739,
+      "precioAnterior": 167099,
+      "link": "https://www.cetrogar.com.ar/freezer-horizontal-m-130-220-lt-blanco-moddo.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 26456.5
+    },
+    {
+      "titulo": "Heladera Whirlpool Retro WRA09B1 Bajo Mesada Negra 76 Litros",
+      "precio": 173369,
+      "precioAnterior": 182499,
+      "link": "https://www.cetrogar.com.ar/heladera-whirlpool-retro-wra09b1-bajo-mesada-negra-76-litros.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 28894.83
+    },
+    {
+      "titulo": "Heladera Moddo 282 Litros HM121B",
+      "precio": 128059,
+      "precioAnterior": 134799,
+      "link": "https://www.cetrogar.com.ar/heladera-moddo-282-litros-hm121b.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 21343.17
+    },
+    {
+      "titulo": "Heladera no frost DFN3500P 298 lt Electrolux",
+      "precio": 237309,
+      "precioAnterior": 249799,
+      "link": "https://www.cetrogar.com.ar/heladera-no-frost-dfn3500p-298-lt-electrolux.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 39551.5
+    },
+    {
+      "titulo": "Batidora pie planetaria PEABODY-BM110R roja",
+      "precio": 49869,
+      "precioAnterior": 52499,
+      "link": "https://www.cetrogar.com.ar/batidora-pie-planetaria-peabody-bm110r-roja.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 8311.5
+    },
+    {
+      "titulo": "Microondas B120M20 QChef 20lt BGH",
+      "precio": 42999,
+      "precioAnterior": 49699,
+      "link": "https://www.cetrogar.com.ar/microondas-b120m20-qchef-20lt-bgh.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 7166.5
+    },
+    {
+      "titulo": "Microondas BGH QChef 28 Litros B228DS20 900w Grill",
+      "precio": 77329,
+      "precioAnterior": 81399,
+      "link": "https://www.cetrogar.com.ar/microondas-bgh-qchef-28-litros-b228ds20-900w-grill.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 3,
+      "valorCuotas": 25776.33
+    },
+    {
+      "titulo": "Heladera con freezer HM162 322lt Hauser",
+      "precio": 179999,
+      "precioAnterior": 194599,
+      "link": "https://www.cetrogar.com.ar/heladera-con-freezer-hm162-322lt-hauser.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 29999.83
+    },
+    {
+      "titulo": "Freezer Horizontal Moddo 300 Litros m-170 Blanco",
+      "precio": 173089,
+      "precioAnterior": 182199,
+      "link": "https://www.cetrogar.com.ar/freezer-horizontal-moddo-300-litros-m-170-blanco.html",
+      "categoria": "electrodomesticos",
+      "interes": "sin interés",
+      "cuotas": 6,
+      "valorCuotas": 28848.17
+    }
+  ]
+}

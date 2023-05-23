@@ -1,0 +1,3735 @@
+{
+  "productos": 514,
+  "products": [
+    {
+      "titulo": "Tostadora Disney Atma TOAT39DN",
+      "precio": 14999,
+      "precioAnterior": 19999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "pequenos-electrodomesticos"
+    },
+    {
+      "titulo": "Secador de Pelo Arrow SP5100AW",
+      "precio": 5699,
+      "precioAnterior": 10399,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "pequenos-electrodomesticos"
+    },
+    {
+      "titulo": "Tostadora Eléctrica ATMA TO2180WP",
+      "precio": 5499,
+      "precioAnterior": 9999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "pequenos-electrodomesticos"
+    },
+    {
+      "titulo": "Yogurtera Yelmo YG-1700",
+      "precio": 9999,
+      "precioAnterior": 15999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "pequenos-electrodomesticos"
+    },
+    {
+      "titulo": "Cafetera Nespresso Essenza Mini Black",
+      "precio": 32394,
+      "precioAnterior": 53990,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "pequenos-electrodomesticos"
+    },
+    {
+      "titulo": "Cafetera Nespresso Essenza Mini White",
+      "precio": 32394,
+      "precioAnterior": 53990,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "pequenos-electrodomesticos"
+    },
+    {
+      "titulo": "Planchita de Pelo GA.MA Elegance Bella Tourmaline Ion",
+      "precio": 12999,
+      "precioAnterior": 17999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "pequenos-electrodomesticos"
+    },
+    {
+      "titulo": "Secador GA.MA Diamond Ceramic",
+      "precio": 14999,
+      "precioAnterior": 19269,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "pequenos-electrodomesticos"
+    },
+    {
+      "titulo": "Cafetera Nespresso Essenza Mini Black + Aeroccino 3",
+      "precio": 47874,
+      "precioAnterior": 79790,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "pequenos-electrodomesticos"
+    },
+    {
+      "titulo": "Cortadora de Cabello Philco HC7901AFA",
+      "precio": 3699,
+      "precioAnterior": 5999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "pequenos-electrodomesticos"
+    },
+    {
+      "titulo": "Purificador Siam 94CSI-PU061B Extractor de pared Salida exterior",
+      "precio": 39100,
+      "precioAnterior": 40664,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "cocina",
+      "interes": "sin interes",
+      "cuotas": 12,
+      "valorCuotas": 3258.33
+    },
+    {
+      "titulo": "Anafe Eléctrico Winco W1040",
+      "precio": 4299,
+      "precioAnterior": 5499,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "cocina"
+    },
+    {
+      "titulo": "Anafe Eléctrico Winco W41",
+      "precio": 8499,
+      "precioAnterior": 9999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "cocina"
+    },
+    {
+      "titulo": "Lavavajillas Whirlpool WSFO3T2X Sense Inverter 10C Inox",
+      "precio": 316999,
+      "precioAnterior": 352199,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "lavado"
+    },
+    {
+      "titulo": "Cava de Vinos Vondom para 12 Botellas T12FLAT",
+      "precio": 69999,
+      "precioAnterior": 79999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "heladeras-freezers-y-cavas"
+    },
+    {
+      "titulo": "Freezer Vondom FR55 Blanco 85Lt",
+      "precio": 124999,
+      "precioAnterior": 139999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "heladeras-freezers-y-cavas"
+    },
+    {
+      "titulo": "Hidrolavadora Daewoo DAX1130",
+      "precio": 18999,
+      "precioAnterior": 36999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "herramientas-y-construccion"
+    },
+    {
+      "titulo": "Caja Plástica Stanley 16.14\"",
+      "precio": 5999,
+      "precioAnterior": 8999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "herramientas-y-construccion"
+    },
+    {
+      "titulo": "Rotomartillo Taladro Percutor 850w Sds Plus Velocidad Variable con Accesorios y Maletin",
+      "precio": 19999,
+      "precioAnterior": 24999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "herramientas-y-construccion"
+    },
+    {
+      "titulo": "Amoladora Angular Gladiator Pro Aa415/2 Plus 700w 50hz/60hz",
+      "precio": 6349,
+      "precioAnterior": 9600,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "herramientas-y-construccion"
+    },
+    {
+      "titulo": "Escalera Plegable de Aluminio 7 Escalones",
+      "precio": 18999,
+      "precioAnterior": 29999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "herramientas-y-construccion"
+    },
+    {
+      "titulo": "Desmalezadora Daewoo D520 ECO",
+      "precio": 44999,
+      "precioAnterior": 59999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "herramientas-y-construccion"
+    },
+    {
+      "titulo": "Taladro Percutor 550W Daewoo DAID550K con Maletín",
+      "precio": 23999,
+      "precioAnterior": 31999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "herramientas-y-construccion"
+    },
+    {
+      "titulo": "Hidrolavadora Daewoo DAX21-150",
+      "precio": 39999,
+      "precioAnterior": 79999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "herramientas-y-construccion"
+    },
+    {
+      "titulo": "Taladro Inalámbrico Daewoo DACD1210CK + Bolso y Accesorios",
+      "precio": 19999,
+      "precioAnterior": 64998.99999999999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "herramientas-y-construccion"
+    },
+    {
+      "titulo": "Atornillador Inalámbrico Black+Decker 9036-AR",
+      "precio": 7999,
+      "precioAnterior": 15999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "herramientas-y-construccion"
+    },
+    {
+      "titulo": "Cortadora de césped Daewoo Eléctrica DAC1200W",
+      "precio": 39999,
+      "precioAnterior": 57999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "herramientas-y-construccion"
+    },
+    {
+      "titulo": "Aspiradora Robot Smartlife SL-RVC013",
+      "precio": 83999,
+      "precioAnterior": 112499,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "pequenos-electrodomesticos"
+    },
+    {
+      "titulo": "Batidora de Pie Planetaria Peabody 1000W 6 Velocidades PE-BM101S",
+      "precio": 32999,
+      "precioAnterior": 49999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "pequenos-electrodomesticos"
+    },
+    {
+      "titulo": "Cafetera Nespresso Essenza Mini Black",
+      "precio": 32394,
+      "precioAnterior": 53990,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "pequenos-electrodomesticos"
+    },
+    {
+      "titulo": "Planchita de Pelo Ultracomb AP-4401",
+      "precio": 4399,
+      "precioAnterior": 6799,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "pequenos-electrodomesticos"
+    },
+    {
+      "titulo": "Planchita de Pelo GA.MA Titanium Blue",
+      "precio": 19999,
+      "precioAnterior": 26299,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "pequenos-electrodomesticos"
+    },
+    {
+      "titulo": "Planchita de Pelo Atma Tourmaline PL8832N",
+      "precio": 5999,
+      "precioAnterior": 8999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "pequenos-electrodomesticos"
+    },
+    {
+      "titulo": "Aspiradora Atma X-Treme Power AS9021PI 2000W",
+      "precio": 38399,
+      "precioAnterior": 54999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "pequenos-electrodomesticos"
+    },
+    {
+      "titulo": "Cafetera Dolce Gusto Piccolo XS PV1A0558",
+      "precio": 40990,
+      "precioAnterior": 51290,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "pequenos-electrodomesticos"
+    },
+    {
+      "titulo": "Tostadora Yelmo TO-3006",
+      "precio": 5999,
+      "precioAnterior": 9999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "pequenos-electrodomesticos"
+    },
+    {
+      "titulo": "Mixer Philips 600W 0,5Lts HR2624/80",
+      "precio": 16999,
+      "precioAnterior": 25299,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "pequenos-electrodomesticos"
+    },
+    {
+      "titulo": "Sandwichera ATMA SM8911P",
+      "precio": 6799,
+      "precioAnterior": 11999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "pequenos-electrodomesticos"
+    },
+    {
+      "titulo": "Aspiradora Robot Atma ATAR21C2PI",
+      "precio": 56999,
+      "precioAnterior": 87999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "pequenos-electrodomesticos"
+    },
+    {
+      "titulo": "Purificador Siam 94CSI-PU061B Extractor de pared Salida exterior",
+      "precio": 39100,
+      "precioAnterior": 40664,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "cocina",
+      "interes": "sin interes",
+      "cuotas": 12,
+      "valorCuotas": 3258.33
+    },
+    {
+      "titulo": "Purificador Extractor Gafa AJSR24M5ARW 60CT",
+      "precio": 37699,
+      "precioAnterior": 45099,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "cocina"
+    },
+    {
+      "titulo": "Cocina Aurora Multigas Argenta XLE 56cm",
+      "precio": 103999,
+      "precioAnterior": 129999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "cocina"
+    },
+    {
+      "titulo": "Cocina Florencia 5537F 56cm",
+      "precio": 99599,
+      "precioAnterior": 119999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "cocina"
+    },
+    {
+      "titulo": "Cocina Longvie 13331XF 56 cm",
+      "precio": 204979,
+      "precioAnterior": 241154,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "cocina"
+    },
+    {
+      "titulo": "Heladera No Frost Inverter Samsung Bespoke RB33A307039 328Lt Satin Beige",
+      "precio": 449999,
+      "precioAnterior": 530499,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "heladeras-freezers-y-cavas"
+    },
+    {
+      "titulo": "Cava Eléctrica Philco 52 Botellas",
+      "precio": 144999,
+      "precioAnterior": 265512,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "heladeras-freezers-y-cavas"
+    },
+    {
+      "titulo": "Heladera Bajo Mesada Philco 91PHBM093B 90lts Blanco",
+      "precio": 89999,
+      "precioAnterior": 167440,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "heladeras-freezers-y-cavas"
+    },
+    {
+      "titulo": "Sierra Caladora Black & Decker KS501-AR",
+      "precio": 12999,
+      "precioAnterior": 21999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "herramientas-y-construccion"
+    },
+    {
+      "titulo": "Lijadora Orbital Daewoo DAOS230 240 watts",
+      "precio": 10999,
+      "precioAnterior": 19999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "herramientas-y-construccion"
+    },
+    {
+      "titulo": "Amoladora Angular Daewoo DAAG115-75B",
+      "precio": 13999,
+      "precioAnterior": 21999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "herramientas-y-construccion"
+    },
+    {
+      "titulo": "Taladro Inalámbrico de Litio Daewoo DACD325",
+      "precio": 15999,
+      "precioAnterior": 26999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "herramientas-y-construccion"
+    },
+    {
+      "titulo": "Motosierra a Gasolina DAM5220",
+      "precio": 27999,
+      "precioAnterior": 42999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "herramientas-y-construccion"
+    },
+    {
+      "titulo": "Atornillador Inalámbrico Black & Decker KC4815K-AR",
+      "precio": 14999,
+      "precioAnterior": 19999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "herramientas-y-construccion"
+    },
+    {
+      "titulo": "Sierra caladora Daewoo DAJS400",
+      "precio": 10999,
+      "precioAnterior": 19999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "herramientas-y-construccion"
+    },
+    {
+      "titulo": "Soldadora Inverter con Mascara y 2 Escuadra Magneticas lusqtoff Megairon100",
+      "precio": 28999,
+      "precioAnterior": 34800,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "herramientas-y-construccion"
+    },
+    {
+      "titulo": "Taladro Percutor Fierce FTP601 600w",
+      "precio": 7499,
+      "precioAnterior": 10999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "herramientas-y-construccion"
+    },
+    {
+      "titulo": "Taladro Inalámbrico Daewoo DACD1210",
+      "precio": 12999,
+      "precioAnterior": 22999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "herramientas-y-construccion"
+    },
+    {
+      "titulo": "Escalera Articulada Multifuncion de 16 Escalones Color Negra",
+      "precio": 34999,
+      "precioAnterior": 54999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "herramientas-y-construccion"
+    },
+    {
+      "titulo": "Taladro Inalambrico Silverfox 94STI1401P Li 14.4V C/Maletin",
+      "precio": 17999,
+      "precioAnterior": 22499,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "herramientas-y-construccion"
+    },
+    {
+      "titulo": "Taladro Atornillador Percutor Bosch GSB 180-LI 1/2\" + 1 Batería",
+      "precio": 89999,
+      "precioAnterior": 139999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "herramientas-y-construccion"
+    },
+    {
+      "titulo": "Teléfono Inalámbrico Philips D1311W/77",
+      "precio": 15499,
+      "precioAnterior": 19399,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "pequenos-electrodomesticos"
+    },
+    {
+      "titulo": "Combo Planchita Secador Remington D3015-S1520",
+      "precio": 13999,
+      "precioAnterior": 17999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "pequenos-electrodomesticos"
+    },
+    {
+      "titulo": "Aspiradora Robot Atma ATAR21C1PI",
+      "precio": 97999,
+      "precioAnterior": 139999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "pequenos-electrodomesticos"
+    },
+    {
+      "titulo": "Exprimidor Ultracomb EX-2302",
+      "precio": 4899,
+      "precioAnterior": 8199,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "pequenos-electrodomesticos"
+    },
+    {
+      "titulo": "Secador GA.MA Eolic Ceramic Ion",
+      "precio": 8999,
+      "precioAnterior": 12069,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "pequenos-electrodomesticos"
+    },
+    {
+      "titulo": "Aspiradora Philco PHASP1221PI",
+      "precio": 37999,
+      "precioAnterior": 114306,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "pequenos-electrodomesticos"
+    },
+    {
+      "titulo": "Afeitadora Philco AE5100PN",
+      "precio": 7699,
+      "precioAnterior": 10999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "pequenos-electrodomesticos"
+    },
+    {
+      "titulo": "Cafetera Nespresso Essenza Mini Red",
+      "precio": 32394,
+      "precioAnterior": 53990,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "pequenos-electrodomesticos"
+    },
+    {
+      "titulo": "Cafetera Eléctrica Filtro Atma 94CA2180P 600 Ml",
+      "precio": 5999,
+      "precioAnterior": 11429,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "pequenos-electrodomesticos"
+    },
+    {
+      "titulo": "Lavavajillas Ariston  LFO3T121",
+      "precio": 363899,
+      "precioAnterior": 428099,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "lavado"
+    },
+    {
+      "titulo": "Secarropas por Condensación Inverter Ariston A3D91GSEAG 9kg Gris",
+      "precio": 329999,
+      "precioAnterior": 368499,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "lavado"
+    },
+    {
+      "titulo": "Purificador Siam 94CSI-PU061B Extractor de pared Salida exterior",
+      "precio": 39100,
+      "precioAnterior": 40664,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "cocina",
+      "interes": "sin interes",
+      "cuotas": 12,
+      "valorCuotas": 3258.33
+    },
+    {
+      "titulo": "Cocina Eléctrica Florencia 8638E",
+      "precio": 199799,
+      "precioAnterior": 256199,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "cocina"
+    },
+    {
+      "titulo": "Purificador Spar Turbotronic 3710 2 Motores",
+      "precio": 47899,
+      "precioAnterior": 56299,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "cocina"
+    },
+    {
+      "titulo": "Purificador Spar Senza 3878-SEZ 2 Motores",
+      "precio": 59499,
+      "precioAnterior": 74399,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "cocina"
+    },
+    {
+      "titulo": "Frigobar Vondom RFG148A 46L",
+      "precio": 84999,
+      "precioAnterior": 94999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "heladeras-freezers-y-cavas"
+    },
+    {
+      "titulo": "Heladera No Frost Inverter Samsung Bespoke RB33A307032 328Lt Glam Pink",
+      "precio": 449999,
+      "precioAnterior": 530499,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "heladeras-freezers-y-cavas"
+    },
+    {
+      "titulo": "Freezer Congelador Vertical 180Lts Philco PHCV181B",
+      "precio": 154999,
+      "precioAnterior": 320528,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "heladeras-freezers-y-cavas"
+    },
+    {
+      "titulo": "Hidrolavadora Karcher K2 Basic Black",
+      "precio": 34999,
+      "precioAnterior": 59999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "herramientas-y-construccion"
+    },
+    {
+      "titulo": "Hidrolavadora Fierce FHI1102 1100W",
+      "precio": 14499,
+      "precioAnterior": 23999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "herramientas-y-construccion"
+    },
+    {
+      "titulo": "Soldadora Inverter Lusqtoff Iron100 + Máscara ST1X + 2 escuadras LQE6001",
+      "precio": 32204,
+      "precioAnterior": 0,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "herramientas-y-construccion",
+      "interes": "sin interes",
+      "cuotas": 3,
+      "valorCuotas": 10734.67
+    },
+    {
+      "titulo": "Kit Soldadora con Accesorios Lusqtoff Megairon100",
+      "precio": 27999,
+      "precioAnterior": 49999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "herramientas-y-construccion"
+    },
+    {
+      "titulo": "Amoladora Angular en KIT 750W - G1910KAR",
+      "precio": 17200,
+      "precioAnterior": 21243,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "herramientas-y-construccion"
+    },
+    {
+      "titulo": "Bordeadora Philco 94MJPBO116P 280w",
+      "precio": 11999,
+      "precioAnterior": 18999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "herramientas-y-construccion"
+    },
+    {
+      "titulo": "Soldadora Stanley Starmig 130 Italiana Alambre Flux 130amp",
+      "precio": 69699,
+      "precioAnterior": 87990,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "herramientas-y-construccion"
+    },
+    {
+      "titulo": "Hidrolavadora 100 Bar Black And Decker 1300w 1595psi 220v",
+      "precio": 28990,
+      "precioAnterior": 37500,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "herramientas-y-construccion"
+    },
+    {
+      "titulo": "Amoladora Angular Philco AA501P 500 Watts",
+      "precio": 7999,
+      "precioAnterior": 14999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "herramientas-y-construccion"
+    },
+    {
+      "titulo": "Hidrolavadora Lusqtoff HL-120",
+      "precio": 24999,
+      "precioAnterior": 39999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "herramientas-y-construccion"
+    },
+    {
+      "titulo": "Compresor De Aire Sin Tanque 1.5 Hp + Kit Stanley",
+      "precio": 39990,
+      "precioAnterior": 48990,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "herramientas-y-construccion"
+    },
+    {
+      "titulo": "Batidora de pie Peabody PE-BM101I  Marfil",
+      "precio": 32999,
+      "precioAnterior": 49999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "pequenos-electrodomesticos"
+    },
+    {
+      "titulo": "Exprimidor Smartlife SL-JC3400",
+      "precio": 5999,
+      "precioAnterior": 9099,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "pequenos-electrodomesticos"
+    },
+    {
+      "titulo": "Cepillo GA.MA Innova Mini",
+      "precio": 9499,
+      "precioAnterior": 13049,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "pequenos-electrodomesticos"
+    },
+    {
+      "titulo": "Cafetera Nespresso Essenza Mini Red + Aeroccino 3",
+      "precio": 47874,
+      "precioAnterior": 79790,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "pequenos-electrodomesticos"
+    },
+    {
+      "titulo": "Procesadora Liliana Simplix 5 en 1 AM700",
+      "precio": 19999,
+      "precioAnterior": 26329,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "pequenos-electrodomesticos"
+    },
+    {
+      "titulo": "Cafetera Moulinex Genio S Plus Roja",
+      "precio": 60690,
+      "precioAnterior": 75890,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "pequenos-electrodomesticos"
+    },
+    {
+      "titulo": "Cortabarba Philco CB7040PP",
+      "precio": 5299,
+      "precioAnterior": 7999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "pequenos-electrodomesticos"
+    },
+    {
+      "titulo": "Estación de Planchado Philco EPPH2200PI",
+      "precio": 20999,
+      "precioAnterior": 61915,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "pequenos-electrodomesticos"
+    },
+    {
+      "titulo": "Afeitadora GA.MA GSH 855 SPORT",
+      "precio": 9999,
+      "precioAnterior": 13339,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "pequenos-electrodomesticos"
+    },
+    {
+      "titulo": "Cafetera Nespresso Essenza Mini Black",
+      "precio": 32394,
+      "precioAnterior": 53990,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "pequenos-electrodomesticos"
+    },
+    {
+      "titulo": "Planchita De Pelo Arrow 94PL6000AP Titanium Technology 230°C Temp Máxima",
+      "precio": 5999,
+      "precioAnterior": 10712,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "pequenos-electrodomesticos"
+    },
+    {
+      "titulo": "Aspiradora Inalámbrica Electrolux ERG25N Ergorápido 2en1 90W",
+      "precio": 92799,
+      "precioAnterior": 109999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "pequenos-electrodomesticos"
+    },
+    {
+      "titulo": "Aspiradora Daewoo DAVC90-15L 15 Lts",
+      "precio": 32999,
+      "precioAnterior": 43999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "pequenos-electrodomesticos"
+    },
+    {
+      "titulo": "Secarropas Por Calor Philco PHSA035B",
+      "precio": 74999,
+      "precioAnterior": 119600,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "lavado"
+    },
+    {
+      "titulo": "Secarropas Por Calor 7kg Philco PHSC071B",
+      "precio": 149999,
+      "precioAnterior": 254696,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "lavado"
+    },
+    {
+      "titulo": "Lavarropas Eslabón de Lujo Carga Superior 9 kg EWH09AB",
+      "precio": 178499,
+      "precioAnterior": 224699,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "lavado"
+    },
+    {
+      "titulo": "Lavasecarropas Por Calor 10kg Carga Frontal Philco PHLS100P",
+      "precio": 299999,
+      "precioAnterior": 657800,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "lavado"
+    },
+    {
+      "titulo": "Purificador Siam 94CSI-PU061B Extractor de pared Salida exterior",
+      "precio": 39100,
+      "precioAnterior": 40664,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "cocina",
+      "interes": "sin interes",
+      "cuotas": 12,
+      "valorCuotas": 3258.33
+    },
+    {
+      "titulo": "Anafe Multigas Domec AXFV",
+      "precio": 113999,
+      "precioAnterior": 133199,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "cocina"
+    },
+    {
+      "titulo": "Anafe Eléctrico Florencia 6889E",
+      "precio": 149599,
+      "precioAnterior": 169999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "cocina"
+    },
+    {
+      "titulo": "Anafe Eléctrico Vitrocerámico 60 cm Negro GE Appliances - AEGE62VN0",
+      "precio": 119999,
+      "precioAnterior": 249199,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "cocina"
+    },
+    {
+      "titulo": "Purificador Spar BIOS 3766-B00 1 Motor",
+      "precio": 45799,
+      "precioAnterior": 57299,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "cocina"
+    },
+    {
+      "titulo": "Purificador Spar Bios 3776-B00 2 Motores",
+      "precio": 51499,
+      "precioAnterior": 64399,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "cocina"
+    },
+    {
+      "titulo": "Campana Electrolux 60ct 60cm Ancho Inox/Touch 3 Velocidades",
+      "precio": 146899,
+      "precioAnterior": 171999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "cocina"
+    },
+    {
+      "titulo": "Cocina Domec CXULEV 56 cm",
+      "precio": 213749,
+      "precioAnterior": 249749,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "cocina"
+    },
+    {
+      "titulo": "Cocina Eléctrica Florencia 8637E",
+      "precio": 182599,
+      "precioAnterior": 228299,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "cocina"
+    },
+    {
+      "titulo": "Cocina Longvie 13331GF 56 cm",
+      "precio": 200089,
+      "precioAnterior": 235404,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "cocina"
+    },
+    {
+      "titulo": "Freezer Congelador Siam Fsi-cv160b 160 Lts Blanco",
+      "precio": 149999,
+      "precioAnterior": 313352,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "heladeras-freezers-y-cavas"
+    },
+    {
+      "titulo": "Freezer Congelador Vertical Siam Fsi-nv230bt No Frost 222lts",
+      "precio": 249999,
+      "precioAnterior": 426400,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "heladeras-freezers-y-cavas"
+    },
+    {
+      "titulo": "Combo Taladro Inalámbrico 12v Ld12s-ar Black + Decker",
+      "precio": 25600,
+      "precioAnterior": 30700,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "herramientas-y-construccion"
+    },
+    {
+      "titulo": "Rotomartillo Taladro Percutor de 1050w Sds Plus con Mandril Adaptador de 13mm",
+      "precio": 29599,
+      "precioAnterior": 36999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "herramientas-y-construccion"
+    },
+    {
+      "titulo": "Taladro Eléctrico Percutor Lüsqtoff Atl18-8b Inalámbrico 1350rpm",
+      "precio": 29999,
+      "precioAnterior": 45999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "herramientas-y-construccion"
+    },
+    {
+      "titulo": "Amoladora Angular 760W 115 mm Konan KAA",
+      "precio": 14680,
+      "precioAnterior": 18107,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "herramientas-y-construccion"
+    },
+    {
+      "titulo": "Taladro Electrico Percutor 13 MM/800W Konan KTE/138",
+      "precio": 15138,
+      "precioAnterior": 18672,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "herramientas-y-construccion"
+    },
+    {
+      "titulo": "Soldadora Inverter Stanley Sirio 140 Italiana 130 Amp",
+      "precio": 46499,
+      "precioAnterior": 59990,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "herramientas-y-construccion"
+    },
+    {
+      "titulo": "Hidrolavadora Black And Decker 110 Bar 1300w 1600 Psi",
+      "precio": 37990,
+      "precioAnterior": 47100,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "herramientas-y-construccion"
+    },
+    {
+      "titulo": "Batidora de Mano Moulinex SX1502AR",
+      "precio": 9399,
+      "precioAnterior": 11690,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "pequenos-electrodomesticos"
+    },
+    {
+      "titulo": "Teléfono Alámbrico Fijo De Mesa Noblex 94NCT200PI",
+      "precio": 4799,
+      "precioAnterior": 9599,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "pequenos-electrodomesticos"
+    },
+    {
+      "titulo": "Microondas Sansei MDSA20NPI Digital 20l 700w",
+      "precio": 35999,
+      "precioAnterior": 58799,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "pequenos-electrodomesticos"
+    },
+    {
+      "titulo": "Secador de Pelo Atma Classic Titanium SP8970P",
+      "precio": 7999,
+      "precioAnterior": 11999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "pequenos-electrodomesticos"
+    },
+    {
+      "titulo": "Cafetera de FIltro ATMA CA2180P",
+      "precio": 5999,
+      "precioAnterior": 9999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "pequenos-electrodomesticos"
+    },
+    {
+      "titulo": "Cortadora de Cabello GA.MA GM566 + 13 piezas",
+      "precio": 6999,
+      "precioAnterior": 9629,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "pequenos-electrodomesticos"
+    },
+    {
+      "titulo": "Picadora Moulinex 750W 0,3Lts AD6021AR con Vaso Licuador",
+      "precio": 18999,
+      "precioAnterior": 25290,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "pequenos-electrodomesticos"
+    },
+    {
+      "titulo": "Extractor De Jugo Atma JUAT21RP 400w Acero Inox 2 Velocidades",
+      "precio": 14999,
+      "precioAnterior": 25199,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "pequenos-electrodomesticos"
+    },
+    {
+      "titulo": "Aspiradora Inalámbrica 2 en 1 Electrolux ERG21",
+      "precio": 76299,
+      "precioAnterior": 90199,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "pequenos-electrodomesticos"
+    },
+    {
+      "titulo": "Cortapelo Eléctrico Proline 94HC800PP",
+      "precio": 3299,
+      "precioAnterior": 8320,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "pequenos-electrodomesticos"
+    },
+    {
+      "titulo": "Cafetera Nespresso Citiz Chrome",
+      "precio": 69672,
+      "precioAnterior": 87090,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "pequenos-electrodomesticos"
+    },
+    {
+      "titulo": "Lavarropas Automatico 6kg Philco PHLF061B",
+      "precio": 159999,
+      "precioAnterior": 287040,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "lavado"
+    },
+    {
+      "titulo": "Secarropas Por Condensación 8kg Philco PHSC082B",
+      "precio": 209999,
+      "precioAnterior": 377936,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "lavado"
+    },
+    {
+      "titulo": "Purificador Siam 94CSI-PU061B Extractor de pared Salida exterior",
+      "precio": 39100,
+      "precioAnterior": 40664,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "cocina",
+      "interes": "sin interes",
+      "cuotas": 12,
+      "valorCuotas": 3258.33
+    },
+    {
+      "titulo": "Cocina Domec CBUPLEV  56 cm",
+      "precio": 175749,
+      "precioAnterior": 205349,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "cocina"
+    },
+    {
+      "titulo": "Anafe  Eléctrico a Inducción Electrolux IC30 30cm",
+      "precio": 154199,
+      "precioAnterior": 180199,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "cocina",
+      "interes": "sin interes",
+      "cuotas": 3,
+      "valorCuotas": 51399.67
+    },
+    {
+      "titulo": "Cocina Longvie 13601XF 60 cm",
+      "precio": 297259,
+      "precioAnterior": 349714,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "cocina"
+    },
+    {
+      "titulo": "Cocina Multigas Longvie 13501XF Inox 56 CM",
+      "precio": 259428.99999999997,
+      "precioAnterior": 305209,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "cocina"
+    },
+    {
+      "titulo": "Hidrolavadora Alta Presión 1400w 100 Bar Autostop Regulable.",
+      "precio": 26999,
+      "precioAnterior": 29399,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "herramientas-y-construccion"
+    },
+    {
+      "titulo": "Pistola Neumatica para Pintar Alta Gravedad Aerografo Lusqtoff 0.4lt 1.5mm",
+      "precio": 6999,
+      "precioAnterior": 10000,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "herramientas-y-construccion"
+    },
+    {
+      "titulo": "Soplador Aspirador Eléctrico Lusqtoff SPL2400-8 2400w",
+      "precio": 22999,
+      "precioAnterior": 39999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "herramientas-y-construccion"
+    },
+    {
+      "titulo": "Kit Soldador Lusqtoff Iron180",
+      "precio": 54999,
+      "precioAnterior": 69999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "herramientas-y-construccion"
+    },
+    {
+      "titulo": "Heladera Side By Side 483 Lts Philco PHSB482XT",
+      "precio": 489999,
+      "precioAnterior": 920920,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "heladeras-freezers-y-cavas"
+    },
+    {
+      "titulo": "Freezer Congelador Horizontal Philco 290 Lts PHCH301BM",
+      "precio": 164999,
+      "precioAnterior": 255944,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "heladeras-freezers-y-cavas"
+    },
+    {
+      "titulo": "Heladera No Frost T-Door Ecoinverter 516 Lts Inoxidable Drean DTP458BKRSS0",
+      "precio": 599999,
+      "precioAnterior": 0,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "heladeras-freezers-y-cavas"
+    },
+    {
+      "titulo": "Heladera No frost 542 Lts Inoxidable Drean - RZS510IBARX0",
+      "precio": 499999,
+      "precioAnterior": 792699,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "heladeras-freezers-y-cavas"
+    },
+    {
+      "titulo": "Heladera con freezer Cíclica 362 Lts Gris Drean HDR370F11S",
+      "precio": 196999,
+      "precioAnterior": 293499,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "heladeras-freezers-y-cavas"
+    },
+    {
+      "titulo": "Heladera con freezer No Frost Inverter 424 Lts Steel Drean HDR430N42M",
+      "precio": 289999,
+      "precioAnterior": 426399,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "heladeras-freezers-y-cavas"
+    },
+    {
+      "titulo": "Freezer Congelador Horizontal Philco 94PHCH410BM 383 L",
+      "precio": 189999,
+      "precioAnterior": 322920,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "heladeras-freezers-y-cavas"
+    },
+    {
+      "titulo": "Freezer Congelador Horizontal Philco Phch535bm 500l",
+      "precio": 239999,
+      "precioAnterior": 392288,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "heladeras-freezers-y-cavas"
+    },
+    {
+      "titulo": "Heladera Philco Phnt458b No Frost 405lts Blanco",
+      "precio": 264999,
+      "precioAnterior": 385112,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "heladeras-freezers-y-cavas"
+    },
+    {
+      "titulo": "Heladera Bajo Mesada Philco 91PHBM093P 90 L Plata",
+      "precio": 94999,
+      "precioAnterior": 143520,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "heladeras-freezers-y-cavas"
+    },
+    {
+      "titulo": "Secador de Pelo GA.MA Avocado",
+      "precio": 18999,
+      "precioAnterior": 25299,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "pequenos-electrodomesticos"
+    },
+    {
+      "titulo": "Cortacabello GA.MA RACE R642",
+      "precio": 9999,
+      "precioAnterior": 13119,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "pequenos-electrodomesticos"
+    },
+    {
+      "titulo": "Trimmer GA.MA Race R727",
+      "precio": 6999,
+      "precioAnterior": 8719,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "pequenos-electrodomesticos"
+    },
+    {
+      "titulo": "Aspiradora Robot Smartlife SL-RVC240",
+      "precio": 69999,
+      "precioAnterior": 93999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "pequenos-electrodomesticos"
+    },
+    {
+      "titulo": "Horno de Pan Yelmo HP-3502",
+      "precio": 38999,
+      "precioAnterior": 61899,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "pequenos-electrodomesticos"
+    },
+    {
+      "titulo": "Plancha A Vapor Philco Pvp2453pi 2000w",
+      "precio": 13199,
+      "precioAnterior": 19594,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "pequenos-electrodomesticos"
+    },
+    {
+      "titulo": "Plancha A Vapor Philco Pvp2339pi 1800w Suela Cerámica",
+      "precio": 10499,
+      "precioAnterior": 16601,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "pequenos-electrodomesticos"
+    },
+    {
+      "titulo": "Cortadora de Cabello + Trimmer GA.MA Race R647",
+      "precio": 15799,
+      "precioAnterior": 19709,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "pequenos-electrodomesticos"
+    },
+    {
+      "titulo": "Afeitadora Eléctrica Inalámbrica GA.MA GSH 2527 Wet & Dry",
+      "precio": 26999,
+      "precioAnterior": 36059,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "pequenos-electrodomesticos"
+    },
+    {
+      "titulo": "Olla A Presión Eléctrica Electrolux PCC20",
+      "precio": 49999,
+      "precioAnterior": 64199,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "pequenos-electrodomesticos"
+    },
+    {
+      "titulo": "Aspiradora Atma 94AS9121PI Trineo Bolsa 2000W",
+      "precio": 34999,
+      "precioAnterior": 60282,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "pequenos-electrodomesticos"
+    },
+    {
+      "titulo": "Balanza De Cocina Digital Atma 94BCAT21VWP Vidrio Templado",
+      "precio": 3999,
+      "precioAnterior": 5442,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "pequenos-electrodomesticos"
+    },
+    {
+      "titulo": "Horno De Pan Atma 94HPAT21WP 12 Programas 550w",
+      "precio": 35999,
+      "precioAnterior": 61235,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "pequenos-electrodomesticos"
+    },
+    {
+      "titulo": "Purificador Siam 94CSI-PU061B Extractor de pared Salida exterior",
+      "precio": 39100,
+      "precioAnterior": 40664,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "cocina",
+      "interes": "sin interes",
+      "cuotas": 12,
+      "valorCuotas": 3258.33
+    },
+    {
+      "titulo": "Horno Multigas Whirlpool WOG60IX25Z 59,5 cm Inox",
+      "precio": 220699,
+      "precioAnterior": 270799,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "cocina"
+    },
+    {
+      "titulo": "Horno Eléctrico Florencia 7867E",
+      "precio": 110999,
+      "precioAnterior": 138799,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "cocina"
+    },
+    {
+      "titulo": "Anafe Eléctrico a Inducción 2 Hornallas Florencia 6889G",
+      "precio": 104999,
+      "precioAnterior": 131199,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "cocina"
+    },
+    {
+      "titulo": "Cocina Longvie 13331BF 56 cm",
+      "precio": 195299,
+      "precioAnterior": 229769,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "cocina"
+    },
+    {
+      "titulo": "Purificador Spar Eccos",
+      "precio": 39699,
+      "precioAnterior": 50299,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "cocina"
+    },
+    {
+      "titulo": "Cocina Multigas Longvie 19501X Inox 56 CM",
+      "precio": 371159,
+      "precioAnterior": 436654,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "cocina"
+    },
+    {
+      "titulo": "Anafe Multigas Whirlpool GOA 7523/NB 73 cm",
+      "precio": 199999,
+      "precioAnterior": 263899,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "cocina"
+    },
+    {
+      "titulo": "Cocina a gas 55 cm inoxidable Patrick CP756AI",
+      "precio": 154999,
+      "precioAnterior": 203199,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "cocina"
+    },
+    {
+      "titulo": "Cafetera Nespresso Essenza Mini White + Aeroccino 3",
+      "precio": 47874,
+      "precioAnterior": 79790,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "pequenos-electrodomesticos"
+    },
+    {
+      "titulo": "Plancha Seca Liliana Shotty RPS901 1100W",
+      "precio": 6999,
+      "precioAnterior": 9079,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "pequenos-electrodomesticos"
+    },
+    {
+      "titulo": "Batidora de Mesa Moulinex HM151158",
+      "precio": 19999,
+      "precioAnterior": 36990,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "pequenos-electrodomesticos"
+    },
+    {
+      "titulo": "Secador GA.MA Bora Gold",
+      "precio": 19499,
+      "precioAnterior": 25299,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "pequenos-electrodomesticos"
+    },
+    {
+      "titulo": "Planchita de Pelo GA.MA Titanio LED",
+      "precio": 27999,
+      "precioAnterior": 35749,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "pequenos-electrodomesticos"
+    },
+    {
+      "titulo": "Batidora Planetaria Atma 94BPAT21GP 800W Gris",
+      "precio": 39299,
+      "precioAnterior": 61235,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "pequenos-electrodomesticos"
+    },
+    {
+      "titulo": "Cafetera Nespresso Essenza Mini White",
+      "precio": 32394,
+      "precioAnterior": 53990,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "pequenos-electrodomesticos"
+    },
+    {
+      "titulo": "Depiladora Serie 9 Silk Expert Senso Smart Braun Ses9880",
+      "precio": 54999,
+      "precioAnterior": 79768,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "pequenos-electrodomesticos"
+    },
+    {
+      "titulo": "Sandwichera Atma 94SM8911P Antiadherente",
+      "precio": 7999,
+      "precioAnterior": 13607,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "pequenos-electrodomesticos"
+    },
+    {
+      "titulo": "Pava Eléctrica Atma 94PEATW21WP 1.7 L Línea Nórdica",
+      "precio": 11699,
+      "precioAnterior": 24493,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "pequenos-electrodomesticos"
+    },
+    {
+      "titulo": "Cortadora de Cabello Philco HC7901PP",
+      "precio": 4899,
+      "precioAnterior": 6499,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "pequenos-electrodomesticos"
+    },
+    {
+      "titulo": "Microondas Digital Grill Sansei Mdgsa23npi 23l 800W",
+      "precio": 44999,
+      "precioAnterior": 72719,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "pequenos-electrodomesticos"
+    },
+    {
+      "titulo": "Batidora de Pie Moulinex 250W 3 Velocidades HM151158",
+      "precio": 15999,
+      "precioAnterior": 21590,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "pequenos-electrodomesticos"
+    },
+    {
+      "titulo": "Purificador Siam 94CSI-PU061B Extractor de pared Salida exterior",
+      "precio": 39100,
+      "precioAnterior": 40664,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "cocina",
+      "interes": "sin interes",
+      "cuotas": 12,
+      "valorCuotas": 3258.33
+    },
+    {
+      "titulo": "Anafe a Gas 76 cm Acero Inoxidable Drean AGDR76CIA",
+      "precio": 119999,
+      "precioAnterior": 268299,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "cocina"
+    },
+    {
+      "titulo": "Anafe Eléctrico Electrolux  ETEF24F7ERB Vitrocerámico 4 zonas",
+      "precio": 159999,
+      "precioAnterior": 191699,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "cocina"
+    },
+    {
+      "titulo": "Cocina Longvie 13501BF 56 cm",
+      "precio": 234399,
+      "precioAnterior": 275769,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "cocina"
+    },
+    {
+      "titulo": "Cocina Eléctrica Domec CEXG 56 CM Acero Inoxidable ÚNICOS MODELOS CON PARRILLA",
+      "precio": 313499,
+      "precioAnterior": 366299,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "cocina"
+    },
+    {
+      "titulo": "Campana Llanos Aspirador Classic Pulsante Acero",
+      "precio": 76229,
+      "precioAnterior": 0,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "cocina",
+      "interes": "sin interes",
+      "cuotas": 6,
+      "valorCuotas": 12704.83
+    },
+    {
+      "titulo": "Cocina A Gas Longvie 12331g 56cm Grafito Cajón Parrilla",
+      "precio": 179859,
+      "precioAnterior": 211599,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "cocina"
+    },
+    {
+      "titulo": "Anafe Eléctrico Sansei  500w",
+      "precio": 4499,
+      "precioAnterior": 7483,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "cocina"
+    },
+    {
+      "titulo": "Planchita De Pelo Atma Smart Protect PL8890N",
+      "precio": 10999,
+      "precioAnterior": 23920,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "pequenos-electrodomesticos"
+    },
+    {
+      "titulo": "Cafetera Nespresso Essenza Mini Red",
+      "precio": 32394,
+      "precioAnterior": 53990,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "pequenos-electrodomesticos"
+    },
+    {
+      "titulo": "Waflera Anti Adherente Atma Wa8110rp",
+      "precio": 11899,
+      "precioAnterior": 19050,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "pequenos-electrodomesticos"
+    },
+    {
+      "titulo": "Arrocera + Vaporera Con Sushi Kit Atma Sumb21p 1.8lts 700w",
+      "precio": 22999,
+      "precioAnterior": 38101,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "pequenos-electrodomesticos"
+    },
+    {
+      "titulo": "Parrilla Eléctrica Antiadherente Atma Pg4731p",
+      "precio": 23499,
+      "precioAnterior": 40823,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "pequenos-electrodomesticos"
+    },
+    {
+      "titulo": "Cafetera Nespresso Essenza Mini Red + Aeroccino 3",
+      "precio": 47874,
+      "precioAnterior": 79790,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "pequenos-electrodomesticos"
+    },
+    {
+      "titulo": "Secador de pelo Arrow SP5100AWG",
+      "precio": 8999,
+      "precioAnterior": 11960,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "pequenos-electrodomesticos"
+    },
+    {
+      "titulo": "Batidora De Mano Atma 91BM8740AP 6 Velocidades Función Turbo",
+      "precio": 9999,
+      "precioAnterior": 14968,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "pequenos-electrodomesticos"
+    },
+    {
+      "titulo": "Batidora De Mano Atma 91BM8740BAP 6 Vel Con Bowl Turbo",
+      "precio": 12999,
+      "precioAnterior": 19050,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "pequenos-electrodomesticos"
+    },
+    {
+      "titulo": "Purificador Siam 94CSI-PU061B Extractor de pared Salida exterior",
+      "precio": 39100,
+      "precioAnterior": 40664,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "cocina",
+      "interes": "sin interes",
+      "cuotas": 12,
+      "valorCuotas": 3258.33
+    },
+    {
+      "titulo": "Anafe Eléctrico 1 Hornalla Domec DT-32 Vitrocerámico de apoyo",
+      "precio": 33249,
+      "precioAnterior": 38849,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "cocina"
+    },
+    {
+      "titulo": "Anafe a Gas Longvie A6600BF Blanco 60 CM",
+      "precio": 161479,
+      "precioAnterior": 189979,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "cocina"
+    },
+    {
+      "titulo": "Cocina Multigas Longvie 19501B Blanca 56 CM",
+      "precio": 348969,
+      "precioAnterior": 410549,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "cocina"
+    },
+    {
+      "titulo": "Cocina Multigas Longvie 19601B Blanca 60 CM",
+      "precio": 376529,
+      "precioAnterior": 442979,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "cocina"
+    },
+    {
+      "titulo": "Purificador Domec DOM3060DI ancho 60 cms, acero inoxidable",
+      "precio": 90249,
+      "precioAnterior": 105449,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "cocina",
+      "interes": "sin interes",
+      "cuotas": 12,
+      "valorCuotas": 7520.75
+    },
+    {
+      "titulo": "Cafetera De Filtro Atma 94CAATW21WP Línea Nórdica",
+      "precio": 11299,
+      "precioAnterior": 21772,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "pequenos-electrodomesticos"
+    },
+    {
+      "titulo": "Licuadora de Mano Atma 91LM8507AP Varilla de Plástico",
+      "precio": 10999,
+      "precioAnterior": 17689,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "pequenos-electrodomesticos"
+    },
+    {
+      "titulo": "Tostadora Atma 94TOATW21WP simil madera",
+      "precio": 10999,
+      "precioAnterior": 20411,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "pequenos-electrodomesticos"
+    },
+    {
+      "titulo": "Cortapelo Philco AFA Edicion Limitada 5000 RPM con Accesorios",
+      "precio": 4999,
+      "precioAnterior": 8320,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "pequenos-electrodomesticos"
+    },
+    {
+      "titulo": "Robot De Cocina Atma Mix C2020WP Blanco",
+      "precio": 123599,
+      "precioAnterior": 231335,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "pequenos-electrodomesticos"
+    },
+    {
+      "titulo": "Robot De Cocina Atma Mix RC2020BP Negro",
+      "precio": 123599,
+      "precioAnterior": 231335,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "pequenos-electrodomesticos"
+    },
+    {
+      "titulo": "Cortapelo Eléctrico Con Cable Arrow Hc6000ap",
+      "precio": 3799,
+      "precioAnterior": 8320,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "pequenos-electrodomesticos"
+    },
+    {
+      "titulo": "Purificador Siam 94CSI-PU061B Extractor de pared Salida exterior",
+      "precio": 39100,
+      "precioAnterior": 40664,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "cocina",
+      "interes": "sin interes",
+      "cuotas": 12,
+      "valorCuotas": 3258.33
+    },
+    {
+      "titulo": "Balanza ATMA BA7604N",
+      "precio": 5999,
+      "precioAnterior": 9499,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "salud-y-bienestar"
+    },
+    {
+      "titulo": "Masajeador Cervical Wolke Bolt Luxury Pearl Multicorporal 8 Rodillos y Calor",
+      "precio": 18239,
+      "precioAnterior": 23999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "salud-y-bienestar",
+      "interes": "sin interes",
+      "cuotas": 12,
+      "valorCuotas": 1519.92
+    },
+    {
+      "titulo": "Tensiometro Aneroide Aspen AS-102",
+      "precio": 4799,
+      "precioAnterior": 7599,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "salud-y-bienestar"
+    },
+    {
+      "titulo": "Masajeador Cervical 8 Rodillos Suono Calor Relajante",
+      "precio": 8999,
+      "precioAnterior": 16699,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "salud-y-bienestar"
+    },
+    {
+      "titulo": "Balanza de Baño Digital Aspen B010",
+      "precio": 5399,
+      "precioAnterior": 10709,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "salud-y-bienestar"
+    },
+    {
+      "titulo": "Pistola Masajeadora Rehabilitación Lesiones Muscular",
+      "precio": 22999,
+      "precioAnterior": 38999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "salud-y-bienestar",
+      "interes": "sin interes",
+      "cuotas": 12,
+      "valorCuotas": 1916.58
+    },
+    {
+      "titulo": "Tensiómetro Digital de Muñeca Aspen Smart YE8900",
+      "precio": 13999,
+      "precioAnterior": 20469,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "salud-y-bienestar"
+    },
+    {
+      "titulo": "Balanza GA.MA Fit Care",
+      "precio": 6999,
+      "precioAnterior": 9709,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "salud-y-bienestar"
+    },
+    {
+      "titulo": "Termómetro Digital Aspen MT-31",
+      "precio": 999000,
+      "precioAnterior": 1469,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "salud-y-bienestar"
+    },
+    {
+      "titulo": "Balanza Digital Proline BDPL1022 150kg Vidrio Templado",
+      "precio": 3999,
+      "precioAnterior": 5999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "salud-y-bienestar"
+    },
+    {
+      "titulo": "Manta Térmica Philco 94WELMTC200PI 200 W Grande",
+      "precio": 11499,
+      "precioAnterior": 22588,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "salud-y-bienestar"
+    },
+    {
+      "titulo": "Termómetro Infrarrojo Philco",
+      "precio": 6599,
+      "precioAnterior": 10340,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "salud-y-bienestar"
+    },
+    {
+      "titulo": "Nebulizador por Compresor a Pistón A500LW02",
+      "precio": 13049,
+      "precioAnterior": 29936,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "salud-y-bienestar"
+    },
+    {
+      "titulo": "Humidificador Vick Ultrasónico Vapor Frío VUL520WAR",
+      "precio": 15799,
+      "precioAnterior": 28168,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "salud-y-bienestar"
+    },
+    {
+      "titulo": "Oxímetro Philco A340",
+      "precio": 8699,
+      "precioAnterior": 12246,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "salud-y-bienestar"
+    },
+    {
+      "titulo": "Oximetro Braun BPX800US",
+      "precio": 7699,
+      "precioAnterior": 13607,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "salud-y-bienestar"
+    },
+    {
+      "titulo": "Masajeador de Cuello Philco WELN42N",
+      "precio": 14199,
+      "precioAnterior": 35107,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "salud-y-bienestar"
+    },
+    {
+      "titulo": "Smart TV LED 40” FHD RCA S40AND-F",
+      "precio": 69999,
+      "precioAnterior": 84999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "tv-y-video"
+    },
+    {
+      "titulo": "Smart TV LED 58” 4K UHD Admiral AD58G22",
+      "precio": 129999,
+      "precioAnterior": 199999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "tv-y-video"
+    },
+    {
+      "titulo": "Colchón de 1 Plaza Cannon Tropical Matelaseado 80 x 190 cm",
+      "precio": 15999,
+      "precioAnterior": 36798,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "hogar"
+    },
+    {
+      "titulo": "Sommier y Colchón de Resortes Piero Genova 190 x 140 cm",
+      "precio": 69999,
+      "precioAnterior": 143998,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "hogar"
+    },
+    {
+      "titulo": "Sommier y Colchón de Espuma 1 Plaza Suavestar Deluxe 190x80cm",
+      "precio": 44999,
+      "precioAnterior": 79998,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "hogar"
+    },
+    {
+      "titulo": "Colchón de Resortes Piero Genova 190 x 80 cm",
+      "precio": 32999,
+      "precioAnterior": 60798,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "hogar"
+    },
+    {
+      "titulo": "Colchón de Espuma Piero Parma Jack 190 x 80 cm",
+      "precio": 23999,
+      "precioAnterior": 47998,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "hogar"
+    },
+    {
+      "titulo": "Colchón y Sommier Arcoiris RIO 2 plazas 140x190 Resortes",
+      "precio": 119900,
+      "precioAnterior": 348011,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "hogar"
+    },
+    {
+      "titulo": "Cafetera Estilo Francés Hudson 800ml Inox.",
+      "precio": 5999,
+      "precioAnterior": 9598,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "hogar"
+    },
+    {
+      "titulo": "Juego de 4 Contenedores Eco Box 80 lts",
+      "precio": 7999,
+      "precioAnterior": 19999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "hogar"
+    },
+    {
+      "titulo": "Sommier y Colchón de Espuma 2 Plazas Suavestar Sport 190x140cm",
+      "precio": 84999,
+      "precioAnterior": 150398,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "hogar"
+    },
+    {
+      "titulo": "Despensero 2 Maxi Puertas Centro Estant DIS4 Blanco",
+      "precio": 17999,
+      "precioAnterior": 25999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "muebles"
+    },
+    {
+      "titulo": "Mesa de Luz con Desayunador Centro Estant MLD Wengue",
+      "precio": 9999,
+      "precioAnterior": 16799,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "muebles"
+    },
+    {
+      "titulo": "Biblioteca Centro Estant L9BL Blanca",
+      "precio": 9999,
+      "precioAnterior": 15999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "muebles"
+    },
+    {
+      "titulo": "Despensero 1 Puerta Centro Estant DIS1 Blanco",
+      "precio": 12999,
+      "precioAnterior": 19999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "muebles"
+    },
+    {
+      "titulo": "Silla Ergonómica con Apoya Brazo Ajustable",
+      "precio": 49999,
+      "precioAnterior": 74999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "muebles"
+    },
+    {
+      "titulo": "Mesa de Luz Orlandi Abedul",
+      "precio": 5999,
+      "precioAnterior": 9999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "muebles"
+    },
+    {
+      "titulo": "Placard Richezze 2 Puertas 2 Cajones Benevento",
+      "precio": 14999,
+      "precioAnterior": 19999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "muebles"
+    },
+    {
+      "titulo": "Escritorio Ricchezze  Mesina 0,90 Pino Blanco",
+      "precio": 10999,
+      "precioAnterior": 15999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "muebles"
+    },
+    {
+      "titulo": "Mesa de Luz Ricchezze Benevento Blanca",
+      "precio": 4899,
+      "precioAnterior": 7199,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "muebles"
+    },
+    {
+      "titulo": "Mesa de Luz Ricchezze 1 Cajón Benevento",
+      "precio": 4899,
+      "precioAnterior": 7199,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "muebles"
+    },
+    {
+      "titulo": "Escritorio 2 Cajones Centro Estant Paris SC1250 Blanco",
+      "precio": 17999,
+      "precioAnterior": 27999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "muebles"
+    },
+    {
+      "titulo": "Notebook Bangho Max L5 Intel Core I5 10ma Gen 8Gb SSD 240Gb 15,6\" Windows 10",
+      "precio": 275999,
+      "precioAnterior": 358799,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "informatica"
+    },
+    {
+      "titulo": "Impresora 3D Hellbot Magna Se 32 Bit FDM",
+      "precio": 150150,
+      "precioAnterior": 184469,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "informatica",
+      "interes": "sin interes",
+      "cuotas": 3,
+      "valorCuotas": 50050
+    },
+    {
+      "titulo": "Tablet Lenovo M10 10,1\" 64GB 4GB TBX306F ZA6W0042 + Funda",
+      "precio": 79999,
+      "precioAnterior": 99999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "informatica"
+    },
+    {
+      "titulo": "Silla Gamer Ergonómica",
+      "precio": 63424,
+      "precioAnterior": 126849,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "informatica"
+    },
+    {
+      "titulo": "Notebook Lenovo IdeaPad 1 14” AMD Ryzen 5 8GB 256GB SSD 82R0003RAR",
+      "precio": 299999,
+      "precioAnterior": 333339,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "informatica"
+    },
+    {
+      "titulo": "Reloj Inteligente Smartwatch Deportivo Cardio Rosa",
+      "precio": 4750,
+      "precioAnterior": 11546,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "informatica"
+    },
+    {
+      "titulo": "Notebook Dell 15,6” Ryzen 5 8B 256GB SSD INSP3525 94JM5",
+      "precio": 319999,
+      "precioAnterior": 444999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "informatica"
+    },
+    {
+      "titulo": "Reloj Inteligente Smartwatch Deportivo Cardio Gris",
+      "precio": 4750,
+      "precioAnterior": 11546,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "informatica"
+    },
+    {
+      "titulo": "Silla Gamer Daewoo Shooter DW-SGA001NA Blue",
+      "precio": 56999,
+      "precioAnterior": 89999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "informatica"
+    },
+    {
+      "titulo": "Silla Gamer Daewoo Shooter DW-SGA001NR Red",
+      "precio": 56999,
+      "precioAnterior": 89999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "informatica"
+    },
+    {
+      "titulo": "Reloj Inteligente Smartwatch Deportivo Cardio Azul",
+      "precio": 4750,
+      "precioAnterior": 11546,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "informatica"
+    },
+    {
+      "titulo": "Smart TV LED 50” 4K UHD RCA AND50P6UHD-B",
+      "precio": 99999,
+      "precioAnterior": 134999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "tv-y-video"
+    },
+    {
+      "titulo": "Smart Box Roku Express 3930MX 512MB",
+      "precio": 19999,
+      "precioAnterior": 23999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "tv-y-video"
+    },
+    {
+      "titulo": "Smart TV 32\" HD TCL L32S65A-F",
+      "precio": 56999,
+      "precioAnterior": 69999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "tv-y-video"
+    },
+    {
+      "titulo": "Smart TV 50” 4K Android TV Admiral AD50G22",
+      "precio": 99999,
+      "precioAnterior": 145999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "tv-y-video"
+    },
+    {
+      "titulo": "Smart Box Roku Streaming Stick 4K 1GB",
+      "precio": 29999,
+      "precioAnterior": 37999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "tv-y-video"
+    },
+    {
+      "titulo": "Smart TV LED 75” 4K UHD Samsung Crystal UN75BU8000GCZB",
+      "precio": 509999,
+      "precioAnterior": 599999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "tv-y-video"
+    },
+    {
+      "titulo": "Botella Contigo Jackson Tritan 710ml Gris",
+      "precio": 4499,
+      "precioAnterior": 7999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "hogar"
+    },
+    {
+      "titulo": "Cafetera de Aluminio Italiana Hudson 9 Tazas Negra",
+      "precio": 10299,
+      "precioAnterior": 16478,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "hogar"
+    },
+    {
+      "titulo": "Sommier y Colchón de Espuma 1 Plaza Suavestar Sport 190x080cm",
+      "precio": 57999,
+      "precioAnterior": 103998,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "hogar"
+    },
+    {
+      "titulo": "Bateria de Aluminio con Antiadherente Teflón Hudson Negro",
+      "precio": 17999,
+      "precioAnterior": 31998,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "hogar"
+    },
+    {
+      "titulo": "Colchón de Resortes Piero Genova 190 x 140 cm",
+      "precio": 50999,
+      "precioAnterior": 95998,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "hogar"
+    },
+    {
+      "titulo": "Set de 12 Vasos Rigolleau Oslo 400ml",
+      "precio": 2826,
+      "precioAnterior": 4158,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "hogar"
+    },
+    {
+      "titulo": "Colchón de Espuma 1 Plaza Suavestar Deluxe 190x80cm",
+      "precio": 26999,
+      "precioAnterior": 47998,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "hogar"
+    },
+    {
+      "titulo": "Cafetera Estilo Italiano Hudson 9 Tazas Gris",
+      "precio": 10299,
+      "precioAnterior": 16478,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "hogar"
+    },
+    {
+      "titulo": "Colchón y Sommier Arcoiris RIO 080x190 1 plaza Resortes",
+      "precio": 79900,
+      "precioAnterior": 241303,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "hogar"
+    },
+    {
+      "titulo": "Botella Térmica Contigo 739ml Azul",
+      "precio": 16999,
+      "precioAnterior": 25999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "hogar"
+    },
+    {
+      "titulo": "Mesa de Luz Ricchezze 1 Cajón 1 Puerta Pluspack Nevada",
+      "precio": 9899,
+      "precioAnterior": 12999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "muebles"
+    },
+    {
+      "titulo": "Rack TV 55\" Centro Estant MT4000 Blanco",
+      "precio": 16999,
+      "precioAnterior": 22999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "muebles"
+    },
+    {
+      "titulo": "Escritorio Centro Estant Paris SC1250W Wengue",
+      "precio": 17999,
+      "precioAnterior": 27999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "muebles"
+    },
+    {
+      "titulo": "Mesa de Luz Venecia",
+      "precio": 6499,
+      "precioAnterior": 9999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "muebles"
+    },
+    {
+      "titulo": "Mueble Organizador Simple Centro Estant ORBL Blanco",
+      "precio": 9899,
+      "precioAnterior": 12999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "muebles"
+    },
+    {
+      "titulo": "Biblioteca Ricchezze 4 Estantes Mesina Pino Blanco",
+      "precio": 9899,
+      "precioAnterior": 15399,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "muebles"
+    },
+    {
+      "titulo": "Placard 6 Puertas Orlandi Abedul Bahía",
+      "precio": 44999,
+      "precioAnterior": 69999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "muebles"
+    },
+    {
+      "titulo": "Placard Mosconi 26 Super Express Blanco SR",
+      "precio": 55190,
+      "precioAnterior": 87230,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "muebles"
+    },
+    {
+      "titulo": "Notebook Bangho Max L5 Intel Core I5 10ma Gen 8Gb SSD 240Gb 15,6\" Windows 10",
+      "precio": 275999,
+      "precioAnterior": 358799,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "informatica"
+    },
+    {
+      "titulo": "Impresora 3D Hellbot Magna Se 32 Bit FDM",
+      "precio": 150150,
+      "precioAnterior": 184469,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "informatica",
+      "interes": "sin interes",
+      "cuotas": 3,
+      "valorCuotas": 50050
+    },
+    {
+      "titulo": "Silla Gamer Ergonómica Negra y Roja",
+      "precio": 49999,
+      "precioAnterior": 89999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "informatica"
+    },
+    {
+      "titulo": "Tablet Lenovo Tab M8 ZA5G0184AR",
+      "precio": 52999,
+      "precioAnterior": 71999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "informatica"
+    },
+    {
+      "titulo": "Silla Gamer Daewoo Shooter DW-SGA001NV Green",
+      "precio": 56999,
+      "precioAnterior": 89999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "informatica"
+    },
+    {
+      "titulo": "Tablet Positivo-BHG T790 2/32",
+      "precio": 26999,
+      "precioAnterior": 33339,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "informatica"
+    },
+    {
+      "titulo": "Reloj Inteligente Smartwatch Deportivo Cardio Rojo",
+      "precio": 4750,
+      "precioAnterior": 11546,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "informatica"
+    },
+    {
+      "titulo": "Notebook Lenovo 15,6” AMD Ryzen 5 16GB 512GB SSD IdeaPad Gaming 3 82K201Y0A",
+      "precio": 419999,
+      "precioAnterior": 609999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "informatica"
+    },
+    {
+      "titulo": "Impresora Térmica Nictom IT02 58mm Comandera Tickets Usb",
+      "precio": 10999,
+      "precioAnterior": 19999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "informatica"
+    },
+    {
+      "titulo": "Tablet Aiwa 10” TA-10-232",
+      "precio": 39999,
+      "precioAnterior": 49999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "informatica"
+    },
+    {
+      "titulo": "Teclado Xtrike-Me  KB-280",
+      "precio": 2699,
+      "precioAnterior": 3599,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "informatica"
+    },
+    {
+      "titulo": "Tablet TCL TAB-10 LITE 10”",
+      "precio": 34999,
+      "precioAnterior": 43399,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "informatica"
+    },
+    {
+      "titulo": "Convertidor Smart Tv Box 2gb Ram 4k Android IOS Netflix Series + Control",
+      "precio": 13999,
+      "precioAnterior": 16999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "tv-y-video"
+    },
+    {
+      "titulo": "Smart TV Box Panacom TV1016",
+      "precio": 19999,
+      "precioAnterior": 25999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "tv-y-video"
+    },
+    {
+      "titulo": "Smart Box Roku Express 4K 3940MX 1GB",
+      "precio": 24999,
+      "precioAnterior": 30999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "tv-y-video"
+    },
+    {
+      "titulo": "Convertidor Smart Tv Box 2gb Ram 4k Android IOS Netflix Series + Teclado",
+      "precio": 17999,
+      "precioAnterior": 21999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "tv-y-video"
+    },
+    {
+      "titulo": "Smart TV Neo QLED 75” 4K Samsung QN75QN85i",
+      "precio": 899999,
+      "precioAnterior": 999999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "tv-y-video"
+    },
+    {
+      "titulo": "Smart TV 4K UHD 50\" LG 50UQ8050PSB",
+      "precio": 164999,
+      "precioAnterior": 194999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "tv-y-video"
+    },
+    {
+      "titulo": "Smart Tv Led 43'' Feelnology F4322fk5",
+      "precio": 73999,
+      "precioAnterior": 0,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "tv-y-video"
+    },
+    {
+      "titulo": "TV Led 40” TCL L40S66E-B",
+      "precio": 69999,
+      "precioAnterior": 89999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "tv-y-video"
+    },
+    {
+      "titulo": "Smart TV LED 50” 4K UHD RCA AND50P6UHD-B",
+      "precio": 112999,
+      "precioAnterior": 139999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "tv-y-video"
+    },
+    {
+      "titulo": "Vaso Térmico Huron 473ml Rose Quarz",
+      "precio": 10999,
+      "precioAnterior": 17999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "hogar"
+    },
+    {
+      "titulo": "Colchón de Espuma Piero Parma Jack 190 x 140 cm",
+      "precio": 48999,
+      "precioAnterior": 87998,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "hogar"
+    },
+    {
+      "titulo": "Set 12 Vasos Rigolleau Gourmet 450ml",
+      "precio": 4917,
+      "precioAnterior": 0,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "hogar"
+    },
+    {
+      "titulo": "Bateria de Aluminio con Antiadherente Cerámico Hudson Crema",
+      "precio": 26999,
+      "precioAnterior": 47998,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "hogar"
+    },
+    {
+      "titulo": "Colchón TM080 Arcoiris 80x190 Espuma",
+      "precio": 37790,
+      "precioAnterior": 75600,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "hogar"
+    },
+    {
+      "titulo": "Vaso Térmico Huron 473ml Rustic Gold",
+      "precio": 10999,
+      "precioAnterior": 17999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "hogar"
+    },
+    {
+      "titulo": "Botella De Agua Contigo Jackson 2.0",
+      "precio": 4499,
+      "precioAnterior": 6999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "hogar"
+    },
+    {
+      "titulo": "Notebook Bangho Max L5 Intel Core I5 10ma Gen 8Gb SSD 240Gb 15,6\" Windows 10",
+      "precio": 275999,
+      "precioAnterior": 358799,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "informatica"
+    },
+    {
+      "titulo": "Impresora 3D Hellbot Magna Se 32 Bit FDM",
+      "precio": 150150,
+      "precioAnterior": 184469,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "informatica",
+      "interes": "sin interes",
+      "cuotas": 3,
+      "valorCuotas": 50050
+    },
+    {
+      "titulo": "Mouse Gamer Xtrike-Me GM-510",
+      "precio": 2399,
+      "precioAnterior": 3199,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "informatica"
+    },
+    {
+      "titulo": "Lapiz Lapicera De Impresion 3d Nictom Rosa Con L3d + Filamento Regalo",
+      "precio": 7499,
+      "precioAnterior": 9999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "informatica"
+    },
+    {
+      "titulo": "Auricular Gamer Shenlong HS-SV7100",
+      "precio": 5999,
+      "precioAnterior": 7499,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "informatica"
+    },
+    {
+      "titulo": "Auricular Gamer Shenlong HS999",
+      "precio": 3999,
+      "precioAnterior": 5999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "informatica"
+    },
+    {
+      "titulo": "Notebook Dell 15,6\" 256GB 8GB Intel Core I5 G55520",
+      "precio": 599999,
+      "precioAnterior": 777999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "informatica"
+    },
+    {
+      "titulo": "Mouse Microsoft 222-00035 Durazno",
+      "precio": 7599,
+      "precioAnterior": 9499,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "informatica"
+    },
+    {
+      "titulo": "Colchón de Espuma Atma Smooth Top 2 Plazas 140X190cm CHMFST140X190",
+      "precio": 80999,
+      "precioAnterior": 119999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "hogar"
+    },
+    {
+      "titulo": "Cafetera Estilo Italiano Hudson 6 Tazas Gris",
+      "precio": 8999,
+      "precioAnterior": 11899,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "hogar"
+    },
+    {
+      "titulo": "Colchón de Espuma Atma Smooth Top 1 plaza 80X190cm CHMFST80X90",
+      "precio": 48999,
+      "precioAnterior": 77999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "hogar"
+    },
+    {
+      "titulo": "Cafetera de Aluminio Italiana Hudson 6 Tazas Negra",
+      "precio": 8999,
+      "precioAnterior": 11899,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "hogar"
+    },
+    {
+      "titulo": "Set de 12 Copas Nadir Windsor 210ml",
+      "precio": 6960,
+      "precioAnterior": 0,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "hogar"
+    },
+    {
+      "titulo": "Set de 12 Platos Playos Rigolleau Galaxia 23.6 cm",
+      "precio": 2910,
+      "precioAnterior": 0,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "hogar"
+    },
+    {
+      "titulo": "Bateria de Cocina Ebony 5P Negro",
+      "precio": 21599,
+      "precioAnterior": 38398,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "hogar"
+    },
+    {
+      "titulo": "Silla de Diseño Eames Color Blanco",
+      "precio": 7999,
+      "precioAnterior": 11499,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "muebles"
+    },
+    {
+      "titulo": "Set 4 Sillas de Diseño Allegra Negras",
+      "precio": 34999,
+      "precioAnterior": 49999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "muebles"
+    },
+    {
+      "titulo": "Combo de Sillas de Diseño Windsor x 4 Color Negro",
+      "precio": 35999,
+      "precioAnterior": 67999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "muebles"
+    },
+    {
+      "titulo": "Biblioteca Ricchezze 4 Estantes Mesina Hickory/Blanco",
+      "precio": 9899,
+      "precioAnterior": 15399,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "muebles"
+    },
+    {
+      "titulo": "Escritorio para Notebook Orlandi Jacarandá",
+      "precio": 13999,
+      "precioAnterior": 20999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "muebles"
+    },
+    {
+      "titulo": "Botinero Centro Estant B19N 18 Pares Negro",
+      "precio": 18999,
+      "precioAnterior": 28999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "muebles"
+    },
+    {
+      "titulo": "Mesa Eames de 90 cm de Diametro Blanca",
+      "precio": 33999,
+      "precioAnterior": 49999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "muebles"
+    },
+    {
+      "titulo": "Notebook Bangho Max L5 Intel Core I5 10ma Gen 8Gb SSD 240Gb 15,6\" Windows 10",
+      "precio": 275999,
+      "precioAnterior": 358799,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "informatica"
+    },
+    {
+      "titulo": "Impresora 3D Hellbot Magna Se 32 Bit FDM",
+      "precio": 150150,
+      "precioAnterior": 184469,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "informatica",
+      "interes": "sin interes",
+      "cuotas": 3,
+      "valorCuotas": 50050
+    },
+    {
+      "titulo": "Teclado Mecánico Gamer Mad Catz S.T.R.I.K.E. 2",
+      "precio": 20999,
+      "precioAnterior": 24755,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "informatica",
+      "interes": "sin interes",
+      "cuotas": 3,
+      "valorCuotas": 6999.67
+    },
+    {
+      "titulo": "Mouse Gamer Mad Catz R.A.T. 4 +",
+      "precio": 22929,
+      "precioAnterior": 29599,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "informatica",
+      "interes": "sin interes",
+      "cuotas": 3,
+      "valorCuotas": 7643
+    },
+    {
+      "titulo": "Mouse Gamer Mad Catz R.A.T. 2 +",
+      "precio": 15999,
+      "precioAnterior": 19599,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "informatica",
+      "interes": "sin interes",
+      "cuotas": 3,
+      "valorCuotas": 5333
+    },
+    {
+      "titulo": "Auricular Gamer Mad Catz The Authentic F.R.E.Q. 4 GAMING HEADSET Negro",
+      "precio": 36849,
+      "precioAnterior": 40855,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "informatica",
+      "interes": "sin interes",
+      "cuotas": 3,
+      "valorCuotas": 12283
+    },
+    {
+      "titulo": "Teclado GXT860 Thura Semi Español",
+      "precio": 26749,
+      "precioAnterior": 30859,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "informatica",
+      "interes": "sin interes",
+      "cuotas": 3,
+      "valorCuotas": 8916.33
+    },
+    {
+      "titulo": "Auriculares Mad Catz The Authentic E.S. PRO+ Gaming Earbuds BL",
+      "precio": 23585,
+      "precioAnterior": 31899,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "informatica",
+      "interes": "sin interes",
+      "cuotas": 3,
+      "valorCuotas": 7861.67
+    },
+    {
+      "titulo": "Mouse Gamer Trust Qudos RGB GXT900",
+      "precio": 26999,
+      "precioAnterior": 32589,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "informatica",
+      "interes": "sin interes",
+      "cuotas": 3,
+      "valorCuotas": 8999.67
+    },
+    {
+      "titulo": "Tabla montelli blanco Johnson apitamoq71 q71",
+      "precio": 24660,
+      "precioAnterior": 0,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "hogar",
+      "interes": "sin interes",
+      "cuotas": 3,
+      "valorCuotas": 8220
+    },
+    {
+      "titulo": "Tabla Para Picar de Madera Dura Cocina Johnson TA 34",
+      "precio": 6660,
+      "precioAnterior": 0,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "hogar",
+      "interes": "sin interes",
+      "cuotas": 3,
+      "valorCuotas": 2220
+    },
+    {
+      "titulo": "Delantal de Cocina Negro Electrolux",
+      "precio": 5639,
+      "precioAnterior": 0,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "hogar",
+      "interes": "sin interes",
+      "cuotas": 3,
+      "valorCuotas": 1879.67
+    },
+    {
+      "titulo": "Sommier y Colchón de Resortes Suavegom Preston 190 x 140 cm",
+      "precio": 79999,
+      "precioAnterior": 129999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "hogar"
+    },
+    {
+      "titulo": "Tabla Vidrio Accesorio Johnson Cocina Bacha Pileta Curve",
+      "precio": 25311,
+      "precioAnterior": 0,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "hogar",
+      "interes": "sin interes",
+      "cuotas": 3,
+      "valorCuotas": 8437
+    },
+    {
+      "titulo": "4 Canastos Organizador Ratan Mediano Negro - Colombraro",
+      "precio": 14820,
+      "precioAnterior": 22800,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "hogar"
+    },
+    {
+      "titulo": "4 Canastos Organizador Ratan Mediano Blanco - Colombraro",
+      "precio": 14820,
+      "precioAnterior": 22800,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "hogar"
+    },
+    {
+      "titulo": "Set de 3 Contenedores Organizadores Col Box Multi Nº 3 Colombraro",
+      "precio": 12715,
+      "precioAnterior": 19575,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "hogar"
+    },
+    {
+      "titulo": "Frascos de Vidrio Set x 3 Tapa Acero a Rosca Super Practico",
+      "precio": 12155,
+      "precioAnterior": 0,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "hogar"
+    },
+    {
+      "titulo": "Colchon De Espuma Atma AHORESP190X80D16 1 Plaza 80x190 18 Cm",
+      "precio": 29999,
+      "precioAnterior": 35999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "hogar"
+    },
+    {
+      "titulo": "Mesa de Luz Centro Estant MLYN Negro",
+      "precio": 12999,
+      "precioAnterior": 17999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "muebles"
+    },
+    {
+      "titulo": "Botinero Centro Estant B19BL 18 Pares Blanco",
+      "precio": 18999,
+      "precioAnterior": 28999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "muebles"
+    },
+    {
+      "titulo": "Set 4 Sillas de Diseño Allegra Color Blancas",
+      "precio": 34999,
+      "precioAnterior": 49999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "muebles"
+    },
+    {
+      "titulo": "Organizador Rack Zapatos Orden 20 Pares Compactor",
+      "precio": 13143,
+      "precioAnterior": 0,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "muebles"
+    },
+    {
+      "titulo": "Mesa de Luz Centro Estant MLYBL Blanco",
+      "precio": 12999,
+      "precioAnterior": 17999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "muebles"
+    },
+    {
+      "titulo": "Organizador Centro Stant  KP40BL",
+      "precio": 25999,
+      "precioAnterior": 35999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "muebles"
+    },
+    {
+      "titulo": "Notebook Bangho Max L5 Intel Core I5 10ma Gen 8Gb SSD 240Gb 15,6\" Windows 10",
+      "precio": 275999,
+      "precioAnterior": 358799,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "informatica"
+    },
+    {
+      "titulo": "Impresora 3D Hellbot Magna Se 32 Bit FDM",
+      "precio": 150150,
+      "precioAnterior": 184469,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "informatica",
+      "interes": "sin interes",
+      "cuotas": 3,
+      "valorCuotas": 50050
+    },
+    {
+      "titulo": "Lapiz Lapicera De Impresion 3d Nictom Celeste Con L3d + Filamento Regalo",
+      "precio": 7499,
+      "precioAnterior": 9999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "informatica"
+    },
+    {
+      "titulo": "Tablet Sansei 7” 32GB TS7A232",
+      "precio": 36999,
+      "precioAnterior": 44999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "informatica"
+    },
+    {
+      "titulo": "Auriculares Gamer Noblex HP600GM",
+      "precio": 7999,
+      "precioAnterior": 10199,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "informatica"
+    },
+    {
+      "titulo": "Monitor Full HD Philips 21,5” 221V8/77",
+      "precio": 69999,
+      "precioAnterior": 78999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "informatica"
+    },
+    {
+      "titulo": "Termotanque Eléctrico Señorial TESZ-95 95Lt",
+      "precio": 64498.99999999999,
+      "precioAnterior": 94999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "termotanques-y-calefones"
+    },
+    {
+      "titulo": "Termotanque a Gas Señorial Zafiro TSZ-85 85Lt",
+      "precio": 60999,
+      "precioAnterior": 89999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "termotanques-y-calefones"
+    },
+    {
+      "titulo": "Termotanque a Gas Sherman TPGP080 80Lt",
+      "precio": 67499,
+      "precioAnterior": 94999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "termotanques-y-calefones"
+    },
+    {
+      "titulo": "Termotanque Eléctrico Señorial TESZ-65 50Lt",
+      "precio": 58999,
+      "precioAnterior": 84999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "termotanques-y-calefones"
+    },
+    {
+      "titulo": "Termotanque a Gas Escorial 45Lt",
+      "precio": 49999,
+      "precioAnterior": 64998.99999999999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "termotanques-y-calefones"
+    },
+    {
+      "titulo": "Termotanque Eléctrico Señorial TESZP-40 30Lt",
+      "precio": 48999,
+      "precioAnterior": 68999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "termotanques-y-calefones"
+    },
+    {
+      "titulo": "Termotanque a Gas Escorial 120Lt",
+      "precio": 60999,
+      "precioAnterior": 79999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "termotanques-y-calefones"
+    },
+    {
+      "titulo": "Calefón Tiro Natural Escorial CE-14LGN 14Lts",
+      "precio": 56999,
+      "precioAnterior": 74999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "termotanques-y-calefones"
+    },
+    {
+      "titulo": "Calefón Tiro Natural Escorial CE-14LBL 14Lts Gas Envasado",
+      "precio": 54999,
+      "precioAnterior": 69999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "termotanques-y-calefones"
+    },
+    {
+      "titulo": "Calefón Tiro Natural Escorial CE-14LGL 14Lts",
+      "precio": 57999,
+      "precioAnterior": 73999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "termotanques-y-calefones"
+    },
+    {
+      "titulo": "Termotanque a Gas Escorial Geiser 80 Lt",
+      "precio": 70999,
+      "precioAnterior": 94999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "termotanques-y-calefones"
+    },
+    {
+      "titulo": "Termotanque Eléctrico Sherman TECC055 55Lt",
+      "precio": 71999,
+      "precioAnterior": 104999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "termotanques-y-calefones"
+    },
+    {
+      "titulo": "Termotanque Eléctrico Sherman TECC085 85 Lt",
+      "precio": 76499,
+      "precioAnterior": 109999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "termotanques-y-calefones"
+    },
+    {
+      "titulo": "Bicicleta Magnetica Vertical TE2455HP Semikon",
+      "precio": 89410,
+      "precioAnterior": 110370,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "deportes-y-fitness"
+    },
+    {
+      "titulo": "Bicicleta Fija Air Bike Athletic Mov. Brazos",
+      "precio": 75651,
+      "precioAnterior": 95893,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "deportes-y-fitness",
+      "interes": "sin interes",
+      "cuotas": 12,
+      "valorCuotas": 6304.25
+    },
+    {
+      "titulo": "Barra + 2 Mancuernas + 50kg Discos Local Combo Kit Gym Bsfit",
+      "precio": 16999,
+      "precioAnterior": 32999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "deportes-y-fitness"
+    },
+    {
+      "titulo": "Bicicleta Mountain Bike Rodado 29 SLP 5PRO Talle 18",
+      "precio": 67999,
+      "precioAnterior": 109999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "deportes-y-fitness"
+    },
+    {
+      "titulo": "Kit Set 24kg Bsfit Discos Lisos Pesas + Barra + 2 Mancuernas",
+      "precio": 19999,
+      "precioAnterior": 26999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "deportes-y-fitness"
+    },
+    {
+      "titulo": "Banco de Pesas Randers ARG-140",
+      "precio": 54999,
+      "precioAnterior": 89999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "deportes-y-fitness"
+    },
+    {
+      "titulo": "Bicicleta Mountain Bike SLP 5PRO Rodado 29 Talle 20",
+      "precio": 79999,
+      "precioAnterior": 129999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "deportes-y-fitness"
+    },
+    {
+      "titulo": "Bicicleta Mountain Bike Rodado 29\" SLP 5PRO T20",
+      "precio": 76999,
+      "precioAnterior": 115999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "deportes-y-fitness"
+    },
+    {
+      "titulo": "Bicicleta Mountain Bike Rodado 29\" SLP 5PRO T18",
+      "precio": 76999,
+      "precioAnterior": 116999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "deportes-y-fitness"
+    },
+    {
+      "titulo": "Bicicleta Mountain Bike Rodado 29” Aluminio SLP 10 Lady Pro Ne/Ro",
+      "precio": 84999,
+      "precioAnterior": 116999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "deportes-y-fitness"
+    },
+    {
+      "titulo": "Bicicleta Mountain Bike Battle Rodado 29\" Talle 18 Negro/Celeste",
+      "precio": 113999,
+      "precioAnterior": 169999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "deportes-y-fitness"
+    },
+    {
+      "titulo": "Kit Set 24kg Bsfit Discos Lisos Pesas + Barra +2 Mancuernas",
+      "precio": 9999,
+      "precioAnterior": 22999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "deportes-y-fitness"
+    },
+    {
+      "titulo": "Aire Acondicionado Split Frio/Calor Inverter Siam SMIN35HA3BN 3550W 3000F",
+      "precio": 219999,
+      "precioAnterior": 319999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "climatizacion"
+    },
+    {
+      "titulo": "Barra Sonido Crown Mustang Koba Bafle Potenciado",
+      "precio": 5399,
+      "precioAnterior": 8999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "audio"
+    },
+    {
+      "titulo": "Parlante Bluetooth 8\" Pulgadas T-GO PALERMO Portátil con Radio FM y Micrófono",
+      "precio": 12999,
+      "precioAnterior": 22999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "audio"
+    },
+    {
+      "titulo": "Parlante Portátil T-GO BUZIOS Bluetooth Luces Led TWS",
+      "precio": 7399,
+      "precioAnterior": 11499,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "audio"
+    },
+    {
+      "titulo": "Auriculares Inalámbricos Bluetooth JBL Tune 760 NC Negros",
+      "precio": 31999,
+      "precioAnterior": 37499,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "audio"
+    },
+    {
+      "titulo": "Parlante Portátil JBL Go 3 Negro",
+      "precio": 16499,
+      "precioAnterior": 20499,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "audio"
+    },
+    {
+      "titulo": "Soundbar Noblex SB100SW 2.1",
+      "precio": 49999,
+      "precioAnterior": 70499,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "audio"
+    },
+    {
+      "titulo": "Parlante Portátil JBL Flip 6 Negro",
+      "precio": 49499,
+      "precioAnterior": 58499,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "audio"
+    },
+    {
+      "titulo": "Parlante Bluetooth Noblex MNT670P",
+      "precio": 79999,
+      "precioAnterior": 124999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "audio"
+    },
+    {
+      "titulo": "Parlante Portátil JBL Flip 6 Azul",
+      "precio": 49499,
+      "precioAnterior": 58499,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "audio"
+    },
+    {
+      "titulo": "Parlante Bluetooth Noblex MNT290",
+      "precio": 49999,
+      "precioAnterior": 82999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "audio"
+    },
+    {
+      "titulo": "Auriculares Inalámbricos Bluetooth JBL Tune 760 NC Blancos",
+      "precio": 31999,
+      "precioAnterior": 37499,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "audio"
+    },
+    {
+      "titulo": "Parlante Portátil Philips TAX2706/77",
+      "precio": 45999,
+      "precioAnterior": 55999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "audio"
+    },
+    {
+      "titulo": "Sist.Sonido LG XBOOM 360 RP4",
+      "precio": 119999,
+      "precioAnterior": 179999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "audio"
+    },
+    {
+      "titulo": "Torre de Sonido Philco 94TAP350P 3000W Bluetooth",
+      "precio": 32399,
+      "precioAnterior": 77999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "audio"
+    },
+    {
+      "titulo": "Auriculares Inalambricos Bluetooth In-Ear Qcy T1C Negro",
+      "precio": 6999,
+      "precioAnterior": 9999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "audio"
+    },
+    {
+      "titulo": "Parlante Portátil Blackpoint S45.2",
+      "precio": 19999,
+      "precioAnterior": 39999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "audio"
+    },
+    {
+      "titulo": "Pistola Pulverizadora Multifunción Kärcher",
+      "precio": 4599,
+      "precioAnterior": 6599,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "jardin"
+    },
+    {
+      "titulo": "Juego de 2 Reposeras Toronto Blancas + Mesa Puket",
+      "precio": 34999,
+      "precioAnterior": 58799,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "jardin"
+    },
+    {
+      "titulo": "Bicicleta Magnetica Vertical TE2455HP Semikon",
+      "precio": 89410,
+      "precioAnterior": 110370,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "deportes-y-fitness"
+    },
+    {
+      "titulo": "Bicicleta Fija Air Bike Athletic Mov. Brazos",
+      "precio": 75651,
+      "precioAnterior": 95893,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "deportes-y-fitness",
+      "interes": "sin interes",
+      "cuotas": 12,
+      "valorCuotas": 6304.25
+    },
+    {
+      "titulo": "Bicicleta Mountain Bike 10Pro Rodado 29” SLP T20 Negro",
+      "precio": 84999,
+      "precioAnterior": 115999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "deportes-y-fitness"
+    },
+    {
+      "titulo": "Bicicleta Mountain Bike SLP 5PRO Rodado 29\" Talle 18",
+      "precio": 79999,
+      "precioAnterior": 115999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "deportes-y-fitness"
+    },
+    {
+      "titulo": "Multigimnasio Multigym Randers ARG-63120 45 Kg Reforzado",
+      "precio": 107634,
+      "precioAnterior": 190708,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "deportes-y-fitness"
+    },
+    {
+      "titulo": "Kit Set 24kg Bsfit Discos Lisos Pesas + Barra +2 Mancuernas",
+      "precio": 9999,
+      "precioAnterior": 22999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "deportes-y-fitness"
+    },
+    {
+      "titulo": "Kit Barra 50 Kg con 2 Mancuernas y Discos Ranbak",
+      "precio": 29999,
+      "precioAnterior": 49999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "deportes-y-fitness"
+    },
+    {
+      "titulo": "Cinta Magnética Ranbak 530",
+      "precio": 79999,
+      "precioAnterior": 119999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "deportes-y-fitness"
+    },
+    {
+      "titulo": "Bicicleta Fija Spinning Philco VKT0145",
+      "precio": 65999,
+      "precioAnterior": 109999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "deportes-y-fitness"
+    },
+    {
+      "titulo": "Kit de Entrenamiento Fitness Ranbak Mat + Soga + Rueda Kit 5",
+      "precio": 8999,
+      "precioAnterior": 14999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "deportes-y-fitness"
+    },
+    {
+      "titulo": "Set de Barra y Pesas 20 Kg",
+      "precio": 12999,
+      "precioAnterior": 17999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "deportes-y-fitness"
+    },
+    {
+      "titulo": "Bicicleta Mountain Bike Rodado 29” Acero Motomel T.M AM/NG",
+      "precio": 79999,
+      "precioAnterior": 109999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "deportes-y-fitness"
+    },
+    {
+      "titulo": "Bicicleta Mountain Bike Rodado 29” Acero Motomel T.M NA/NG",
+      "precio": 75999,
+      "precioAnterior": 109999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "deportes-y-fitness"
+    },
+    {
+      "titulo": "Bicicleta Mountain Bike SLP 50PRO Rodado 29\" Aluminio T20",
+      "precio": 93999,
+      "precioAnterior": 139999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "deportes-y-fitness"
+    },
+    {
+      "titulo": "Bicicleta Mountain Bike Rodado 29” Talle L Randers",
+      "precio": 78999,
+      "precioAnterior": 119999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "deportes-y-fitness"
+    },
+    {
+      "titulo": "Barra Sonido Crown Mustang Koba Bafle Potenciado",
+      "precio": 5399,
+      "precioAnterior": 8999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "audio"
+    },
+    {
+      "titulo": "Parlante Bluetooth 8\" Pulgadas T-GO PALERMO Portátil con Radio FM y Micrófono",
+      "precio": 12999,
+      "precioAnterior": 22999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "audio"
+    },
+    {
+      "titulo": "Parlante Portátil T-GO BUZIOS Bluetooth Luces Led TWS",
+      "precio": 7399,
+      "precioAnterior": 11499,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "audio"
+    },
+    {
+      "titulo": "Parlante Philco DJP15",
+      "precio": 17999,
+      "precioAnterior": 29999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "audio"
+    },
+    {
+      "titulo": "Sistema de Audio LG XBOOM RM1",
+      "precio": 55999,
+      "precioAnterior": 69999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "audio"
+    },
+    {
+      "titulo": "Auriculares On Ear JBL Tour One Negro",
+      "precio": 89999,
+      "precioAnterior": 113499,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "audio"
+    },
+    {
+      "titulo": "Parlante Portátil Panacom SP3438 TW",
+      "precio": 49999,
+      "precioAnterior": 69999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "audio"
+    },
+    {
+      "titulo": "Auriculares inalámbricos Philco Predicta P1000NC",
+      "precio": 30999,
+      "precioAnterior": 60599,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "audio"
+    },
+    {
+      "titulo": "Parlante Torre Bluetooth Aiwa 40W Power Bank AW-T506R-PB",
+      "precio": 49999,
+      "precioAnterior": 62999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "audio"
+    },
+    {
+      "titulo": "Auriculares Manos libres Smartlife  EBP203B/W Black",
+      "precio": 8186.999999999999,
+      "precioAnterior": 0,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "audio",
+      "interes": "sin interes",
+      "cuotas": 3,
+      "valorCuotas": 2729
+    },
+    {
+      "titulo": "Calefón Tiro Natural Escorial CE-14LBL 14Lts",
+      "precio": 53999,
+      "precioAnterior": 68999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "termotanques-y-calefones"
+    },
+    {
+      "titulo": "Termotanque a Gas Longvie 75 Lts de Pie T3075pf",
+      "precio": 131569,
+      "precioAnterior": 154789,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "termotanques-y-calefones"
+    },
+    {
+      "titulo": "Termotanque Eléctrico 37 Litros Caloragua Longvie CAE40",
+      "precio": 81719,
+      "precioAnterior": 96139,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "termotanques-y-calefones",
+      "interes": "sin interes",
+      "cuotas": 6,
+      "valorCuotas": 13619.83
+    },
+    {
+      "titulo": "Bicicleta Magnetica Vertical TE2455HP Semikon",
+      "precio": 89410,
+      "precioAnterior": 110370,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "deportes-y-fitness"
+    },
+    {
+      "titulo": "Bicicleta Fija Air Bike Athletic Mov. Brazos",
+      "precio": 75651,
+      "precioAnterior": 95893,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "deportes-y-fitness",
+      "interes": "sin interes",
+      "cuotas": 12,
+      "valorCuotas": 6304.25
+    },
+    {
+      "titulo": "Bicicleta Mountain Bike 10Pro Rodado 29” SLP T20 Neve",
+      "precio": 80999,
+      "precioAnterior": 116999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "deportes-y-fitness"
+    },
+    {
+      "titulo": "Bicicleta Mountain Bike Battle Rodado 29 Talle 18 Naranja",
+      "precio": 79999,
+      "precioAnterior": 145999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "deportes-y-fitness"
+    },
+    {
+      "titulo": "Bicicleta Spinning Indoor Ranbak 101N",
+      "precio": 89999,
+      "precioAnterior": 139999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "deportes-y-fitness"
+    },
+    {
+      "titulo": "Bicicleta Fija Magnética Randers ARG-455 h/110kg Disco 6kg Fácil Acceso",
+      "precio": 74999,
+      "precioAnterior": 109999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "deportes-y-fitness"
+    },
+    {
+      "titulo": "Par Mancuernas Bsfit 1 Kg Pesas Hexagonal Plástico Bicep Gym",
+      "precio": 1199,
+      "precioAnterior": 1999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "deportes-y-fitness"
+    },
+    {
+      "titulo": "Bicicletas Mountain Bike Rodado 29” Randers AZNE",
+      "precio": 78999,
+      "precioAnterior": 115999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "deportes-y-fitness"
+    },
+    {
+      "titulo": "Bicicleta Mountain Bike 10Pro Rodado 29” SLP T20 Nebl",
+      "precio": 80999,
+      "precioAnterior": 115999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "deportes-y-fitness"
+    },
+    {
+      "titulo": "Bicicleta Mountain Bike Rodado 29” Aluminio SLP 10 Pro T18 Ne/Bl",
+      "precio": 80999,
+      "precioAnterior": 116999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "deportes-y-fitness"
+    },
+    {
+      "titulo": "Bicicleta Mountain Bike SLP 50PRO Rodado 29\" Aluminio T18",
+      "precio": 93999,
+      "precioAnterior": 139999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "deportes-y-fitness"
+    },
+    {
+      "titulo": "Bicicleta Mountain Bike SLP 5 Pro Rodado 29 Talle 18",
+      "precio": 76999,
+      "precioAnterior": 110999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "deportes-y-fitness"
+    },
+    {
+      "titulo": "Bicicleta Mountain Bike SLP 5PRO Rodado 29 Talle 18",
+      "precio": 79999,
+      "precioAnterior": 109999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "deportes-y-fitness"
+    },
+    {
+      "titulo": "Bicicleta Mountain Bike SLP 50PRO Rodado 29\" Aluminio T18",
+      "precio": 93999,
+      "precioAnterior": 139999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "deportes-y-fitness"
+    },
+    {
+      "titulo": "Bicicleta Philco Patio Rodado 12 Rosa",
+      "precio": 35999,
+      "precioAnterior": 59999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "deportes-y-fitness"
+    },
+    {
+      "titulo": "Bicicletas Mountain Bike Rodado 29” Randers NEBL",
+      "precio": 78999,
+      "precioAnterior": 129999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "deportes-y-fitness"
+    },
+    {
+      "titulo": "Calefactor Convector Longvie Eca2 2200 Kcal Premium",
+      "precio": 64809,
+      "precioAnterior": 76244,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "climatizacion",
+      "interes": "sin interes",
+      "cuotas": 6,
+      "valorCuotas": 10801.5
+    },
+    {
+      "titulo": "Caloventor Philco",
+      "precio": 9299,
+      "precioAnterior": 15022,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "climatizacion"
+    },
+    {
+      "titulo": "Estufa a Gas Philco Tiro Balanceado 4000 Kcal",
+      "precio": 59999,
+      "precioAnterior": 115667,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "climatizacion"
+    },
+    {
+      "titulo": "Bicicleta Magnetica Vertical TE2455HP Semikon",
+      "precio": 89410,
+      "precioAnterior": 110370,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "deportes-y-fitness"
+    },
+    {
+      "titulo": "Bicicleta Fija Air Bike Athletic Mov. Brazos",
+      "precio": 75651,
+      "precioAnterior": 95893,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "deportes-y-fitness",
+      "interes": "sin interes",
+      "cuotas": 12,
+      "valorCuotas": 6304.25
+    },
+    {
+      "titulo": "Bicicleta Mountain Bike SLP 5PRO Rodado 29\" Talle 20",
+      "precio": 76999,
+      "precioAnterior": 115999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "deportes-y-fitness"
+    },
+    {
+      "titulo": "Bicicleta Mountain Bike SLP 50PRO Rodado 29\" Aluminio T18",
+      "precio": 93999,
+      "precioAnterior": 139999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "deportes-y-fitness"
+    },
+    {
+      "titulo": "Bicicleta MTB Totem Acero 21Vel Sunrun Gris/Rojo Talle M",
+      "precio": 123999,
+      "precioAnterior": 0,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "deportes-y-fitness"
+    },
+    {
+      "titulo": "Banda Para Dominadas Power Band Verde Bsfit Fitness Sport",
+      "precio": 5999,
+      "precioAnterior": 9999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "deportes-y-fitness"
+    },
+    {
+      "titulo": "Barra + 2 Mancuernas + 30 Kg En Discos Lisos Encastrables.",
+      "precio": 14999,
+      "precioAnterior": 30999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "deportes-y-fitness"
+    },
+    {
+      "titulo": "Kit Set 24kg Bsfit Discos Lisos Pesas + Barra +2 Mancuernas",
+      "precio": 19999,
+      "precioAnterior": 26999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "deportes-y-fitness"
+    },
+    {
+      "titulo": "Bicicleta SLP MTB 10 Pro R29 T18 Rojo/Negro",
+      "precio": 80999,
+      "precioAnterior": 115999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "deportes-y-fitness"
+    },
+    {
+      "titulo": "Combo X 3 Tiraband Bsfit Banda Elástica Varias Tensiones",
+      "precio": 6999,
+      "precioAnterior": 9999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "deportes-y-fitness"
+    },
+    {
+      "titulo": "Kit Set 17 Kg Bsfit Discos Lisos Pesas Barra Combo Negro",
+      "precio": 12999,
+      "precioAnterior": 19999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "deportes-y-fitness"
+    },
+    {
+      "titulo": "Kit Set 17 Kg Bsfit Discos Lisos Pesas Barra Combo Violeta",
+      "precio": 12999,
+      "precioAnterior": 19999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "deportes-y-fitness"
+    },
+    {
+      "titulo": "Bicicleta Magnetica Vertical TE2455HP Semikon",
+      "precio": 89410,
+      "precioAnterior": 110370,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "deportes-y-fitness"
+    },
+    {
+      "titulo": "Bicicleta Fija Air Bike Athletic Mov. Brazos",
+      "precio": 75651,
+      "precioAnterior": 95893,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "deportes-y-fitness",
+      "interes": "sin interes",
+      "cuotas": 12,
+      "valorCuotas": 6304.25
+    },
+    {
+      "titulo": "Disco Olímpico Negro 5 Kg Bumper Goma Caucho Virgen Bsfit.",
+      "precio": 8999,
+      "precioAnterior": 14999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "deportes-y-fitness"
+    },
+    {
+      "titulo": "Minitramp C/ Funda Cama Elástica Profesional 36 Resortes",
+      "precio": 24999,
+      "precioAnterior": 34999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "deportes-y-fitness"
+    },
+    {
+      "titulo": "Set Elongación Rolo Foam+ rodillo Soft + Stick Masajeador Bsfit",
+      "precio": 9499,
+      "precioAnterior": 14999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "deportes-y-fitness"
+    },
+    {
+      "titulo": "Bicicleta Magnetica Horizontal TE888RHP Semikon",
+      "precio": 128380,
+      "precioAnterior": 158490,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "deportes-y-fitness"
+    },
+    {
+      "titulo": "Bicicleta Magnetica Vertical TE2455HP Semikon",
+      "precio": 89410,
+      "precioAnterior": 110370,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "deportes-y-fitness"
+    },
+    {
+      "titulo": "Bicicleta Magnetica Vertical TE2492HP Semikon",
+      "precio": 118400,
+      "precioAnterior": 146180,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "deportes-y-fitness"
+    },
+    {
+      "titulo": "Bicicleta A cinta Vertical TE312A Semikon",
+      "precio": 79660,
+      "precioAnterior": 98340,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "deportes-y-fitness"
+    },
+    {
+      "titulo": "Bicicleta Tipo Spinning TE856AP Semikon",
+      "precio": 155900,
+      "precioAnterior": 192470,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "deportes-y-fitness"
+    },
+    {
+      "titulo": "Caminador Eliptico Magnetico TE364PLUS-1A Semikon",
+      "precio": 131640,
+      "precioAnterior": 162530,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "deportes-y-fitness"
+    },
+    {
+      "titulo": "Cinta para Correr SEMIKON - TE004F-2AS - Con Inclinación",
+      "precio": 201850,
+      "precioAnterior": 249190,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "deportes-y-fitness"
+    },
+    {
+      "titulo": "Cinta para Correr SEMIKON - TE115CA - Con Inclinación",
+      "precio": 289610,
+      "precioAnterior": 357540,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "deportes-y-fitness"
+    },
+    {
+      "titulo": "Simulador de Remo TE7104 Semikon",
+      "precio": 117960,
+      "precioAnterior": 145630,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "deportes-y-fitness"
+    },
+    {
+      "titulo": "Tender con Alas Exahome",
+      "precio": 5490,
+      "precioAnterior": 7899,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "lavadero-y-limpieza"
+    },
+    {
+      "titulo": "Perchero colgante con 16 broches",
+      "precio": 6410,
+      "precioAnterior": 0,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "lavadero-y-limpieza",
+      "interes": "sin interes",
+      "cuotas": 3,
+      "valorCuotas": 2136.67
+    },
+    {
+      "titulo": "Cambiador De Bebé Portátil Gadnic Plegable Impermeable",
+      "precio": 4499,
+      "precioAnterior": 6599,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "bebes-y-primera-infancia"
+    },
+    {
+      "titulo": "Practicuna Bebesit Colecho con mosquitero Gris",
+      "precio": 32399,
+      "precioAnterior": 59999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "bebes-y-primera-infancia"
+    },
+    {
+      "titulo": "Coche Paragüita Bebesit Tours 1052 Negro/Verde",
+      "precio": 15999,
+      "precioAnterior": 22139,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "bebes-y-primera-infancia"
+    },
+    {
+      "titulo": "Coche Paragüita Bebesit Tours 1052 Negro/Celeste",
+      "precio": 15999,
+      "precioAnterior": 19999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "bebes-y-primera-infancia"
+    },
+    {
+      "titulo": "Sacaleche Electrico Gadnic",
+      "precio": 29999,
+      "precioAnterior": 41999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "bebes-y-primera-infancia"
+    },
+    {
+      "titulo": "Butaca Love 2026 Gris",
+      "precio": 26999,
+      "precioAnterior": 38998,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "bebes-y-primera-infancia"
+    },
+    {
+      "titulo": "Cochecito Paraguitas de Bebe Disney Turquesa Mickey",
+      "precio": 41470,
+      "precioAnterior": 57600,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "bebes-y-primera-infancia"
+    },
+    {
+      "titulo": "Celular Xiaomi Poco X4 Pro 6GB 128GB Negro Sin Cargador",
+      "precio": 281799,
+      "precioAnterior": 402570,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "celulares",
+      "interes": "sin interes",
+      "cuotas": 12,
+      "valorCuotas": 23483.25
+    },
+    {
+      "titulo": "Celular Xiaomi Poco X4 Pro 6GB 128GB Negro Sin Cargador",
+      "precio": 281799,
+      "precioAnterior": 402570,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "celulares",
+      "interes": "sin interes",
+      "cuotas": 12,
+      "valorCuotas": 23483.25
+    },
+    {
+      "titulo": "Celular Samsung Z Flip4 128 GB Negro",
+      "precio": 259999.00000000003,
+      "precioAnterior": 349999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "celulares"
+    },
+    {
+      "titulo": "Celular Xiaomi Poco X4 Pro 6GB 128GB Negro Sin Cargador",
+      "precio": 281799,
+      "precioAnterior": 402570,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "celulares",
+      "interes": "sin interes",
+      "cuotas": 12,
+      "valorCuotas": 23483.25
+    },
+    {
+      "titulo": "Celular Samsung Galaxy Z Fold4 256GB Negro",
+      "precio": 459999,
+      "precioAnterior": 609999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "celulares"
+    },
+    {
+      "titulo": "Celular Samsung Galaxy Z Fold4 256GB Beige",
+      "precio": 459999,
+      "precioAnterior": 609999,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "celulares"
+    },
+    {
+      "titulo": "SECADOR DE PELO SOLAC MOTOR AC 2000W PROFESSIONAL SP7149",
+      "precio": 10399,
+      "precioAnterior": 16049,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "belleza-y-cuidado-corporal",
+      "interes": "sin interes",
+      "cuotas": 3,
+      "valorCuotas": 3466.33
+    },
+    {
+      "titulo": "Planchita De Pelo Arrow 94PL6000AP Titanium Technology 230°C Temp Máxima",
+      "precio": 5999,
+      "precioAnterior": 10712,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "belleza-y-cuidado-corporal"
+    },
+    {
+      "titulo": "Masajeador De Pulso Philco 94WELE206PI Electroestimulador",
+      "precio": 6599,
+      "precioAnterior": 12246,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "belleza-y-cuidado-corporal"
+    },
+    {
+      "titulo": "Cabina De Uñas Bessence 94WEPD1439PI Led Uv Manicura Secado Rapido",
+      "precio": 3899,
+      "precioAnterior": 8436,
+      "link": "https://www.fravega.comundefined",
+      "categoria": "belleza-y-cuidado-corporal"
+    }
+  ]
+}
