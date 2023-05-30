@@ -31,7 +31,7 @@ const processItems = ($, items) => {
     }
     product.interes = $(el).find(".sin-interes-label").text().trim();
     product.cuotas = $(el).find(".mus-pro-quotes").first().text().trim();
-    product.cuotas = parseInt(product.cuotas[0]);
+    product.cuotas = parseInt(product.cuotas);
     product.valorCuotas = $(el).find(".mus-pro-quotes-price").text().trim();
     product.valorCuotas = parseInt(product.valorCuotas.replace(".", ""));
     product.link = $(el).find(".mus-pro-thumb a").attr("href");
