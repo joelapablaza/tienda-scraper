@@ -58,11 +58,11 @@ const categorias = [
         }
 
         // .sc-d4c91285-0
-        const items = $(".sc-ef269aa1-2.hJAsrO");
+        const items = $(".sc-d4c91285-0.sc-d4c91285-3.fuLhbD.fvstIa");
         let itemsProcessed = 0;
 
         items.each((i, el) => {
-          const interes = $(el).find(".sc-28a904f2-1.coapDI").attr("src");
+          const interes = $(el).find(".sc-28a904f2-1.ScbvQ").attr("src");
           console.log("El interes es: ", interes);
           if (!cuotasArray.includes(interes)) {
             return;
