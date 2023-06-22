@@ -14,10 +14,10 @@ export const obtenerOfertas = async (req, res) => {
     }
 
     let ofertas;
+    const fechaInicio = new Date();
 
     // Si recibe parametro fecha por query
     if (fecha) {
-      const fechaInicio = new Date();
       fechaInicio.setDate(fechaInicio.getDate() - parseInt(fecha));
 
       ofertas = await Oferta.find({
@@ -29,7 +29,10 @@ export const obtenerOfertas = async (req, res) => {
     } else {
       const ultimaOferta = await Oferta.findOne({
         tienda: tiendaData._id,
-      }).populate("tienda");
+        fecha: { $lte: fechaInicio },
+      })
+        .populate("tienda")
+        .sort({ fecha: -1 });
 
       if (ultimaOferta) {
         ofertas = [ultimaOferta];
